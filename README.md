@@ -1,4 +1,4 @@
-![MasterHead]([https://images.squarespace-cdn.com/content/v1/60613baeccab3a31b99c1735/244b9ab9-ffa9-4d7a-ae58-3814ad45831e/Screenshot+2024-06-05+at+10.37.56+AM.png?format=500w](https://images.squarespace-cdn.com/content/v1/60613baeccab3a31b99c1735/a0afb545-693d-4855-b8de-28ed12ec1344/Screenshot+2024-06-26+at+3.11.02+AM.png?format=750w))
+![MasterHead]([https://images.squarespace-cdn.com/content/v1/60613baeccab3a31b99c1735/244b9ab9-ffa9-4d7a-ae58-3814ad45831e/Screenshot+2024-06-05+at+10.37.56+AM.png?format=500w](https://images.squarespace-cdn.com/content/v1/60613baeccab3a31b99c1735/a0afb545-693d-4855-b8de-28ed12ec1344/Screenshot+2024-06-26+at+3.11.02+AM.png?format=750w)
 <h1 align="center"> J.Marcel C.</h1>
 <h3 align="center">Geologist, Remote Sensing, Data Specialist (and owner of a Cat)</h3>
 <img align="right" alt="Coding" width="400" src=https://usagif.com/wp-content/uploads/2020/11/am0ngsusxh-71.gif">
