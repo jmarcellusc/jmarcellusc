@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/ec/e9/3c/ece93ca911ae55f73b250aec2ead1c4a.jpg)]
+[![MasterHead](https://www.napawatersheds.org/img/managed/AppPage/11088/image.jpg)]
 <h1 align="center"> J.Marcel C.</h1>
 <h3 align="center">Geologist, Remote Sensing, Data Specialist (and owner of a Cat)</h3>
 <img align="right" alt="Coding" width="400" src=https://usagif.com/wp-content/uploads/2020/11/am0ngsusxh-71.gif">
