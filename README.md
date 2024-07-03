@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmarcellusc&label=Profile%20views&color=0e75b6&style=flat" alt="jmarcellusc" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- I’m currently updating ESRI Toolkits
 
 - 📫 How to reach me **marcelluscampes@gmail.com**
 <p align="left">
