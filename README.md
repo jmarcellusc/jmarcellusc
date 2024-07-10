@@ -9,10 +9,7 @@
 
 - Email: **marcelluscampes@gmail.com**
 - Website: **https://www.jmarcelphotography.com/**
-<p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
-- Python
-- C++
-- VBA
-</p>
+Python, C++, VBA
+
