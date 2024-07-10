@@ -1,5 +1,4 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/60613baeccab3a31b99c1735/c0600aba-0d68-473b-bf0e-799ee64a5b4e/Chromatic_4_+-+2.jpg?format=500w)
-Image Source: Pixabay  (I will update the image to one of my own, **in-progress**)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/60613baeccab3a31b99c1735/c0600aba-0d68-473b-bf0e-799ee64a5b4e/Chromatic_4_+-+2.jpg?format=1000w)
 <h1 align="center">Juan Marcel Campos</h1>
 <h3 align="center">Geologist, Remote Sensing, and Cartographer</h3>
 <img align="right" alt="Coding" width="400" src=https://usagif.com/wp-content/uploads/2020/11/am0ngsusxh-71.gif">
