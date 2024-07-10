@@ -1,4 +1,4 @@
-![MasterHead](https://images.pexels.com/photos/220755/pexels-photo-220755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/60613baeccab3a31b99c1735/c0600aba-0d68-473b-bf0e-799ee64a5b4e/Chromatic_4_+-+2.jpg?format=500w)
 Image Source: Pixabay  (I will update the image to one of my own, **in-progress**)
 <h1 align="center">Juan Marcel Campos</h1>
 <h3 align="center">Geologist, Remote Sensing, and Cartographer</h3>
