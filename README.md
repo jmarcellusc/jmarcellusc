@@ -10,7 +10,7 @@
 
  - Working
    	 - **Text Correction Tool** (from Python) - Updating the Text Correction Tool (Version 3).
-   	 -  ADDED: "Custom text" to Replace between Null entries.
+   	 	-  ADDED: "Custom text" to Replace between Null entries.
 	 - **Color Extraction** (from image) - uses KMeans to extract colors and creates a PDF report. Will be native and embedded into other scripts and toolkits.
   - Status:		
 	 - **PDF Text/Latex** (with  Python) - using templates to create variable design PDF documents. Will be native and embedded into other scripts and toolkits.
