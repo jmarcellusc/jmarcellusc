@@ -10,9 +10,12 @@
 
  - Working
    	 - **Text Correction Tool** (from Python) - Updating the Text Correction Tool (Version 3).
+   	 	-  NOTES: Will continue to improved for difference aspects of text modifications.	 	
    	 	-  ADDED: "Custom text" to Replace between Null entries.
+   	  	-  STATUS: Complete, Pending metadata and upload. 
 	 - **Color Extraction** (from image) - uses KMeans to extract colors and creates a PDF report. Will be native and embedded into other scripts and toolkits.
-  - Status:		
+  		- STATUS: Stand-Alone complete. Conversion into ESRI toolscript is paused for a python library issue.
+    		- STATUS: Will expand tool to run multi-sampling and multi-threshold. Method requires targeted improvement.	
 	 - **PDF Text/Latex** (with  Python) - using templates to create variable design PDF documents. Will be native and embedded into other scripts and toolkits.
 
 <h2 align="left">Planned Work</h2>
