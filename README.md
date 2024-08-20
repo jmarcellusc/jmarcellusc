@@ -9,7 +9,7 @@
  Updating Existing Codes and Toolkits (Both ESRI, Native Python, VBA Excel and Access)
 
  - Completed
- 	- (Beta; pending real-time review)
+ 	- https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
  	- **Text Correction Tool** Version 3.0
   	- **Class Inspector** Version 2.0
  - Working
