@@ -13,8 +13,8 @@
  	- **Text Correction Tool** Version 3.0
   	- **Class Inspector** Version 2.0
  - **Working**
-   	 	-  Database Spell Checker	 
-	 - **Color Extraction** (from image) - uses KMeans to extract colors and creates a PDF report. Will be native and embedded into other scripts and toolkits.
+	-  **Database Spell Checker**	 
+	- **Color Extraction** (from image) - uses KMeans to extract colors and creates a PDF report. Will be native and embedded into other scripts and toolkits.
   		- STATUS: Stand-Alone complete. Conversion into ESRI toolscript is paused for a python library issue.
     		- STATUS: Will expand tool to run multi-sampling and multi-threshold. Method requires targeted improvement.	
 	 - **PDF Text/Latex** (with  Python) - using templates to create variable design PDF documents. Will be native and embedded into other scripts and toolkits.
