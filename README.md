@@ -8,14 +8,12 @@
 <h2 align="left">Current Work</h2>
  Updating Existing Codes and Toolkits (Both ESRI, Native Python, VBA Excel and Access)
 
- - Completed
+ - **Completed**
  	- https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
  	- **Text Correction Tool** Version 3.0
   	- **Class Inspector** Version 2.0
- - Working
-   	 	-  NOTES: Will continue to improved for difference aspects of text modifications.	 	
-   	 	-  ADDED: "Custom text" to Replace between Null entries.
-   	  	-  STATUS: Complete, Pending metadata and upload. 
+ - **Working**
+   	 	-  Database Spell Checker	 
 	 - **Color Extraction** (from image) - uses KMeans to extract colors and creates a PDF report. Will be native and embedded into other scripts and toolkits.
   		- STATUS: Stand-Alone complete. Conversion into ESRI toolscript is paused for a python library issue.
     		- STATUS: Will expand tool to run multi-sampling and multi-threshold. Method requires targeted improvement.	
