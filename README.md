@@ -8,8 +8,11 @@
 <h2 align="left">Current Work</h2>
  Updating Existing Codes and Toolkits (Both ESRI, Native Python, VBA Excel and Access)
 
+ - Completed
+ 	- (Beta; pending real-time review)
+ 	- **Text Correction Tool** Version 3.0
+  	- **Class Inspector** Version 2.0
  - Working
-   	 - **Text Correction Tool** (from Python) - Updating the Text Correction Tool (Version 3).
    	 	-  NOTES: Will continue to improved for difference aspects of text modifications.	 	
    	 	-  ADDED: "Custom text" to Replace between Null entries.
    	  	-  STATUS: Complete, Pending metadata and upload. 
