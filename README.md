@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmarcellusc&label=Profile%20views&color=0e75b6&style=flat" alt="jmarcellusc" /> </p>
 
 <h1 align="center">Juan Marcel Campos</h1>
-<h3 align="center">Geology, Cartography, Remote Sensing, Geostatistics, and GIS Analyst</h3>
+<h3 align="center"> ⇨ Geology, Cartography, Remote Sensing, Geostatistics, and GIS Analyst</h3>
 <h6 align="right">Page Updated on August, 2024</h6>
 <br></br>
 
@@ -13,6 +13,8 @@
  	- **Text Correction Tool** Version 3.0
   	- **Class Inspector** Version 2.0
  - **Working**
+	-  **GEE: Aerosols Coding: Functions, Application**	
+   	-  **Trace Elements of Soils: Notes Chapter 1 & 2**	
 	-  **Database Spell Checker**	 
 	- **Color Extraction** (from image) - uses KMeans to extract colors and creates a PDF report. Will be native and embedded into other scripts and toolkits.
   		- STATUS: Stand-Alone complete. Conversion into ESRI toolscript is paused for a python library issue.
