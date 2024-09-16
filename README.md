@@ -8,14 +8,16 @@
 <h2 align="left">Current Work</h2>
  Updating Existing Codes and Toolkits (Both ESRI, Native Python, VBA Excel and Access)
 
+ - **Active**
+ 	- Releasing Google Earth Engine-Apps Fixes; Verions 1.0b 
  - **Completed**
- 	- Added: [Google Earth Engine-Apps](https://github.com/jmarcellusc/Google-Earth-Engine/tree/main)	 	
- 	- https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
+ 	- NEW: *Testing Version:* [Google Earth Engine-Apps](https://github.com/jmarcellusc/Google-Earth-Engine/tree/main)	 	
+ 	- NEW: https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
  	- **Text Correction Tool** Version 3.0
   	- **Class Inspector** Version 2.0
  - **Working**
  	-  **Updating Github Information** 
-	-  COMPLETED: **GEE: Aerosols Coding: Functions, Application**	
+	-  COMPLETED: **~~GEE: Aerosols Coding: Functions, Application~~**	
    	-  **Trace Elements of Soils: Notes Chapter 1 & 2**	
 	-  **Database Spell Checker**	 
 	- **Color Extraction** (from image) - uses KMeans to extract colors and creates a PDF report. Will be native and embedded into other scripts and toolkits.
