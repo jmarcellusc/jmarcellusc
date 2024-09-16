@@ -14,8 +14,8 @@
  	- **Text Correction Tool** Version 3.0
   	- **Class Inspector** Version 2.0
  - **Working**
- 	- **Updating Github Information** 
-	-  **GEE: Aerosols Coding: Functions, Application**	
+ 	-  **Updating Github Information** 
+	-  COMPLETED: **GEE: Aerosols Coding: Functions, Application**	
    	-  **Trace Elements of Soils: Notes Chapter 1 & 2**	
 	-  **Database Spell Checker**	 
 	- **Color Extraction** (from image) - uses KMeans to extract colors and creates a PDF report. Will be native and embedded into other scripts and toolkits.
