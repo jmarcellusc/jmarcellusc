@@ -9,7 +9,7 @@
  Updating Existing Codes and Toolkits (Both ESRI, Native Python, VBA Excel and Access)
 
  - **Active**
- 	- Releasing Google Earth Engine-Apps Fixes; Verions 1.0b 
+ 	- Releasing Google Earth Engine-Apps Fixes; Verions 1.0c
  - **Completed**
  	- NEW: *Testing Version:* [Google Earth Engine-Apps](https://github.com/jmarcellusc/Google-Earth-Engine/tree/main)	 	
  	- NEW: https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
