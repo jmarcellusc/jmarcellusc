@@ -14,14 +14,14 @@
  	- Releasing Google Earth Engine-Apps Fixes; Verions 1.0c
   		- Known Issues {Incorrect Footer Date, MinMax issues with Sentinel 5}
  - **Completed**
- 	- NEW: *Testing Version:* [Google Earth Engine-Apps](https://github.com/jmarcellusc/Google-Earth-Engine/tree/main)
-  		- Added: Surface Wetlands Visualization Tool (Testing) 		 	
+ 	- **Google Earth Engine** - [Wetland Evalution App](https://ee-marcelluscampes.projects.earthengine.app/view/surface-wetland-visualization-tool-v10a)
+  	- ** Google Earth Engine** - [Aerosols Examiner App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d)
+ 	- NEW: *Testing Version:* [Google Earth Engine-Apps](https://github.com/jmarcellusc/Google-Earth-Engine/tree/main)	 	
  	- NEW: https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
  	- **Text Correction Tool** Version 3.0
   	- **Class Inspector** Version 2.0
- - **Working**
- 	-  **Updating Github Information** 
-	-  COMPLETED: **~~GEE: Aerosols Coding: Functions, Application~~**	
+ - **Archive**
+ 	-  *Testing Version:* [Google Earth Engine-Apps](https://github.com/jmarcellusc/Google-Earth-Engine/tree/main)	
    	-  **Trace Elements of Soils: Notes Chapter 1 & 2**	
 	-  **Database Spell Checker**	 
 	- **Color Extraction** (from image) - uses KMeans to extract colors and creates a PDF report. Will be native and embedded into other scripts and toolkits.
