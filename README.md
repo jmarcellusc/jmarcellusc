@@ -9,14 +9,16 @@
  Updating Existing Codes and Toolkits (Both ESRI, Native Python, VBA Excel and Access)
 
  - **Active**
+ 	- Vector Line Quality Control ESRI Tool
+ 	- LiDAR Python Class/Tool
+ 	- Geological Unit Code Tool - ESRI Tool
  	- Google Earth Engine: Wetland Evaulation App
- 	- ESRI Global ID Tool (various process ESRI tool)
+ 	- ESRI Global ID Tool (various process ESRI Tool)
  	- Releasing Google Earth Engine-Apps Fixes; Verions 1.0c
   		- Known Issues {Incorrect Footer Date, MinMax issues with Sentinel 5}
  - **Completed**
  	- **Google Earth Engine** - [Wetland Evalution App](https://ee-marcelluscampes.projects.earthengine.app/view/surface-wetland-visualization-tool-v10a)
-  	- **Google Earth Engine** - [Aerosols Examiner App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d)
- 	- NEW: *Testing Version:* [Google Earth Engine-Apps](https://github.com/jmarcellusc/Google-Earth-Engine/tree/main)	 	
+  	- **Google Earth Engine** - [Aerosols Examiner App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) 	
  	- NEW: https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
  	- **Text Correction Tool** Version 3.0
   	- **Class Inspector** Version 2.0
