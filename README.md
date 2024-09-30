@@ -8,6 +8,9 @@
 <h2 align="left">Current Work</h2>
  Updating Existing Codes and Toolkits (Both ESRI, Native Python, VBA Excel and Access)
 
+ - **Planned**
+ 	- Google Earth Engine - Soils Tool
+  	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
  - **Active**
  	- Vector Line Quality Control ESRI Tool
  	- LiDAR Python Class/Tool
