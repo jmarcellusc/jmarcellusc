@@ -20,7 +20,7 @@
  	- Releasing Google Earth Engine-Apps Fixes; Verions 1.0c
   		- Known Issues {Incorrect Footer Date, MinMax issues with Sentinel 5}
  - **Completed**
- 	- **Google Earth Engine** - [temp_Soils App 1a](https://www.google.com)
+ 	- **Google Earth Engine** - [temp_Soils App 1a](https://ee-marcelluscampes.projects.earthengine.app/view/tempsoils-app-1a)
  	- **Google Earth Engine** - [Wetland Evalution App](https://ee-marcelluscampes.projects.earthengine.app/view/surface-wetland-visualization-tool-v10a)
   	- **Google Earth Engine** - [Aerosols Examiner App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) 	
  	- NEW: https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
