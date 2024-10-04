@@ -9,7 +9,7 @@
  Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
  - **Planned**
- 	- Google Earth Engine - Soils Tool
+ 	- Google Earth Engine - Soils Tool (Temp: "Soils App" - uploaded; missing legend, partial datasets, menu-system)
   	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
  - **Active**
  	- Vector Line Quality Control ESRI Tool
@@ -20,6 +20,7 @@
  	- Releasing Google Earth Engine-Apps Fixes; Verions 1.0c
   		- Known Issues {Incorrect Footer Date, MinMax issues with Sentinel 5}
  - **Completed**
+ 	- **Google Earth Engine** - [temp_Soils App 1a](https://www.google.com)
  	- **Google Earth Engine** - [Wetland Evalution App](https://ee-marcelluscampes.projects.earthengine.app/view/surface-wetland-visualization-tool-v10a)
   	- **Google Earth Engine** - [Aerosols Examiner App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) 	
  	- NEW: https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
