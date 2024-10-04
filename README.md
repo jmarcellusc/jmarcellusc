@@ -12,8 +12,9 @@
  	- Google Earth Engine - Soils Tool (Temp: "Soils App" - uploaded; missing legend, partial datasets, menu-system)
   	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
  - **Active**
- 	- Vector Line Quality Control ESRI Tool
- 	- LiDAR Python Class/Tool
+ 	- Google Earth Engine - Soils App **NEW**
+ 	- LiDAR Python Class/Tool **WORKING**
+  	- Vector Line Quality Control ESRI Tool
  	- Geological Unit Code Tool - ESRI Tool
  	- Google Earth Engine: Wetland Evaulation App
  	- ESRI Global ID Tool (various process ESRI Tool)
