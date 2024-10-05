@@ -9,7 +9,7 @@
  Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
  - **Planned**
- 	- Google Earth Engine - Soils Tool (Temp: "Soils App 1b" - uploaded; missing legend, partial datasets, menu-system)
+ 	- Google Earth Engine - Soils Tool (Temp: "Soils App 1b" - **NOTES:**; missing legend, partial datasets, menu-system)
   	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
  - **Active**
  	- Google Earth Engine - Soils App ~ **[NEW]**
