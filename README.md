@@ -12,7 +12,7 @@
  	- Google Earth Engine - Soils Tool (Temp: "Soils App 1c" - **NOTES:**; Partial Datasets, Passcode-System)
   	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
  - **Active**
- 	- Google Earth Engine - Soils App ~ **[NEW]**
+ 	- Google Earth Engine - Soils App ~ **[NEW - WORKING]**
  	- LiDAR Python Class/Tool ~ **[WORKING]**
   	- Vector Line Quality Control ESRI Tool
  	- Geological Unit Code Tool - ESRI Tool
