@@ -9,6 +9,7 @@
  Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
  - **Planned**
+ 	- Google Earth Engine - Wetlands Tool (in-Progress: "Wetlands Exploratory Tool" v1.0b  **To Append:** Generalization, Chart Production
  	- Google Earth Engine - Soils Tool (Temp: "Soils App 1d" - **To Append:** Elevation (&derivatives) Binning, Charts Production
   	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
  - **Active**
@@ -22,7 +23,7 @@
   		- Known Issues {Incorrect Footer Date, MinMax issues with Sentinel 5}
  - **Completed**
  	- **Google Earth Engine** - [Soils App - Temp 1d](https://ee-marcelluscampes.projects.earthengine.app/view/soil-exploratory-app-in-progress-v10d)
- 	- **Google Earth Engine** - [Wetland Evalution App](https://ee-marcelluscampes.projects.earthengine.app/view/surface-wetland-visualization-tool-v10a)
+ 	- **Google Earth Engine** - [Wetland Evalution App](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploratory-tool-in-progress-v10b)
   	- **Google Earth Engine** - [Aerosols Examiner App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) 	
  	- NEW: https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
  	- **Text Correction Tool** Version 3.0
