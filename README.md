@@ -13,6 +13,7 @@
  	- Google Earth Engine - Wetlands Exploratory Tool" v1.0d -  **To Append:** Generalization, Chart Production
  	- Google Earth Engine - Soils Exploratory Tool v1.1b - **To Append:** Issues: Reset for Binning, Data Boundaries (Outside Edge Notice), Color Palette Processing Time, Increase Step Size for Extensive Range Elevation. Introduce Slope and Aspect
   	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
+
  - **Active**
  	- Google Earth Engine - Soils App ~ **[NEW - WORKING]**
  	- LiDAR Python Class/Tool ~ **[WORKING]**
@@ -22,6 +23,7 @@
  	- ESRI Global ID Tool (various process ESRI Tool)
  	- Releasing Google Earth Engine-Apps Fixes; Verions 1.0c
   		- Known Issues {Incorrect Footer Date, MinMax issues with Sentinel 5}
+
  - **Completed**
  	- **Google Earth Engine** - [Soils Exploratory Tool v1.1a](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11a)
  	- **Google Earth Engine** - [Wetland Exploratory Tool v1.0c](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploratory-tool-in-progress-v10c)
@@ -29,6 +31,7 @@
  	- NEW: https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
  	- **Text Correction Tool** Version 3.0
   	- **Class Inspector** Version 2.0
+
  - **Archive**
  	-  *Testing Version:* [Google Earth Engine-Apps](https://github.com/jmarcellusc/Google-Earth-Engine/tree/main)	
    	-  **Trace Elements of Soils: Notes Chapter 1 & 2**	
