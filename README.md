@@ -9,6 +9,7 @@
  Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
  - **Planned**
+ 	- Chat GPT Query (python)
  	- Google Earth Engine - Wetlands Exploratory Tool" v1.0d -  **To Append:** Generalization, Chart Production
  	- Google Earth Engine - Soils Exploratory Tool v1.1b - **To Append:** Issues: Reset for Binning, Data Boundaries (Outside Edge Notice), Color Palette Processing Time, Increase Step Size for Extensive Range Elevation. Introduce Slope and Aspect
   	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
