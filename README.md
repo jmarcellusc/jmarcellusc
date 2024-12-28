@@ -29,6 +29,8 @@
   		- Known Issues {Incorrect Footer Date, MinMax issues with Sentinel 5}
 
  - **Completed**
+ 	- CMYK Palette Generator - [https://github.com/jmarcellusc/CMYK-Palette-Generator](Link)
+  	- ReverseGeocode - [https://github.com/jmarcellusc/ReverseGeocode](Link)  
  	- **Google Earth Engine** - [Soils Exploratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b)
  	- **Google Earth Engine** - [Wetland Exploratory Tool v1.0c](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploratory-tool-in-progress-v10c)
   	- **Google Earth Engine** - [Aerosols Examiner App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) 	
@@ -37,6 +39,7 @@
   	- **Class Inspector** Version 2.0
 
  - **Archive**
+ 	- Graphic Design Scheme Generator: "Graphic Design Scheme" 	
  	-  *Testing Version:* [Google Earth Engine-Apps](https://github.com/jmarcellusc/Google-Earth-Engine/tree/main)	
    	-  **Trace Elements of Soils: Notes Chapter 1 & 2**	
 	-  **Database Spell Checker**	 
