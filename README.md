@@ -18,13 +18,13 @@
  	- Google Earth Engine - Soils Exploratory Tool v1.1b - **To Append:** Issues: Reset for Binning, Data Boundaries (Outside Edge Notice), Color Palette Processing Time, Increase Step Size for Extensive Range Elevation. Introduce Slope and Aspect
 
  - **Active**
+ 	- LiDAR Python Class/Tool ~ **[WORKING] Upgraded to High Priorty**
+  	- Google Earth Engine - Soils App ~ **[NEW - WORKING]**
  	- Python Small GIS Projects:
   		- **COMPLETED:** [https://github.com/jmarcellusc/CMYK-Palette-Generator](CMYK Palette Generator)
     	- **COMPLETED:** [https://github.com/jmarcellusc/ReverseGeocode](ReverseGeocode)
     	- **DELAYED**: ESRI Shapefile Integrity (QA for Shapefiles)
     	- **UPDATING:** ChatGPT Query (produces Markdown pages)	
- 	- Google Earth Engine - Soils App ~ **[NEW - WORKING]**
- 	- LiDAR Python Class/Tool ~ **[WORKING]**
   	- Vector Line Quality Control ESRI Tool
  	- Geological Unit Code Tool - ESRI Tool
  	- Google Earth Engine: Wetland Evaulation App
