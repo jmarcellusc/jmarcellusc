@@ -19,8 +19,8 @@
 
  - **Active**
  	- Python Small GIS Projects:
-  		- **COMPLETED:** [https://github.com/jmarcellusc/CMYK-Palette-Generator](Graphic Design Scheme (CMYK Palette Generator)")
-    		- **COMPLETED:** [https://github.com/jmarcellusc/ReverseGeocode](ReverseGeocode)
+  		- **COMPLETED:** [https://github.com/jmarcellusc/CMYK-Palette-Generator](CMYK Palette Generator)
+    - **COMPLETED:** [https://github.com/jmarcellusc/ReverseGeocode](ReverseGeocode)
     		- **DELAYED**: ESRI Shapefile Integrity (QA for Shapefiles)
       		- **UPDATING:** ChatGPT Query (produces Markdown pages)	
  	- Google Earth Engine - Soils App ~ **[NEW - WORKING]**
