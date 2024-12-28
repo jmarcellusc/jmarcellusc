@@ -19,7 +19,7 @@
 
  - **Active**
  	- LiDAR Python Class/Tool ~ **[WORKING] Upgraded to High Priorty**
-  	- Google Earth Engine - Soils App ~ **[NEW - WORKING]**
+  	- Google Earth Engine - Soils App ~ **[WORKING] Upgraded to High Priorty**
  	- Python Small GIS Projects:
   		- **COMPLETED:** [https://github.com/jmarcellusc/CMYK-Palette-Generator](CMYK Palette Generator)
     	- **COMPLETED:** [https://github.com/jmarcellusc/ReverseGeocode](ReverseGeocode)
