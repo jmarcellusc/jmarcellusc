@@ -21,9 +21,9 @@
  	- LiDAR Python Class/Tool ~ **[WORKING] Upgraded to High Priorty**
   	- Google Earth Engine - Soils App ~ **[WORKING] Upgraded to High Priorty**
  	- Python Small GIS Projects:
-  		- **COMPLETED:** [https://github.com/jmarcellusc/CMYK-Palette-Generator](CMYK Palette Generator)
-    	- **COMPLETED:** [https://github.com/jmarcellusc/PDF-Metadata-Updater](PDF Metadata Updater)
-    	- **COMPLETED:** [https://github.com/jmarcellusc/ReverseGeocode](ReverseGeocode)
+  		- **COMPLETED:** [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator)
+    	- **COMPLETED:** [PDF Metadata Updater](https://github.com/jmarcellusc/PDF-Metadata-Updater)
+    	- **COMPLETED:** [ReverseGeocode](https://github.com/jmarcellusc/ReverseGeocode)
     	- **DELAYED**: ESRI Shapefile Integrity (QA for Shapefiles)
     	- **UPDATING:** ChatGPT Query (produces Markdown pages)	
   	- Vector Line Quality Control ESRI Tool
@@ -35,8 +35,8 @@
 
  - **Completed**
  	- PDF Metadata Updater - [Link](https://github.com/jmarcellusc/PDF-Metadata-Updater)
- 	- CMYK Palette Generator - [https://github.com/jmarcellusc/CMYK-Palette-Generator](Link)
-  	- ReverseGeocode - [https://github.com/jmarcellusc/ReverseGeocode](Link)  
+ 	- CMYK Palette Generator - [Link](https://github.com/jmarcellusc/CMYK-Palette-Generator)
+  	- ReverseGeocode - [Link](https://github.com/jmarcellusc/ReverseGeocode) 
  	- **Google Earth Engine** - [Soils Exploratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b)
  	- **Google Earth Engine** - [Wetland Exploratory Tool v1.0c](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploratory-tool-in-progress-v10c)
   	- **Google Earth Engine** - [Aerosols Examiner App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) 	
