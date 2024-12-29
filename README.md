@@ -34,6 +34,7 @@
   		- Known Issues {Incorrect Footer Date, MinMax issues with Sentinel 5}
 
  - **Completed**
+ 	- PDF Metadata Updater - [https://github.com/jmarcellusc/PDF-Metadata-Updater](Link)
  	- CMYK Palette Generator - [https://github.com/jmarcellusc/CMYK-Palette-Generator](Link)
   	- ReverseGeocode - [https://github.com/jmarcellusc/ReverseGeocode](Link)  
  	- **Google Earth Engine** - [Soils Exploratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b)
