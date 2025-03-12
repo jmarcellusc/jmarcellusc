@@ -8,6 +8,35 @@
 <h2 align="left">Current Work</h2>
  Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
+ - **Updated**
+ 	- LiDAR Toolkit Processer (Multicore Thread Processing)
+   		- Current Batch Tools:
+   			- Conversion: LAZ to LAS
+      			- Filter by Classification
+         		- Filter: Extended Local Minimum
+           		- Filter: Outlier: Radial or Statistical
+             		- Filter: Simple Morphological
+               		- Filter: Ground Filter Generalized
+			- Conversion: LAS to Tiff
+     		- Additional Tools and Filters will be added. Give Credit to [PDAL](https://pdal.io/en/2.8.4/) 	
+     	- LiDAR Secondary Toolkit (Mutlicore Thread Processing)
+      		- Current Batch Tools:
+        		-  Process: Equal Area Segmentation
+          		- Filter: Elevation Outlier by Threshold
+            		- Filter: Smooth LAS
+              			- Will depreciated and move functionalites to LiDAR Toolkit Processor
+ 	- XML Editor Conversion
+  		- Runs xml extraction into Excel Macro database. Eases in xml replication, modification, and editing, particular to ESRI metadata.
+    		- Current Batch Tools:
+      			- Extract Metadata (xml >> excel)
+         		- Update Metadata (xml >> excel >> xml)
+           		- Create Metadata (excel >> xml)
+     		- PDF Metadata Updater:
+     			- Reads Excel Macro database (inventory of pdf metadata) and appends metadata to PDF with advance customizability.
+        		- Currently single file selection with selectable metadata record injection.
+          - Additional Single Functionlities Toolkits
+          	- SAS Conversion
+          	- Graphic Design CMYK Template Generator    		 	  	     	   
  - **Planned**
  	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
 		- Reclassification with Parallel Processing
