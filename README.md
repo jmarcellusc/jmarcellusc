@@ -15,16 +15,16 @@
       		- Filter by Classification
          	- Filter: Extended Local Minimum
            	- Filter: Outlier: Radial or Statistical
-             	- Filter: Simple Morphological
-               	- Filter: Ground Filter Generalized
+          - Filter: Simple Morphological
+          - Filter: Ground Filter Generalized
 		- Conversion: LAS to Tiff
      		- Additional Tools and Filters will be added. Give Credit to [PDAL](https://pdal.io/en/2.8.4/) 	
-     	- LiDAR Secondary Toolkit (Mutlicore Thread Processing)
-      		- Current Batch Tools:
-        		-  Process: Equal Area Segmentation
-          		- Filter: Elevation Outlier by Threshold
-            		- Filter: Smooth LAS
-              			- Will depreciated and move functionalites to LiDAR Toolkit Processor
+    - LiDAR Secondary Toolkit (Mutlicore Thread Processing)
+      - Current Batch Tools:
+        -  Process: Equal Area Segmentation
+          - Filter: Elevation Outlier by Threshold
+            - Filter: Smooth LAS
+              - Will depreciated and move functionalites to LiDAR Toolkit Processor
  	- XML Editor Conversion
   		- Runs xml extraction into Excel Macro database. Eases in xml replication, modification, and editing, particular to ESRI metadata.
     		- Current Batch Tools:
