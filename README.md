@@ -34,9 +34,9 @@
     - PDF Metadata Updater:
      	- Reads Excel Macro database (inventory of pdf metadata) and appends metadata to PDF with advance customizability.
         		- Currently single file selection with selectable metadata record injection.
-- Additional Single Functionlities Toolkits
-          - SAS Conversion
-          - Graphic Design CMYK Template Generator    		 	  	     	   
+	- Additional Single Functionlities Toolkits
+ 	- SAS Conversion
+  	- Graphic Design CMYK Template Generator    		 	  	     	   
  - **Planned**
  	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
 		- Reclassification with Parallel Processing
