@@ -12,12 +12,12 @@
  	- LiDAR Toolkit Processer (Multicore Thread Processing)
    		- Current Batch Tools:
    			- Conversion: LAZ to LAS
-      			- Filter by Classification
-         		- Filter: Extended Local Minimum
-           		- Filter: Outlier: Radial or Statistical
-             		- Filter: Simple Morphological
-               		- Filter: Ground Filter Generalized
-			- Conversion: LAS to Tiff
+      		- Filter by Classification
+         	- Filter: Extended Local Minimum
+           	- Filter: Outlier: Radial or Statistical
+             	- Filter: Simple Morphological
+               	- Filter: Ground Filter Generalized
+		- Conversion: LAS to Tiff
      		- Additional Tools and Filters will be added. Give Credit to [PDAL](https://pdal.io/en/2.8.4/) 	
      	- LiDAR Secondary Toolkit (Mutlicore Thread Processing)
       		- Current Batch Tools:
