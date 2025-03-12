@@ -31,10 +31,10 @@
       			- Extract Metadata (xml >> excel)
          		- Update Metadata (xml >> excel >> xml)
            		- Create Metadata (excel >> xml)
-     	- PDF Metadata Updater:
+    - PDF Metadata Updater:
      	- Reads Excel Macro database (inventory of pdf metadata) and appends metadata to PDF with advance customizability.
         		- Currently single file selection with selectable metadata record injection.
-        - Additional Single Functionlities Toolkits
+- Additional Single Functionlities Toolkits
           - SAS Conversion
           - Graphic Design CMYK Template Generator    		 	  	     	   
  - **Planned**
