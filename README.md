@@ -35,20 +35,21 @@
      	- Reads Excel Macro database (inventory of pdf metadata) and appends metadata to PDF with advance customizability.
         		- Currently single file selection with selectable metadata record injection.
 	- Additional Single Functionlities Toolkits
- 	- SAS Conversion
-  	- Graphic Design CMYK Template Generator    		 	  	     	   
+ 		- SAS Conversion
+  		- Graphic Design CMYK Template Generator    		 	  	     	   
  - **Planned**
- 	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
+ 	- (**UPDATE:** Will incorporate into LiDAR Toolkit Procssor) ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
 		- Reclassification with Parallel Processing
   		- Sink Detection
-  	- Google Earth Engine - Landslides Exploratory Tool v1.0a - **Initiated** Not posted and delayed due to other higher priority projects.
+    		- Interpolation 
+  	- (**Paused:**) Google Earth Engine - Landslides Exploratory Tool v1.0a - **Initiated** Not posted and delayed due to other higher priority projects.
  	- ***Fix Errors: Google Earth Engine - Soils App: {Incorrect Bin Statement, Append Slope, Menu-Fixes}***
  	- Google Earth Engine - Wetlands Exploratory Tool v1.0d -  **To Append:** Generalization, Chart Production
  	- Google Earth Engine - Soils Exploratory Tool v1.1b - **To Append:** Issues: Reset for Binning, Data Boundaries (Outside Edge Notice), Color Palette Processing Time, Increase Step Size for Extensive Range Elevation. Introduce Slope and Aspect
 
  - **Active**
- 	- LiDAR Python Class/Tool ~ **[WORKING] Upgraded to High Priorty**
-  	- Google Earth Engine - Soils App ~ **[WORKING] Upgraded to High Priorty**
+ 	- LiDAR Python Class/Tool ~ **[COMPLETED] Upgraded Additional Filters**
+  	- Google Earth Engine - Soils App ~ **[PAUSED] Downgraded to Low Priorty**
  	- Python Small GIS Projects:
   		- **COMPLETED:** [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator)
     	- **COMPLETED:** [PDF Metadata Updater](https://github.com/jmarcellusc/PDF-Metadata-Updater)
