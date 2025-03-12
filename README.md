@@ -17,7 +17,7 @@
            	- Filter: Outlier: Radial or Statistical
           - Filter: Simple Morphological
           - Filter: Ground Filter Generalized
-			- Conversion: LAS to Tiff
+		- Conversion: LAS to Tiff
      			- Additional Tools and Filters will be added. Give Credit to [PDAL](https://pdal.io/en/2.8.4/) 	
     - LiDAR Secondary Toolkit (Mutlicore Thread Processing)
       - Current Batch Tools:
@@ -31,12 +31,12 @@
       			- Extract Metadata (xml >> excel)
          		- Update Metadata (xml >> excel >> xml)
            		- Create Metadata (excel >> xml)
-     		- PDF Metadata Updater:
-     			- Reads Excel Macro database (inventory of pdf metadata) and appends metadata to PDF with advance customizability.
+     	- PDF Metadata Updater:
+     	- Reads Excel Macro database (inventory of pdf metadata) and appends metadata to PDF with advance customizability.
         		- Currently single file selection with selectable metadata record injection.
-          - Additional Single Functionlities Toolkits
-          	- SAS Conversion
-          	- Graphic Design CMYK Template Generator    		 	  	     	   
+        - Additional Single Functionlities Toolkits
+          - SAS Conversion
+          - Graphic Design CMYK Template Generator    		 	  	     	   
  - **Planned**
  	- ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
 		- Reclassification with Parallel Processing
