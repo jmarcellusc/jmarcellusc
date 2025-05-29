@@ -11,7 +11,7 @@
  - **Updated**
  	- NEW: ESRI Interactive Web Applications:
   		-  [World Minerals Dashboard](https://experience.arcgis.com/experience/e5843988a123402eb14498b270a9fa1f)
-    		- [Houston-Galveston Area Council Hurricane Evacuation Dashboard](www.google.com)  
+    -  [Houston-Galveston Area Council Hurricane Evacuation Dashboard](https://experience.arcgis.com/experience/d24314506471423f98b5252a1b7f5f0f)  
  	- LiDAR Toolkit Processer (Multicore Thread Processing)
    		- Current Batch Tools:
    			- Conversion: LAZ to LAS
