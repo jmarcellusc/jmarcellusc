@@ -9,6 +9,9 @@
  Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
  - **Updated**
+ 	- NEW: ESRI Interactive Web Applications:
+  		-  [World Minerals Dashboard](https://experience.arcgis.com/experience/e5843988a123402eb14498b270a9fa1f)
+    		- [Houston-Galveston Area Council Hurricane Evacuation Dashboard](www.google.com)  
  	- LiDAR Toolkit Processer (Multicore Thread Processing)
    		- Current Batch Tools:
    			- Conversion: LAZ to LAS
