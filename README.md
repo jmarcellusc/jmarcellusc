@@ -11,7 +11,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 
 ### **Updated**
   - **IN-PROGRESS:**  XML ESRI Metadata Toolkit:  Revising Code
-  - **NEW** GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet]() 
+  - **NEW** GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0) 
   - **NEW:** PDF Toolkit v1b: [Download](https://www.dropbox.com/scl/fi/kdvribiwzg1kmj6amwh6r/PDF-Toolkit-v1b.zip?rlkey=p1gjp84z4byf520ozj6ceii6m&st=kye2vhns&dl=0) - Requires [Excel Metadata Database/Form](https://www.dropbox.com/scl/fi/8ucgwe12epf82hv99cjpc/PDF_MetadataDB.zip?rlkey=6ybfdbmpa9md1xoxyqazq47bd&st=zk7terxz&dl=0)
   - **NEW:** Download Toolkit v1c: [Download](https://www.dropbox.com/scl/fi/d1tfjve7sfntyfiskfhnx/Download-Toolkit-v1c.zip?rlkey=gjr9af5zkx8uhducskyfl6km2&st=ypvjrr2d&dl=0)
   - **PLANNED**
