@@ -10,6 +10,9 @@
 Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
 - **Updated**
+  - In-Progress:  XML ESRI Metadata Toolkit:  Revising Code
+  - NEW: PDF Toolkit v1a: [Download](https://www.dropbox.com/scl/fi/cyx53dwh4oiwoeqgs9cij/PDF-Toolkit-v1a.zip?rlkey=oqp3w1rmeuh5x09yba4a0hapf&st=41l5a4e1&dl=0)
+    - Requires Excel PDF Metadata Database: Pending upload
   - NEW: Download Toolkit v1c: [Download](https://www.dropbox.com/scl/fi/d1tfjve7sfntyfiskfhnx/Download-Toolkit-v1c.zip?rlkey=gjr9af5zkx8uhducskyfl6km2&st=ypvjrr2d&dl=0)
   - In Progress: ESRI Interactive Web Applications:
     - PDF Metadata Toolkit - Requires Minor Conversion
