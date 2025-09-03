@@ -47,14 +47,13 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 ## Timeline
 ### **Mid 2025**
   - **IN-PROGRESS:**  XML ESRI Metadata Toolkit:  Revising Code
-  - **IN_PPROGRESS**  CMYK Palette Generator: Revising Code
+  - **IN-PPROGRESS**  CMYK Palette Generator: Revising Code, conversion to executable
   - **NEW** GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet]
   - **NEW:** PDF Toolkit v1b: [Download] - Requires [Excel Metadata Database/Form]
   - **NEW:** Download Toolkit v1c
   - **PLANNED**
     - Lidar Toolkit - various functionalites 
     - Wold Minerals Dashboard (ESRI Hosting Cost is expensive, Will be migrating to Square Space)
-    - CMYK Palette Generator - Conversion to Executable
     - Reverse Geocode - Conversion to ESRI Geoprocessing
     - Neatline Tool - Revision
     - Update Google Earth Engine Current Applications - (Update additional timeframe)
