@@ -12,6 +12,16 @@ Juan-Marcel Campos is a geospatial and data analytics researcher dedicated to ad
 ## Current Work
 Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
+## Web Applications
+### Google Earth Engine
+  - [Wetland Exploration Tool v1.0c](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploratory-tool-in-progress-v10c) - [Requires Updating 2024 & 2025]
+  - [Soils Expliratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b)
+  - [Topographic Terrain Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector)
+  - [Politcial Boundary v1](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection)
+  - [Aerosols Exaiminer Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) - [Issues documented, requires recoding.]
+### ESRI 
+  - [World Minerals Dashboard](https://experience.arcgis.com/experience/e5843988a123402eb14498b270a9fa1f) - [In-Progress, possibly moving to different host.]
+
 ### **Mid 2025**
   - **IN-PROGRESS:**  XML ESRI Metadata Toolkit:  Revising Code
   - **NEW** GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0) 
