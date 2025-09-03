@@ -28,11 +28,11 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 #### Documents and Images
   - PDF Toolkit v1b: [Download](https://www.dropbox.com/scl/fi/kdvribiwzg1kmj6amwh6r/PDF-Toolkit-v1b.zip?rlkey=p1gjp84z4byf520ozj6ceii6m&st=kye2vhns&dl=0) - Requires [Excel Metadata Database/Form](https://www.dropbox.com/scl/fi/8ucgwe12epf82hv99cjpc/PDF_MetadataDB.zip?rlkey=6ybfdbmpa9md1xoxyqazq47bd&st=gm6o3f5v&dl=0)
   - [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator)
-  - OCR Functionalies and Extractions (Planned)
+
 #### Data
   - Download Toolkit v1c: [Download](https://www.dropbox.com/scl/fi/d1tfjve7sfntyfiskfhnx/Download-Toolkit-v1c.zip?rlkey=gjr9af5zkx8uhducskyfl6km2&st=ypvjrr2d&dl=0)
+  - [SAS Converter](https://www.dropbox.com/scl/fi/vppja9koesu2rxiaibr6d/SAS-Converter-v1b.zip?rlkey=haqvy27qxvobalris3ovlcv3n&st=xy1v027i&dl=0) - Respectful source credit:  Jared Hobbs [sas7bdat](https://bitbucket.org/jaredhobbs/sas7bdat/src/master/)
   - [VBA Excel Collection Scripts](https://github.com/jmarcellusc/VBA-Excel)
-  - SAS Converter - Respectful source credit:  Jared Hobbs [sas7bdat](https://bitbucket.org/jaredhobbs/sas7bdat/src/master/)
 
 <br>
 
@@ -57,6 +57,8 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
     - Reverse Geocode - Conversion to ESRI Geoprocessing
     - Neatline Tool - Revision
     - Update Google Earth Engine Current Applications - (Update additional timeframe)
+    - GeMS Additional Mapping Toolkits
+    - OCR Functionalies and Extractions
    
 <br>
 
