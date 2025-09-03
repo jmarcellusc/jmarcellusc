@@ -38,7 +38,8 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 
 <br>
 <br>
-
+<br>
+## Timeline
 ### **Mid 2025**
   - **IN-PROGRESS:**  XML ESRI Metadata Toolkit:  Revising Code
   - **NEW** GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet]
@@ -51,6 +52,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
     - Neatline Tool - Revision
     - Update Google Earth Engine Current Applications - (Update additional timeframe)
    
+<br>
 
 ### **Early 2025**
    - In Progress: ESRI Interactive Web Applications:
@@ -95,6 +97,8 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
   - ***Fix Errors: Google Earth Engine - Soils App: {Incorrect Bin Statement, Append Slope, Menu-Fixes}***
   - Google Earth Engine - Wetlands Exploratory Tool v1.0d - **To Append:** Generalization, Chart Production
   - Google Earth Engine - Soils Exploratory Tool v1.1b - **To Append:** Issues: Reset for Binning, Data Boundaries (Outside Edge Notice), Color Palette Processing Time, Increase Step Size for Extensive Range Elevation. Introduce Slope and Aspect
+
+<br>
 
 - **Active**
   - LiDAR Python Class/Tool ~ **[COMPLETED] Upgraded Additional Filters**
