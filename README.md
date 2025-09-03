@@ -47,6 +47,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 ## Timeline
 ### **Mid 2025**
   - **IN-PROGRESS:**  XML ESRI Metadata Toolkit:  Revising Code
+  - **IN_PPROGRESS**  CMYK Palette Generator: Revising Code
   - **NEW** GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet]
   - **NEW:** PDF Toolkit v1b: [Download] - Requires [Excel Metadata Database/Form]
   - **NEW:** Download Toolkit v1c
