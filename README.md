@@ -31,6 +31,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 
 #### Data
   - Download Toolkit v1c
+  - [XML Toolkit v1b](https://www.dropbox.com/scl/fi/4nduxh4hhux7rvugnf920/XML-Toolkit-v1b.zip?rlkey=5k36dvn4skjbdha7wuifax6eb&st=91mwivf3&dl=0) - [Working, Minor Issues]
   - [SAS Converter](https://www.dropbox.com/scl/fi/vppja9koesu2rxiaibr6d/SAS-Converter-v1b.zip?rlkey=haqvy27qxvobalris3ovlcv3n&st=xy1v027i&dl=0) - Respectful source credit:  Jared Hobbs [sas7bdat](https://bitbucket.org/jaredhobbs/sas7bdat/src/master/)
   - [VBA Excel Collection Scripts](https://github.com/jmarcellusc/VBA-Excel)
 
@@ -46,7 +47,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 
 ## Timeline
 ### **Mid 2025**
-  - **IN-PROGRESS:**  XML ESRI Metadata Toolkit:  Revising Code
+  - **NEW:**  XML ESRI Metadata Toolkit:  Revising Code
   - **IN-PPROGRESS**  CMYK Palette Generator: Revising Code, conversion to executable
   - **NEW** GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet]
   - **NEW:** PDF Toolkit v1b: [Download] - Requires [Excel Metadata Database/Form]
