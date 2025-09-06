@@ -26,8 +26,8 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 
 ## Documentation Processing Applications
 #### Documents and Images
-  - [PDF Toolkit v1b](https://www.dropbox.com/scl/fi/kdvribiwzg1kmj6amwh6r/PDF-Toolkit-v1b.zip?rlkey=p1gjp84z4byf520ozj6ceii6m&st=kye2vhns&dl=0) - Requires [Excel Metadata Database/Form](https://www.dropbox.com/scl/fi/8ucgwe12epf82hv99cjpc/PDF_MetadataDB.zip?rlkey=6ybfdbmpa9md1xoxyqazq47bd&st=gm6o3f5v&dl=0)
-  - [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator)
+  - [PDF Toolkit v1b](https://www.dropbox.com/scl/fi/kdvribiwzg1kmj6amwh6r/PDF-Toolkit-v1b.zip?rlkey=p1gjp84z4byf520ozj6ceii6m&st=kye2vhns&dl=0) - [Requires [Excel Metadata Database/Form](https://www.dropbox.com/scl/fi/8ucgwe12epf82hv99cjpc/PDF_MetadataDB.zip?rlkey=6ybfdbmpa9md1xoxyqazq47bd&st=gm6o3f5v&dl=0)]
+  - [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator) - [Actively Updating]
 
 #### Data
   - Download Toolkit v1c - Powerful and moving into a private collection.
