@@ -15,9 +15,9 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 ## Web Applications
 #### Google Earth Engine
   - [Wetland Exploration Tool v1.0c](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploratory-tool-in-progress-v10c) - [Requires Updating 2024 & 2025]
-  - [Soils Expliratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b)
+  - [Soils Expliratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b) - [Needs processing refinements]
   - [Topographic Terrain Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector)
-  - [Politcial Boundary v1](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection)
+  - [Political Boundary v1](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection) - [Needs refinements]
   - [Aerosols Exaiminer Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) - [Issues documented, requires recoding.]
 #### ESRI 
   - [World Minerals Dashboard](https://experience.arcgis.com/experience/e5843988a123402eb14498b270a9fa1f) - [In-Progress, possibly moving to different host.]
