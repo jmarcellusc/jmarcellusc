@@ -42,9 +42,11 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
   - GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0) 
 
 <br>
+
 ## Notes
 #### Chemical
  - [Elements - Notes](https://github.com/jmarcellusc/Elements-Notes-) - A compilation of notes for chemical elements, on-going.
+
 <br>
 <br>
 
