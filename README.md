@@ -27,7 +27,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 ## Documentation Processing Applications
 #### Documents and Images
   - [PDF Toolkit v1b](https://www.dropbox.com/scl/fi/kdvribiwzg1kmj6amwh6r/PDF-Toolkit-v1b.zip?rlkey=p1gjp84z4byf520ozj6ceii6m&st=kye2vhns&dl=0) - [Requires [Excel Metadata Database/Form](https://www.dropbox.com/scl/fi/8ucgwe12epf82hv99cjpc/PDF_MetadataDB.zip?rlkey=6ybfdbmpa9md1xoxyqazq47bd&st=gm6o3f5v&dl=0)]
-  - [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator) - [Actively Updating]
+  - [CMYK Palette Generator](https://www.dropbox.com/scl/fi/2t54rddhgh0hmcnabre4g/CMYK-Color-Palette-Generator.zip?rlkey=mhjynsesdyvvawl4c0w1gb478&st=w4is55to&dl=0) - [Actively Updating]
 
 #### Data
   - Download Toolkit v1c - Powerful and moving into a private collection.
@@ -52,7 +52,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 
 ## Timeline
 ### **Mid 2025**
-  - **IN-PPROGRESS**  CMYK Palette Generator: Revising Code, conversion to executable
+  - **NEW**  CMYK Palette Generator: Revising Code, conversion to executable
   - **NEW:**  XML ESRI Metadata Toolkit:  Revising Code
   - **NEW** GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet]
   - **NEW:** PDF Toolkit v1b: [Download] - Requires [Excel Metadata Database/Form]
