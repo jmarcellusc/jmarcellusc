@@ -39,7 +39,8 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 
 ## Geospatial
 #### Cartographic
-  - GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0) 
+  - GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0)
+  - [Map Neatline Creator](https://www.dropbox.com/scl/fi/12hr4rfyma79jg1zaabib/Map-Neatline-Tool-Public.zip?rlkey=pndq0o0tp6eskd2nya5sr2ux0&st=wuwwif73&dl=0)
 
 <br>
 
@@ -52,6 +53,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 
 ## Timeline
 ### **Mid 2025**
+  - **NEW** Map Neatline Creator: Updated to v3.0
   - **NEW**  CMYK Palette Generator: Revising Code, conversion to executable
   - **NEW:**  XML ESRI Metadata Toolkit:  Revising Code
   - **NEW** GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet]
@@ -61,7 +63,6 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
     - Lidar Toolkit - various functionalites 
     - Wold Minerals Dashboard (ESRI Hosting Cost is expensive, Will be migrating to Square Space)
     - Reverse Geocode - Conversion to ESRI Geoprocessing
-    - Neatline Tool - Revision
     - Update Google Earth Engine Current Applications - (Update additional timeframe)
     - GeMS Additional Mapping Toolkits
     - OCR Functionalies and Extractions
