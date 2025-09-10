@@ -39,7 +39,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 
 ## Geospatial
 #### Cartographic
-  - GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0)
+  - GeMS {FGDC, USGS} Geologic Unit Color Toolkit [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0)
   - [Map Neatline Creator](https://www.dropbox.com/scl/fi/12hr4rfyma79jg1zaabib/Map-Neatline-Tool-Public.zip?rlkey=pndq0o0tp6eskd2nya5sr2ux0&st=wuwwif73&dl=0)
 
 <br>
