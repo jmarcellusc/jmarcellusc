@@ -60,6 +60,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
   - **NEW:** PDF Toolkit v1b: [Download] - Requires [Excel Metadata Database/Form]
   - **NEW:** Download Toolkit v1c
   - **PLANNED**
+    - Imagery Preprocess Toolkit v1
     - Lidar Toolkit - various functionalites 
     - Wold Minerals Dashboard (ESRI Hosting Cost is expensive, Will be migrating to Square Space)
     - Reverse Geocode - Conversion to ESRI Geoprocessing
