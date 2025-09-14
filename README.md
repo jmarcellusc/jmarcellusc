@@ -12,6 +12,20 @@ Juan-Marcel Campos is a geospatial and data analytics researcher dedicated to ad
 ## Current Work
 Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
+## Machine Learning Applications
+#### Preprocess Toolkit
+Various tools to preprocess imagery before running Machine Learning process.
+ - Read Raster Info
+ - Filter Out Dimensions
+ - Creation of Binary Mask
+ - Segmentation by Dimension (&Directory)
+ - 
+
+#### Machine Learning Toolkit
+##### Automative Segmentation Tool
+ - Currently in Developement Stage (actively running)
+   
+
 ## Web Applications
 #### Google Earth Engine
   - [Wetland Exploration Tool v1.0c](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploratory-tool-in-progress-v10c) - [Requires Updating 2024 & 2025]
