@@ -23,8 +23,9 @@ Various tools to preprocess imagery before running Machine Learning process.
 <br>
 
 #### Machine Learning Toolkit
-##### Automative Segmentation Tool
+##### 1. Automative Segmentation Tool
  - Currently in Developement Stage (actively running)
+   - Will have adjustable parameters
    
 <br>
 
