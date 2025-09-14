@@ -19,12 +19,14 @@ Various tools to preprocess imagery before running Machine Learning process.
  - Filter Out Dimensions
  - Creation of Binary Mask
  - Segmentation by Dimension (&Directory)
- - 
+
+   
 
 #### Machine Learning Toolkit
 ##### Automative Segmentation Tool
  - Currently in Developement Stage (actively running)
    
+<br>
 
 ## Web Applications
 #### Google Earth Engine
