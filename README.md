@@ -20,7 +20,7 @@ Various tools to preprocess imagery before running Machine Learning process.
  - Creation of Binary Mask
  - Segmentation by Dimension (&Directory)
 
-   
+<br>
 
 #### Machine Learning Toolkit
 ##### Automative Segmentation Tool
