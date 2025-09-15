@@ -35,8 +35,8 @@ Various tools to preprocess imagery before running Machine Learning process.
  - Export/Import Model Files
  - Export/Import Data Files
    - **UPDATING:** Currently in Improving Automation, Switching Parameters, and More
-   - ![Logo for a fictional company](https://www.example.com/logo.png](https://www.dropbox.com/scl/fi/iz77mwac07dv7ukyvxzer/Machine_Learning_Toolkit-sample1.png?rlkey=ae3rln5gloo04mpvk5wwuz2ds&st=vvskfw7w&dl=0)
-   - <img src="https://www.dropbox.com/scl/fi/iz77mwac07dv7ukyvxzer/Machine_Learning_Toolkit-sample1.png?rlkey=ae3rln5gloo04mpvk5wwuz2ds&st=vvskfw7w&dl=0" alt="alt text for the image" width="500"/>
+   -  ![Sample 1](https://github.com/jmarcellusc/jmarcellusc/blob/main/MachineLearning_Example1.png)
+   -  ![Sample 1](https://github.com/jmarcellusc/jmarcellusc/blob/main/MachineLearning_Example2.png)
    
 <br>
 
