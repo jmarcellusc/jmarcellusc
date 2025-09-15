@@ -25,7 +25,7 @@ Various tools to preprocess imagery before running Machine Learning process.
  - Standardized Imagery (&Directory)
  - Detrend Imagery (&Directory)
    - More to be Added
-
+   - 
 <br>
 
 #### Machine Learning Toolkit
@@ -34,7 +34,7 @@ Various tools to preprocess imagery before running Machine Learning process.
  - Adjustable Parameters: {currently improveing}
  - Export/Import Model Files
  - Export/Import Data Files
-   - UPDATING: Currently in Improving Automation, Switching Parameters, and More
+   - **UPDATING:** Currently in Improving Automation, Switching Parameters, and More
    
 <br>
 
