@@ -24,7 +24,8 @@ Various tools to preprocess imagery before running Machine Learning process.
  - Normalize Imagery (&Directory)
  - Standardized Imagery (&Directory)
  - Detrend Imagery (&Directory)
-   - More to be Added (Pending: Machine Learning Data Integrity)
+   - **Pending:** Machine Learning Data Integrity
+   - (Adding More: Differencing, PCA, ICA, MA, Decomposition, and advance procedures.)
 
 <br>
 
