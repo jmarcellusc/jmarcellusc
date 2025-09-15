@@ -2,7 +2,7 @@
 
 <h1 align="center">Juan Marcel Campos</h1>
 <h3 align="center"> ⇨ Geology, Cartography, Remote Sensing, Geostatistics, and GIS Analyst</h3>
-<h6 align="right">Page Updated on August, 2025</h6>
+<h6 align="right">Page Updated on September, 2025</h6>
 
 ---
 ## About
