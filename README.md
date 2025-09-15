@@ -83,6 +83,7 @@ Various tools to preprocess imagery before running Machine Learning process.
 
 ## Timeline
 ### **Mid 2025**
+  - **NEW** Machine Learning Imagery (Preproces Toolkit, ML Tool)
   - **NEW** Map Neatline Creator: Updated to v3.0
   - **NEW**  CMYK Palette Generator: Revising Code, conversion to executable
   - **NEW:**  XML ESRI Metadata Toolkit:  Revising Code
@@ -90,6 +91,7 @@ Various tools to preprocess imagery before running Machine Learning process.
   - **NEW:** PDF Toolkit v1b: [Download] - Requires [Excel Metadata Database/Form]
   - **NEW:** Download Toolkit v1c
   - **PLANNED**
+    - Hydrological Tools 
     - Imagery Preprocess Toolkit v1
     - Lidar Toolkit - various functionalites 
     - Wold Minerals Dashboard (ESRI Hosting Cost is expensive, Will be migrating to Square Space)
