@@ -19,13 +19,22 @@ Various tools to preprocess imagery before running Machine Learning process.
  - Filter Out Dimensions
  - Creation of Binary Mask
  - Segmentation by Dimension (&Directory)
+ - Reorganize Imagery Bands (&Directory)
+ - Split Imagery into Grids (&Directory)
+ - Normalize Imagery (&Directory)
+ - Standardized Imagery (&Directory)
+ - Detrend Imagery (&Directory)
+   - More to be Added
 
 <br>
 
 #### Machine Learning Toolkit
 ##### 1. Automative Segmentation Tool
- - Currently in Developement Stage (actively running)
-   - Will have adjustable parameters
+ - Complete Toolkit (train/inference)
+ - Adjustable Parameters: {currently improveing}
+ - Export/Import Model Files
+ - Export/Import Data Files
+   - UPDATING: Currently in Improving Automation, Switching Parameters, and More
    
 <br>
 
