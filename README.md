@@ -24,8 +24,8 @@ Various tools to preprocess imagery before running Machine Learning process.
  - Normalize Imagery (&Directory)
  - Standardized Imagery (&Directory)
  - Detrend Imagery (&Directory)
-   - More to be Added
-   - 
+   - More to be Added (Pending: Machine Learning Data Integrity)
+
 <br>
 
 #### Machine Learning Toolkit
