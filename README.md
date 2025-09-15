@@ -35,8 +35,9 @@ Various tools to preprocess imagery before running Machine Learning process.
  - Export/Import Model Files
  - Export/Import Data Files
    - **UPDATING:** Currently in Improving Automation, Switching Parameters, and More
-   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/MachineLearning_Example1.png" alt="Sample 1" width="50%">
-   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/MachineLearning_Example2.png" alt="Sample 2" width="50%">
+   - Screenshot Test:
+    - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/MachineLearning_Example1.png" alt="Sample 1" width="50%">
+    - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/MachineLearning_Example2.png" alt="Sample 2" width="50%">
    
 <br>
 
