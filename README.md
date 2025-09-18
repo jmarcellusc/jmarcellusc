@@ -12,6 +12,12 @@ Juan-Marcel Campos is a geospatial and data analytics researcher dedicated to ad
 ## Current Work
 Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
+## Hydrological Tools
+ - Depression Identification - Completed, working on literature to document a possible new method
+ - Depression Region Enclosure Fill - Completed
+
+   
+
 ## Machine Learning Applications
 #### Preprocess Toolkit - [Imagery Sensing Toolkit](https://www.dropbox.com/scl/fi/7srzeplaej1qsm67xzstx/Imagery-Preprocess-Toolkit-v1.zip?rlkey=crxjl4elktjqp888eqw82qwx7&st=9pltftxw&dl=0)
 Various tools to preprocess imagery before running Machine Learning process.
