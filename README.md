@@ -101,6 +101,7 @@ Various tools to preprocess imagery before running Machine Learning process.
   - **NEW:** PDF Toolkit v1b: [Download] - Requires [Excel Metadata Database/Form]
   - **NEW:** Download Toolkit v1c
   - **PLANNED**
+    - Random Forest Land Classification Tool
     - Hydrological Tools 
     - Imagery Preprocess Toolkit v1
     - Lidar Toolkit - various functionalites 
