@@ -15,7 +15,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 
 ## Web Applications
 - **Updated:** [Wetlands Exploration Toolkit v2.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - Added 2024, 2025 Years, future modifcations to include ESA Sentinel-2 Imagery.
-More Applications Below
+  - More Applications Below
 
 ## Hydrological Tools
  - Depression Identification - Completed, working on literature to document a possible new method
