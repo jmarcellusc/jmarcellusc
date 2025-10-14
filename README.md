@@ -14,7 +14,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 ---
 
 ## Web Applications
-- **New:**  [Foliage Phenology Exploration Toolkit v0.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - Recently created, requires 2nd method to be implimented. Web application is very new and is still under development.
+- **New:**  [Foliage Phenology Exploration Toolkit v0.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - Recently created, requires 2nd method to be implimented. Web application is very new and is still under development (currently missing auto-stretch update to 2 standard deviations).
 - **Updated:** [Wetlands Exploration Toolkit v2.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - Added 2024, 2025 Years, future modifcations to include ESA Sentinel-2 Imagery.
   - More Applications Below
 
