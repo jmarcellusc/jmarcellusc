@@ -2,7 +2,7 @@
 
 <h1 align="center">Juan Marcel Campos</h1>
 <h3 align="center"> ⇨ Geology, Cartography, Remote Sensing, Geostatistics, and GIS Analyst</h3>
-<h6 align="right">Page Updated on September, 2025</h6>
+<h6 align="right">Page Updated on October, 2025</h6>
 
 ---
 ## About
@@ -14,7 +14,8 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 ---
 
 ## Web Applications
-- **New:**  [Foliage Phenology Exploration Toolkit v0.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - Recently created, requires 2nd method to be implimented. Web application is very new and is still under development (currently missing auto-stretch update to 2 standard deviations).
+- **New:**  [Foliage Phenology Exploration Toolkit v1.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - Recently created and updated that aids in determination of foliage seasonal phenology.
+  - Web application is very new and is currently active for canopy (pending low surface vegetations).
 - **Updated:** [Wetlands Exploration Toolkit v2.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - Added 2024, 2025 Years, future modifcations to include ESA Sentinel-2 Imagery.
   - More Applications Below
 
