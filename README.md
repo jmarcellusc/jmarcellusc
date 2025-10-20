@@ -17,7 +17,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 - **New:**  [Foliage Phenology Exploration Toolkit v1.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - Recently created and updated that aids in determination of foliage seasonal phenology.
   - Web application is very new and is currently active for canopy (pending low surface vegetations).
 - **Updated:** [Wetlands Exploration Toolkit v2.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - Added 2024, 2025 Years, future modifcations to include ESA Sentinel-2 Imagery.
-  - More Applications Below
+  - Pending SAR dataset option, the original tool is utilizing LandSat to illustrate surface waters.
 
 ## Hydrological Tools
  - Depression Identification - Completed, working on literature to document a possible new method
@@ -60,6 +60,7 @@ Various tools to preprocess imagery before running Machine Learning process.
 
 ## Web Applications
 #### Google Earth Engine
+  - [Foliage Phenology Exploration Toolkit v1.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - [Recently created]
   - [Wetlands Exploration Toolkit v2.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - [Updated to include 2024 & 2025]
   - [Soils Expliratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b) - [Processing Refinements]
   - [Topographic Terrain Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector) - [User Refinements]
