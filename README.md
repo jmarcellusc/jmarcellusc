@@ -16,8 +16,10 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 ## Web Applications
 - **New:**  [Foliage Phenology Exploration Toolkit v1.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - Recently created and updated that aids in determination of foliage seasonal phenology.
   - Web application is very new and is currently active for canopy (pending low surface vegetations).
-- **Updated:** [Wetlands Exploration Toolkit v2.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - Added 2024, 2025 Years, future modifcations to include ESA Sentinel-2 Imagery.
-  - Pending SAR dataset option, the original tool is utilizing LandSat to illustrate surface waters.
+- **Updated:** [Wetlands Exploration Toolkit v3.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - Recently updated.
+  - Added 2024, 2025 Years.
+  - Added SAR Surface Water Detection.
+  - Added New Chlorophyll Detection (Alpha Testing)
 
 ## Hydrological Tools
  - Depression Identification - Completed, working on literature to document a possible new method
