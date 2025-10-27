@@ -11,7 +11,7 @@ Juan-Marcel Campos is a geospatial and data analytics researcher dedicated to ad
 ## Current Work Summary
 Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
-Working on GEE SMILE Random Forest classification of similar NLCD classification. 
+ * Currently busy working on GEE SMILE Random Forest classification, similar NLCD classification. 
 [![GEE Random Forest Classifier Example](https://github.com/jmarcellusc/jmarcellusc/blob/main/GEE%20Random%20Forest%20Example.jpg)](https://youtu.be/XvuZDmEKrDI)
 
 ---
