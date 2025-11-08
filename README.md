@@ -12,9 +12,9 @@ Juan-Marcel Campos is a geospatial and data analytics researcher dedicated to ad
 Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
 ### Data Extraction
- * **NEW** [AI Prompt Management Program - v1.1](https://www.dropbox.com/scl/fi/s9bph81czhlnjv0mw5dih/AI-Prompt-Management-v1a.zip?rlkey=bp81kfcyaqyfxgk4jy6b2m4h0&st=kkkmhelk&dl=0)
+ * **NEW:** [AI Prompt Management Program - v1.1](https://www.dropbox.com/scl/fi/s9bph81czhlnjv0mw5dih/AI-Prompt-Management-v1a.zip?rlkey=bp81kfcyaqyfxgk4jy6b2m4h0&st=kkkmhelk&dl=0)
 
- * **NEW** SMILE Google Earth Engine Random Forest
+ * **NEW:** SMILE Google Earth Engine Random Forest
    * **METHOD:**  Introduction of AplhaEarth's Google Deep AI Imagery
    * **METHOD:**  Efficient approach in processing random forest of 3 moasic image periods, multistack
      * Example: GEE SMILE Random Forest classification, similar NLCD classification. 
