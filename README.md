@@ -12,7 +12,7 @@ Juan-Marcel Campos is a geospatial and data analytics researcher dedicated to ad
 Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
 
 ## Geologic Mapping
-I'll be starting to create digital geological maps, including interactive websites and products. The current process is the creation of surface models; 2 of material impervious type (canopy and ground); 2 of elevation type (hillshade and elevation contour). These are fundamental models that will overlay geologic infromation. 
+I'll be starting to create digital geological maps, including interactive websites and products. The current process is the creation of surface models; 2 of material impervious type (canopy and ground); 2 of elevation type (hillshade and elevation contour). These are fundamental models that will overlay geologic information. I'll be starting with geologic maps in the State of Texas.
 * Phase 1 - [Hydrological Impervious "Permeability" Canopy Model](https://ee-marcelluscampes.projects.earthengine.app/view/hydroimpervious-canopy-surface) - Model created. This preliminary model data, which is already produced, is the basis for the Hydrologic Impervious Ground Model (currently in progress) and serves in illustrating regions where geologic area is covered by anthropogenic (man-made) materials or natural vegetation canopy.
 * Phase 2 - Hydrological Impervious Ground Model - (in-progress)
 
