@@ -41,7 +41,7 @@ I'll be starting to create digital geological maps, including interactive websit
 
 
 ## Download 'Overture Maps' Data 
-- [Download Tool](https://www.dropbox.com/scl/fi/8nkg11n1ov20qyih1h1n4/Download-OT-Map-GIS-Data-v1a.zip?rlkey=ag8o22h27vpj9jugtumnjo6ot&st=m29wrm2n&dl=0)  - See: [Read Me Information](https://github.com/jmarcellusc/Download-Overture-Maps-Data) - Fixed to Version v1a
+- Download Tool Removed (Updating...) - See: [Read Me Information](https://github.com/jmarcellusc/Download-Overture-Maps-Data) - Fixed to Version v1a
 
 
 ## Machine Learning Applications
