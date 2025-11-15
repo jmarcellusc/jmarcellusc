@@ -83,7 +83,7 @@ Various tools to preprocess imagery before running Machine Learning process.
   - [Political Boundary v1](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection) - [Processing Refinements]
   - [Aerosols Exaiminer Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) - [Issues documented, requires recoding.]
 #### ESRI 
-  - [World Minerals Dashboard](https://experience.arcgis.com/experience/e5843988a123402eb14498b270a9fa1f) - [In-Progress, possibly moving to different host.]
+  - [World Minerals Dashboard](https://github.com/jmarcellusc/jmarcellusc/) - [Removed, Moving project to Google Earth Engine as data hosting with ESRI is costly.]
 
 <br>
 
