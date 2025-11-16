@@ -25,9 +25,7 @@ I'll be starting to create digital geological maps, including interactive websit
    * **METHOD:**  Introduction of AplhaEarth's Google Deep AI Imagery
    * **METHOD:**  Efficient approach in processing random forest of 3 moasic image periods, multistack
      * Example: GEE SMILE Random Forest classification, similar NLCD classification. 
-![GEE Random Forest Classifier Example](https://imgur.com/jq49KYW.png)
-
-(https://youtu.be/KmfPY4PzZ20)
+[![GEE Random Forest Classifier Example](https://imgur.com/jq49KYW.png)](https://youtu.be/KmfPY4PzZ20)
 
 ---
 
