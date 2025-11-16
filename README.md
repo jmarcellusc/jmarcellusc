@@ -41,7 +41,8 @@ I'll be starting to create digital geological maps, including interactive websit
 
 
 ## Download 'Overture Maps' Data 
-- Download Tool Removed (Updating...) - See: [Read Me Information](https://github.com/jmarcellusc/Download-Overture-Maps-Data) - Fixed to Version v1a
+- [Download Tool](https://www.dropbox.com/scl/fi/mvjrtkn8zqkrv2iwz6ou3/Overture-Maps-Downloader-v1b.zip?rlkey=q9mdeu0skhzc76kjwmys2q66s&st=9egi4rw7&dl=0) (Update: v1b) - See: [Read Me Information](https://github.com/jmarcellusc/Download-Overture-Maps-Data)
+  - **NOTES:** Only works with release: 24 September 2025	[2025-09-24.0	v1.12.0], schema v1.12.0. Please enter "2025-09-24.0" as the date version. Since Overturn Maps is currently updating their data scheme and storage repositories, I'll wait after 2025 to create an new update. Even so, you are open on aquiring thier complete dataset from: [Overturn Maps](https://overturemaps.org/)
 
 
 ## Machine Learning Applications
