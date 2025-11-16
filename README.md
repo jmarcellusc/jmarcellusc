@@ -75,7 +75,7 @@ Various tools to preprocess imagery before running Machine Learning process.
    - **UPDATING:** Currently in Improving Automation, Switching Parameters, and More
    - Screenshot Test:
     - <img src="https://imgur.com/gtw0jfT.png" alt="Sample 1" width="50%">
-    - <img src="https://imgur.com/a/s7MB5mt.png" alt="Sample 2" width="50%">
+    - <img src="https://imgur.com/k3Va2l2.png" alt="Sample 2" width="50%">
    
 <br>
 
