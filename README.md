@@ -10,7 +10,7 @@ Juan-Marcel Campos is a geospatial and data analytics researcher dedicated to ad
 
 ## Current Work Summary
 Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
-* Presenting Drones: [Drone Example: Pico De Orizaba](https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/) Link: https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
+* Presenting Drones: Drone Example: Pico De Orizaba  Link: https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 ## Geologic Mapping
 I'll be starting to create digital geological maps, including interactive websites and products. The current process is the creation of surface models; 2 of material impervious type (canopy and ground); 2 of elevation type (hillshade and elevation contour). These are fundamental models that will overlay geologic information. I'll be starting with geologic maps in the State of Texas.
