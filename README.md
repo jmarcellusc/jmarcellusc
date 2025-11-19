@@ -15,7 +15,7 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 ## Geologic Mapping
 I'll be starting to create digital geological maps, including interactive websites and products. The current process is the creation of surface models; 2 of material impervious type (canopy and ground); 2 of elevation type (hillshade and elevation contour). These are fundamental models that will overlay geologic information. I'll be starting with geologic maps in the State of Texas.
 * Phase 1 - [Hydrological Impervious "Permeability" Canopy Model](https://ee-marcelluscampes.projects.earthengine.app/view/hydroimpervious-canopy-surface) - Model created. This preliminary model data, which is already produced, is the basis for the Hydrologic Impervious Ground Model (currently in progress) and serves in illustrating regions where geologic area is covered by anthropogenic (man-made) materials or natural vegetation canopy.
-* Phase 2 - Hydrological Impervious Ground Model - (Overturn Maps Tool Updated; 11-15-2025, Phase 2 restarting...)
+* Phase 2 - Hydrological Impervious "Permeability" Ground Model - (Overturn Maps Tool Updated; 11-15-2025, Phase 2 restarting...)
 * Phase 3 - USGS Elevation Data Hillshade
 * Phase 4 - USGS Elevation Data Contours
 
