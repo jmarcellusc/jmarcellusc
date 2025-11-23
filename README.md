@@ -15,7 +15,9 @@ Enhancing and updating existing codes and toolkits across multiple platforms, in
 ## Geologic Mapping
 I'll be starting to create digital geological maps, including interactive websites and products. The current process is the creation of surface models; 2 of material impervious type (canopy and ground); 2 of elevation type (hillshade and elevation contour). These are fundamental models that will overlay geologic information. I'll be starting with geologic maps in the State of Texas.
 * Phase 1 - [Hydrological Impervious "Permeability" Canopy Model](https://ee-marcelluscampes.projects.earthengine.app/view/hydroimpervious-canopy-surface) - Model created. This preliminary model data that is the basis for the Hydrologic Impervious Ground Model (currently in progress) and serves in illustrating regions where geologic area is covered by anthropogenic (man-made) materials or natural vegetation canopy.
-* Phase 2 - Hydrological Impervious "Permeability" Ground Model - (Overturn Maps Tool Updated; 11-15-2025, Generating Phase 2, fixing minor bug in 'Neatline Map Creator v3.0)
+* Phase 2 - Hydrological Impervious "Permeability" Ground Model - In-Progress
+  * Updated: [Overturn Maps Tools](https://www.dropbox.com/scl/fi/mvjrtkn8zqkrv2iwz6ou3/Overture-Maps-Downloader-v1b.zip?rlkey=q9mdeu0skhzc76kjwmys2q66s&st=7tsj5me4&dl=0) - Fixed Authors' Revision Changes
+  * Updated: [Map Neatline Tool v3.1](https://www.dropbox.com/scl/fi/tflazuzs75u2nah0zo60c/Map-Neatline-Tool-Public.zip?rlkey=fbbbf66shwcul36ent0o0329u&st=9rs3c1tc&dl=0) - Fixed Path Issue
 * Phase 3 - USGS Elevation Data Hillshade
 * Phase 4 - USGS Elevation Data Contours
 
@@ -107,7 +109,7 @@ Various tools to preprocess imagery before running Machine Learning process.
 ## Geospatial
 #### Cartographic
   - Geologic Unit Color Toolkit: (GeMS, FGDC, & USGS Compliant} ) [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0)
-  - [Map Neatline Creator](https://www.dropbox.com/scl/fi/12hr4rfyma79jg1zaabib/Map-Neatline-Tool-Public.zip?rlkey=pndq0o0tp6eskd2nya5sr2ux0&st=wuwwif73&dl=0)
+  - Map Neatline Tool: [Updated v3.1](https://www.dropbox.com/scl/fi/tflazuzs75u2nah0zo60c/Map-Neatline-Tool-Public.zip?rlkey=fbbbf66shwcul36ent0o0329u&st=nfos1ys2&dl=0) - Fixed path issues and process cleanup.
 
 <br>
 
