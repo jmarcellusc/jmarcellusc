@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmarcellusc&label=Profile%20views&color=0e75b6&style=flat" alt="jmarcellusc" /> </p>
 
 <h1 align="center">Juan Marcel Campos</h1>
-<h3 align="center"> ⇨ Geosciences, Cartography, Remote Sensing, Statistics, and Data Analyst</h3>
+<h4 align="center"> ⇨ Geosciences, Cartography, Remote Sensing, Statistics, and Data Analyst</h4>
 <h6 align="right">Page Updated on November, 2025</h6>
 
 ---
