@@ -9,7 +9,9 @@
 Juan-Marcel Campos is a dedicated geospatial and data analytics researcher focused on advancing scientific projects across geologic, environmental, cartographic, and statistical domains. Since 2023, he has specialized in optimizing numerous processing methods, toolkits, and scientific scripts to enhance data efficiency. Juan-Marcel is a student at the University of Texas at San Antonio, where he previously earned a Graduate Certificate in GIS. Outside of research, he is an amateur photographer, showcasing his work at [jmarcelphotography.com](https://www.jmarcelphotography.com/).  
 
 ## Current Work Summary
-Enhancing and updating existing codes and toolkits across multiple platforms, including ESRI (GIS software), native Python, and VBA for Excel and Access, to improve functionality, streamline workflows, and ensure compatibility with the latest software updates and industry standards.
+Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
+
+* **Geologic Mapping Project** Implementing a new geologic mapping scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices.
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 ## Geologic Mapping
