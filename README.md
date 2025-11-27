@@ -11,7 +11,7 @@ Juan-Marcel Campos is a dedicated geospatial and data analytics researcher focus
 ## Current Work Summary
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
-* **Geologic Mapping Project** Implementing a new geologic mapping scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices.
+* **Earth Systems Geologic Mapping Project** Implementing a [new geologic mapping](https://github.com/jmarcellusc/Earth-Systems-Geologic-Map-Project/) scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices.
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 ## Geologic Mapping
