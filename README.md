@@ -12,7 +12,7 @@ Juan-Marcel Campos is a dedicated geospatial and data analytics researcher focus
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
 * **Earth Systems Geologic Mapping Project** Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Systems-Geologic-Map-Project/) scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices.
-* **Ontological Database** - Testing Administration and Creation.
+* **Ontological Database** - Updating administration and schema database using python coded menu system. This will import all important sources and required citation, copyrights, usage, and terms from sources. Database, while geological will target translations of various types.
    <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Ontological_Database.png" alt="Ontological Administration" width="50%">
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
