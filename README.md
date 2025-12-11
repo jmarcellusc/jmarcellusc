@@ -19,8 +19,8 @@ Driving software development and data efficiency by enhancing and updating exist
    <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Ontological_Database.png" alt="Ontological Administration" width="40%">
 * **Local Datasource/Citation Database** - I created a local datasource and citation database to establish a reliable, personalized repository for managing, citing, and organizing information relevant to my specific projects or domain.
   *  **Phase 1** - Inital Creation - Completed
-  *  **Phase 2** - Verification and Improvements; currently working to verify batch information extraction using the AI Prompt Management and Methodology.
-  *  **Phase 3** - Incorporation into or Methods of Data Transfer to Ontological Database
+  *  **Phase 2** - Verification and Improvements; **currently working** to verify batch information extraction using the AI Prompt Management and Methodology.
+  *  **Phase 3** - **Pending**, Incorporation into or Methods of Data Transfer to Ontological Database
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 ## Geologic Mapping
