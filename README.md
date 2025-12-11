@@ -14,11 +14,13 @@ Driving software development and data efficiency by enhancing and updating exist
 * **Earth Systems Geologic Mapping Project** Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Systems-Geologic-Map-Project/) scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices.
 * **Ontological Database** - **IMPROVED:** Improved database structure and introduced translation schema (including additional fixes and enhancements).
   - Creation of administration and schema database using python coded menu system. This will import all important sources and required citation, copyrights, usage, and terms from sources. Database, while geological will target translations of various types.
+
   
    <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Ontological_Database.png" alt="Ontological Administration" width="40%">
 * **Local Datasource/Citation Database** - I created a local datasource and citation database to establish a reliable, personalized repository for managing, citing, and organizing information relevant to my specific projects or domain.
-  *  Inital Creation - Completed
-  *  Verification and Improvements - Currently working to verify batch information extraction using the AI Prompt Management and Methodology.  
+  *  **Phase 1** - Inital Creation - Completed
+  *  **Phase 2** - Verification and Improvements; currently working to verify batch information extraction using the AI Prompt Management and Methodology.
+  *  **Phase 3** - Incorporation into or Methods of Data Transfer to Ontological Database
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 ## Geologic Mapping
