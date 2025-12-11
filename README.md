@@ -16,6 +16,9 @@ Driving software development and data efficiency by enhancing and updating exist
   - Creation of administration and schema database using python coded menu system. This will import all important sources and required citation, copyrights, usage, and terms from sources. Database, while geological will target translations of various types.
   
    <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Ontological_Database.png" alt="Ontological Administration" width="40%">
+* **Local Datasource/Citation Database** - I created a local datasource and citation database to establish a reliable, personalized repository for managing, citing, and organizing information relevant to my specific projects or domain.
+  *  Inital Creation - Completed
+  *  Verification and Improvements - Currently working to verify batch information extraction using the AI Prompt Management and Methodology.  
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 ## Geologic Mapping
