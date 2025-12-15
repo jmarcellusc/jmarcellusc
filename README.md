@@ -64,7 +64,7 @@ I'll be starting to create digital geological maps, including interactive websit
 
 ## Machine Learning Applications
 #### Preprocess Toolkit - [Imagery Sensing Toolkit](https://www.dropbox.com/scl/fi/7srzeplaej1qsm67xzstx/Imagery-Preprocess-Toolkit-v1.zip?rlkey=crxjl4elktjqp888eqw82qwx7&st=9pltftxw&dl=0)
-Various tools to preprocess imagery before running Machine Learning process.
+**Updated**: Added Additional Process (and will continue to append additional functionalities) - Various tools to preprocess imagery before running Machine Learning process.
  - Read Raster Info
  - Filter Out Dimensions
  - Creation of Binary Mask
@@ -76,7 +76,7 @@ Various tools to preprocess imagery before running Machine Learning process.
  - Detrend Imagery (&Directory)
    - **Pending:** Machine Learning Data Integrity
    - (Adding More: Differencing, PCA, ICA, MA, Decomposition, and advance procedures.)
-
+   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit.png" alt="Sample 1" width="50%">
 <br>
 
 #### Machine Learning Toolkit
