@@ -37,7 +37,7 @@ I'll be starting to create digital geological maps, including interactive websit
 * **Phase 5** - Project Structure & Administration Creation - **"In-Progress";** Includes generation of neatlines, GeMS project creation, and database schema. The project region is the State of Texas and Mexico (northern) geology.
 
 ### Data Extraction
- * **NEW:** [AI Prompt Management Program - v2.2](https://www.dropbox.com/scl/fi/dgg1o3zg8q6z24sat8xco/AI-Prompt-Management-v1c.zip?rlkey=19lrilxatb4a3bywlvfac4rpj&st=nk7yybl3&dl=0) - Update: Dec, 8 2025. Dynamic fields option that opens the possibility to save a custom prompt to the local database. Also features; ability to share a database, import a database, appends a user system name, and menu system improvements.
+ * **NEW:** [AI Prompt Management Program - v2.3](https://www.dropbox.com/scl/fi/6dyipnkja1nfrwjtd1d5h/AI-Prompt-Management-v1d.zip?rlkey=6k8uhbrusqe69syhjxai6asiv&st=awr0trd7&dl=0) - Update: Dec, 15 2025. Fixed: Previous version was not saving on import. Dynamic fields option that opens the possibility to save a custom prompt to the local database. Also features; ability to share a database, import a database, appends a user system name, and menu system improvements.
 
  * **NEW:** SMILE Google Earth Engine Random Forest
    * **METHOD:**  Introduction of AplhaEarth's Google Deep AI Imagery
