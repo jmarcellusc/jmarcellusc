@@ -12,12 +12,12 @@ A Geospatial and Data Analytics Researcher focused on driving scientific progres
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
 ### Ongoing Projects
-* **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
-* **Earth Systems Geologic Mapping Project** - Pending Addtional Tools: [New Geological Mapping Project](#geologic-mapping)
-* **Ontological Database** - Updated:  [Ontolgical Database Schema Project](#ontological-database)
-* **Data Extraction Toolkits** - Updated: [Data Extraction Toolkits](#data-extraction)
-* **Hydrological Toolkits** - Paused; Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
-* **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
+- **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
+- **Earth Systems Geologic Mapping Project** - Pending Addtional Tools: [New Geological Mapping Project](#geologic-mapping)
+- **Ontological Database** - Updated:  [Ontolgical Database Schema Project](#ontological-database)
+- **Data Extraction Toolkits** - Updated: [Data Extraction Toolkits](#data-extraction)
+- **Hydrological Toolkits** - Paused; Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
+- **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
@@ -119,7 +119,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
   - Uniform Manifold Approximation and Projection
   - DEM Kits: Analysis Surface Metrics
     - Slope: [4-Cell, N-S Gradients, (4,8,Weighted) Gradients].
-  I would like to extend special gratitude to Jeff Jenness. His invaluable toolkit and documentation have been foundational to my understanding of elevation surfaces over the years. With addition to more hillshade and curvature toolkits, I will be incorporating more of Florinsky methodologys on surfaces as his literature are highly regarded. Not yet available for download.
+I would like to extend special gratitude to Jeff Jenness. His invaluable toolkit and documentation have been foundational to my understanding of elevation surfaces over the years. With addition to more hillshade and curvature toolkits, I will be incorporating more of Florinsky methodologys on surfaces as his literature are highly regarded. Not yet available for download.
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit.png" alt="Sample 1" width="50%">
 <br>
 
