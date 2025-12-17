@@ -14,19 +14,20 @@ Driving software development and data efficiency by enhancing and updating exist
 * **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
 
 * **Earth Systems Geologic Mapping Project** Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Systems-Geologic-Map-Project/) scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices.
+* **Ontological Database** - **IMPROVED:**  Link Here
+* **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
+
+## Ontological Database
+I'm creating an ontological database that includes terms translations for the purpose of robust sematic interoperabilitiy and the ability for linguistic cross boundary transferability. The ontological structure will provide necessary formal adn explicit framework to define concepts of multi-definitions By hosting translations directly within this defined schema, your database ensures that every system, analyst, or application accessing the data—regardless of their operational language—refers to the exact same concept (e.g., the English term "invoice" maps to the defined concept FinancialDocument, which then translates directly and unambiguously to its French, German, and Spanish counterparts). This unified approach guarantees data consistency and accurate cross-lingual knowledge sharing, transforming disparate terms into a single, cohesive, and semantically rich knowledge graph.
+
 * **Ontological Database** - **IMPROVED:** Improved database structure and introduced translation schema (including additional fixes and enhancements).
   - Creation of administration and schema database using python coded menu system. This will import all important sources and required citation, copyrights, usage, and terms from sources. Database, while geological will target translations of various types.
 
-  
    <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Ontological_Database.png" alt="Ontological Administration" width="40%">
 * **Local Datasource/Citation Database** - I created a local datasource and citation database to establish a reliable, personalized repository for managing, citing, and organizing information relevant to my specific projects or domain.
   *  **Phase 1** - Inital Creation - Completed
   *  **Phase 2** - Verification and Improvements; **currently working** to verify batch information extraction using the AI Prompt Management and Methodology.
   *  **Phase 3** - **Pending**, Incorporation into or Methods of Data Transfer to Ontological Database
-* **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
-
-## Ontological Database
-Language translation is a complex task focused on **meaning transfer**, rather than direct word substitution, making the resolution of **multi-meaning terminology** essential. This ambiguity stems from challenges like **polysemy** (a word with related meanings, e.g., "bank") and **homonymy** (words that look or sound the same but have unrelated meanings). While natural language processing relies on **contextual clues** to disambiguate meaning, specialized data environments, such as those leveraging Ontologies, handle this by creating **explicit, formalized vocabularies**. By defining terms with unambiguous concepts (like `IndividualClient` instead of the generic "client"), these structures achieve **semantic interoperability**, ensuring a shared and consistent understanding of data across diverse systems and languages.
 
 ## Geologic Mapping
 I'll be starting to create digital geological maps, including interactive websites and products. The current process is the creation of surface models; 2 of material impervious type (canopy and ground); 2 of elevation type (hillshade and elevation contour). These are fundamental models that will overlay geologic information. I'll be starting with geologic maps in the State of Texas.
