@@ -53,6 +53,9 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 ### Data Extraction
  * **NEW:** [AI Prompt Management Program - v2.3](https://www.dropbox.com/scl/fi/6dyipnkja1nfrwjtd1d5h/AI-Prompt-Management-v1d.zip?rlkey=6k8uhbrusqe69syhjxai6asiv&st=awr0trd7&dl=0) - Update: Dec, 15 2025. Fixed: Previous version was not saving on import. Dynamic fields option that opens the possibility to save a custom prompt to the local database. Also features; ability to share a database, import a database, appends a user system name, and menu system improvements.
+ * **Download 'Overture Maps' Data** 
+- [Download Tool](https://www.dropbox.com/scl/fi/mvjrtkn8zqkrv2iwz6ou3/Overture-Maps-Downloader-v1b.zip?rlkey=q9mdeu0skhzc76kjwmys2q66s&st=9egi4rw7&dl=0) (Update: v1b) - See: [Read Me Information](https://github.com/jmarcellusc/Download-Overture-Maps-Data)
+  - **NOTES:** Only works with release: 24 September 2025	[2025-09-24.0	v1.12.0], schema v1.12.0. Please enter "2025-09-24.0" as the date version. Since Overturn Maps is currently updating their data scheme and storage repositories, I'll wait after 2025 to create an new update. Even so, you are open on aquiring thier complete dataset from: [Overturn Maps](https://overturemaps.org/)
 
 
 ---
@@ -64,16 +67,13 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
   - Added 2024, 2025 Years.
   - Added SAR Surface Water Detection.
   - Added New Chlorophyll Detection (Alpha Testing)---
+---
+
 
 ## Hydrological Tools
  - Depression Identification - Completed, working on literature to document a possible new method
  - Depression Region Enclosure Fill - Completed
-
-
-## Download 'Overture Maps' Data 
-- [Download Tool](https://www.dropbox.com/scl/fi/mvjrtkn8zqkrv2iwz6ou3/Overture-Maps-Downloader-v1b.zip?rlkey=q9mdeu0skhzc76kjwmys2q66s&st=9egi4rw7&dl=0) (Update: v1b) - See: [Read Me Information](https://github.com/jmarcellusc/Download-Overture-Maps-Data)
-  - **NOTES:** Only works with release: 24 September 2025	[2025-09-24.0	v1.12.0], schema v1.12.0. Please enter "2025-09-24.0" as the date version. Since Overturn Maps is currently updating their data scheme and storage repositories, I'll wait after 2025 to create an new update. Even so, you are open on aquiring thier complete dataset from: [Overturn Maps](https://overturemaps.org/)
-
+---
 
 ## Machine Learning Applications
 #### Preprocess Toolkit (Initial Version v1.0) - [Imagery Sensing Toolkit](https://www.dropbox.com/scl/fi/7srzeplaej1qsm67xzstx/Imagery-Preprocess-Toolkit-v1.zip?rlkey=crxjl4elktjqp888eqw82qwx7&st=9pltftxw&dl=0)
@@ -108,6 +108,13 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 ## Web Applications
 #### Google Earth Engine
+  - **New:**  [Foliage Phenology Exploration Toolkit v1.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - Recently created and updated that aids in determination of foliage seasonal phenology.
+    - Web application is very new and is currently active for canopy (pending low surface vegetations).
+  - **Updated:** [Wetlands Exploration Toolkit v3.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - Recently updated.
+    - Added 2024, 2025 Years.
+    - Added SAR Surface Water Detection.
+    - Added New Chlorophyll Detection (Alpha Testing)
+  - 
   - [Foliage Phenology Exploration Toolkit v1.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - [Recently created]
   - [Wetlands Exploration Toolkit v2.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - [Updated to include 2024 & 2025]
   - [Soils Expliratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b) - [Processing Refinements]
