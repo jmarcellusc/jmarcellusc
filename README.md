@@ -12,14 +12,10 @@ A Geospatial and Data Analytics Researcher focused on driving scientific progres
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
 ### Ongoing Projects
-- **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
-  - Adding more functions
-- **Earth Systems Geologic Mapping Project** - Pending Addtional Tools: [New Geological Mapping Project](#geologic-mapping)
-  - REQUIRED: Refining Datasource and Citation Database
-- **Ontological Database** - Updated:  [Ontolgical Database Schema Project](#ontological-database)
-  - Adding more functions: Batch importation and External database connection (GIS)
-- **Data Extraction Toolkits** - Updated: [Data Extraction Toolkits](#data-extraction)
-  - Recently Updated: AI Prompt Toolkit
+- **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications", Adding more functions) - [Version v1.1](#machine-learning-applications)
+- **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource and Citation Database: [New Geological Mapping Project](#geologic-mapping)
+- **Ontological Database** - Adding more functions: Batch importation and External database connection (GIS):  [Ontolgical Database Schema Project](#ontological-database)
+- **Data Extraction Toolkits** - Recently Updated: AI Prompt Toolkit: [Data Extraction Toolkits](#data-extraction)
 - **Hydrological Toolkits** - Paused; Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
 - **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
