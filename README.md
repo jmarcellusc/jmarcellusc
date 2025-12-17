@@ -24,8 +24,8 @@ Driving software development and data efficiency by enhancing and updating exist
 ### Planned Project and Tasks
   - **Attribution** (Database) Toolkits
   - **Microsoft Access** Datasource and Citation Database
-  - ESRI **Cartography** Toolkit Updates
-    - Geology (GeMS) Validation
+  - **ESRI Cartography** Toolkit Updates
+    - **Geology (GeMS) Validation**
       - Geologic Unit Assembler
       - Table Connection Verification
       - Geologic Plate Creator and Validator
