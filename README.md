@@ -13,9 +13,13 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### Ongoing Projects
 - **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
+  - Adding more functions
 - **Earth Systems Geologic Mapping Project** - Pending Addtional Tools: [New Geological Mapping Project](#geologic-mapping)
+  - REQUIRED: Refining Datasource and Citation Database
 - **Ontological Database** - Updated:  [Ontolgical Database Schema Project](#ontological-database)
+  - Adding more functions: Batch importation and External database connection (GIS)
 - **Data Extraction Toolkits** - Updated: [Data Extraction Toolkits](#data-extraction)
+  - Recently Updated: AI Prompt Toolkit
 - **Hydrological Toolkits** - Paused; Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
 - **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
@@ -100,17 +104,6 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 ## Machine Learning Applications
 #### Imagery Sensing Toolkit 
-**Version v1.0** - Inital creation, functions 1-14. [Imagery Sensing Toolkit](https://www.dropbox.com/scl/fi/7srzeplaej1qsm67xzstx/Imagery-Preprocess-Toolkit-v1.zip?rlkey=crxjl4elktjqp888eqw82qwx7&st=9pltftxw&dl=0)
- - Read Raster Info
- - Filter Out Dimensions
- - Creation of Binary Mask
- - Segmentation by Dimension (&Directory)
- - Reorganize Imagery Bands (&Directory)
- - Split Imagery into Grids (&Directory)
- - Normalize Imagery (&Directory)
- - Standardized Imagery (&Directory)
- - Detrend Imagery (&Directory)
-
 **Version v1.1**; - I would like to extend special gratitude to Jeff Jenness. His invaluable toolkit and documentation have been foundational to my understanding of elevation surfaces over the years. With addition to more hillshade and curvature toolkits, I will be incorporating more of Florinsky methodologys on surfaces as his literature are highly regarded. Not yet available for download.
 Adds the following:
   - Spatial Differencing
@@ -121,6 +114,17 @@ Adds the following:
   - DEM Kits: Analysis Surface Metrics
     - Slope: [4-Cell, N-S Gradients, (4,8,Weighted) Gradients]
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit.png" alt="Sample 1" width="50%">
+
+**Version v1.0** - Inital creation, functions 1-14. [Imagery Sensing Toolkit](https://www.dropbox.com/scl/fi/7srzeplaej1qsm67xzstx/Imagery-Preprocess-Toolkit-v1.zip?rlkey=crxjl4elktjqp888eqw82qwx7&st=9pltftxw&dl=0)
+ - Read Raster Info
+ - Filter Out Dimensions
+ - Creation of Binary Mask
+ - Segmentation by Dimension (&Directory)
+ - Reorganize Imagery Bands (&Directory)
+ - Split Imagery into Grids (&Directory)
+ - Normalize Imagery (&Directory)
+ - Standardized Imagery (&Directory)
+ - Detrend Imagery (&Directory)
 <br>
 
 
