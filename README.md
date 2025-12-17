@@ -92,8 +92,8 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 ## Hydrological Tools
- - Depression Identification - Completed, working on literature to document a possible new method
- - Depression Region Enclosure Fill - Completed
+ - Depression Identification and Depression Region Enclosure Fill - Completed, working on literature to document a possible new method
+ - General hydrological tools are on paused.
 
 #### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
 ---
