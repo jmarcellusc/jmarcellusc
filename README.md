@@ -52,7 +52,7 @@ I'm creating an ontological database that includes terms translations for the pu
   *  **Phase 2** - Verification and Improvements; **currently working** to verify batch information extraction using the AI Prompt Management and Methodology.
   *  **Phase 3** - **Pending**, Incorporation into or Methods of Data Transfer to Ontological Database
  
-#### [Return to Synopsis Table of Contents](#work-synopsis-and-table-of-contents)
+#### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
 ## Geologic Mapping
@@ -65,7 +65,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 * **Phase 4** - USGS Elevation Data Contours
 * **Phase 5** - Project Structure & Administration Creation - **"In-Progress";** Includes generation of neatlines, GeMS project creation, and database schema. The project region is the State of Texas and Mexico (northern) geology.
 
-#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+#### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
 ## Classification Toolkits
@@ -74,6 +74,8 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
    * **METHOD:**  Efficient approach in processing random forest of 3 moasic image periods, multistack
      * Example: GEE SMILE Random Forest classification, similar NLCD classification. 
 [![GEE Random Forest Classifier Example](https://imgur.com/jq49KYW.png)](https://youtu.be/KmfPY4PzZ20)
+
+#### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
 ## Data Extraction
@@ -82,7 +84,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 - [Download Tool](https://www.dropbox.com/scl/fi/mvjrtkn8zqkrv2iwz6ou3/Overture-Maps-Downloader-v1b.zip?rlkey=q9mdeu0skhzc76kjwmys2q66s&st=9egi4rw7&dl=0) (Update: v1b) - See: [Read Me Information](https://github.com/jmarcellusc/Download-Overture-Maps-Data)
   - **NOTES:** Only works with release: 24 September 2025	[2025-09-24.0	v1.12.0], schema v1.12.0. Please enter "2025-09-24.0" as the date version. Since Overturn Maps is currently updating their data scheme and storage repositories, I'll wait after 2025 to create an new update. Even so, you are open on aquiring thier complete dataset from: [Overturn Maps](https://overturemaps.org/)
 
-#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+#### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
 
@@ -124,7 +126,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
    
 <br>
 
-#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+#### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
 
@@ -146,7 +148,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 <br>
 
-#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+#### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
 
@@ -177,7 +179,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 <br>
 <br>
 
-#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+#### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
 ## Timeline
@@ -290,7 +292,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 <h2 align="center">About Me</h2>
 Research in Geological Sciences (Petrology, Geochemistry, Geomorphology, Sedimentation), GIS (Geostatistics, Cartography, Geospatial Data Science, Remote Sensing), Attributional Data Science (Python, VBA, JavaScript)
 
-#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+#### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
 ## Contact Information
