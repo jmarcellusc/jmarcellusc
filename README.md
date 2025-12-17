@@ -99,9 +99,8 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 ---
 
 ## Machine Learning Applications
-#### Preprocess Toolkit (Initial Version v1.0) - [Imagery Sensing Toolkit](https://www.dropbox.com/scl/fi/7srzeplaej1qsm67xzstx/Imagery-Preprocess-Toolkit-v1.zip?rlkey=crxjl4elktjqp888eqw82qwx7&st=9pltftxw&dl=0)
-**Version v1.1**; -Adds Spatial Differencing, Laplacian Differencing, Independent Component Analysis (ICA), Principal Component Analysis (PCA), Uniform Manifold Approximation and Projection, DEM Kits: Analysis Surface Metrics, Slope: [4-Cell, N-S Gradients, (4,8,Weighted) Gradients]. I would like to extend special gratitude to Jeff Jenness. His invaluable toolkit and documentation have been foundational to my understanding of elevation surfaces over the years. With addition to more hillshade and curvature toolkits, I will be incorporating more of Florinsky methodologys on surfaces as his literature are highly regarded. Not yet available for download.
-**Version v1.0**: Added Additional Process (and will continue to append additional functionalities) - Various tools to preprocess imagery before running Machine Learning process.
+#### Imagery Sensing Toolkit 
+**Version v1.0** - Inital creation, functions 1-14. [Imagery Sensing Toolkit](https://www.dropbox.com/scl/fi/7srzeplaej1qsm67xzstx/Imagery-Preprocess-Toolkit-v1.zip?rlkey=crxjl4elktjqp888eqw82qwx7&st=9pltftxw&dl=0)
  - Read Raster Info
  - Filter Out Dimensions
  - Creation of Binary Mask
@@ -111,9 +110,8 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
  - Normalize Imagery (&Directory)
  - Standardized Imagery (&Directory)
  - Detrend Imagery (&Directory)
-   - **Pending:** Machine Learning Data Integrity
-   - (Adding More: Differencing, PCA, ICA, MA, Decomposition, and advance procedures.)
-   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit.png" alt="Sample 1" width="50%">
+**Version v1.1**; -Adds Spatial Differencing, Laplacian Differencing, Independent Component Analysis (ICA), Principal Component Analysis (PCA), Uniform Manifold Approximation and Projection, DEM Kits: Analysis Surface Metrics, Slope: [4-Cell, N-S Gradients, (4,8,Weighted) Gradients]. I would like to extend special gratitude to Jeff Jenness. His invaluable toolkit and documentation have been foundational to my understanding of elevation surfaces over the years. With addition to more hillshade and curvature toolkits, I will be incorporating more of Florinsky methodologys on surfaces as his literature are highly regarded. Not yet available for download.
+  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit.png" alt="Sample 1" width="50%">
 <br>
 
 #### Machine Learning Toolkit
