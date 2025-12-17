@@ -52,7 +52,7 @@ I'm creating an ontological database that includes terms translations for the pu
   *  **Phase 2** - Verification and Improvements; **currently working** to verify batch information extraction using the AI Prompt Management and Methodology.
   *  **Phase 3** - **Pending**, Incorporation into or Methods of Data Transfer to Ontological Database
  
-- [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
 ---
 
 ## Geologic Mapping
