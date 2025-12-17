@@ -12,9 +12,8 @@ A Geospatial and Data Analytics Researcher focused on driving scientific progres
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
 * **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
-
-* **Earth Systems Geologic Mapping Project** Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Systems-Geologic-Map-Project/) scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices.
-* **Ontological Database** - **IMPROVED:**  Link Here
+* **Earth Systems Geologic Mapping Project** [New Geological Mapping Project](#geolgical-mapping)
+* **Ontological Database** - **IMPROVED:**  [Ontolgical Database Schema Project](#ontological-database)
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 ## Ontological Database
@@ -30,7 +29,7 @@ I'm creating an ontological database that includes terms translations for the pu
   *  **Phase 3** - **Pending**, Incorporation into or Methods of Data Transfer to Ontological Database
 
 ## Geologic Mapping
-I'll be starting to create digital geological maps, including interactive websites and products. The current process is the creation of surface models; 2 of material impervious type (canopy and ground); 2 of elevation type (hillshade and elevation contour). These are fundamental models that will overlay geologic information. I'll be starting with geologic maps in the State of Texas.
+Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Systems-Geologic-Map-Project/) scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices. I'll be starting to create digital geological map, including interactive websites and products. The current process is the creation of surface models; 2 of material impervious type (canopy and ground); 2 of elevation type (hillshade and elevation contour). These are fundamental models that will overlay geologic information. I'll be starting with geologic maps in the State of Texas.
 * **Phase 1** - [Impervious "Permeability" Canopy Model](https://ee-marcelluscampes.projects.earthengine.app/view/hydroimpervious-canopy-surface) - **"Model Created",** this preliminary model data that is the basis for the Hydrologic Impervious Ground Model (currently in progress) and serves in illustrating regions where geologic area is covered by anthropogenic (man-made) materials or natural vegetation canopy.
 * **Phase 2** -  [Impervious "Permeability" Ground Model](https://ee-marcelluscampes.projects.earthengine.app/view/hydroimpervious-canopy-surface) - **"Model Created",** this is presented with Phase 1, Canopy-Model. Both the canopy and ground models will be added to a geologic map as an overlay, highlighting anthropogenic (man-made) ground, vegetation canopy only, and water. 
   * Updated: [Overturn Maps Tools](https://www.dropbox.com/scl/fi/mvjrtkn8zqkrv2iwz6ou3/Overture-Maps-Downloader-v1b.zip?rlkey=q9mdeu0skhzc76kjwmys2q66s&st=7tsj5me4&dl=0)
