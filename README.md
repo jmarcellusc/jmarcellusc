@@ -111,7 +111,8 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
  - Standardized Imagery (&Directory)
  - Detrend Imagery (&Directory)
 
-**Version v1.1**; -Adds the following:
+**Version v1.1**; - I would like to extend special gratitude to Jeff Jenness. His invaluable toolkit and documentation have been foundational to my understanding of elevation surfaces over the years. With addition to more hillshade and curvature toolkits, I will be incorporating more of Florinsky methodologys on surfaces as his literature are highly regarded. Not yet available for download.
+Adds the following:
   - Spatial Differencing
   - Laplacian Differencing
   - Independent Component Analysis (ICA)
@@ -119,7 +120,6 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
   - Uniform Manifold Approximation and Projection
   - DEM Kits: Analysis Surface Metrics
     - Slope: [4-Cell, N-S Gradients, (4,8,Weighted) Gradients]
-- I would like to extend special gratitude to Jeff Jenness. His invaluable toolkit and documentation have been foundational to my understanding of elevation surfaces over the years. With addition to more hillshade and curvature toolkits, I will be incorporating more of Florinsky methodologys on surfaces as his literature are highly regarded. Not yet available for download.
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit.png" alt="Sample 1" width="50%">
 <br>
 
@@ -155,7 +155,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
   - [Political Boundary v1](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection) - [Processing Refinements]
   - [Aerosols Exaiminer Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) - [Issues documented, requires recoding.]
 #### ESRI 
-  - World Minerals Dashboard- [! Removed, Moving project to Google Earth Engine as data hosting with ESRI is costly.]
+  - World Minerals Dashboard- [**! Removed**, Moving project to Google Earth Engine as data hosting with ESRI is costly.]
 
 <br>
 
