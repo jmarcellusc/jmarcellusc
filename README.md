@@ -17,7 +17,28 @@ Driving software development and data efficiency by enhancing and updating exist
 * **Data Extraction Toolkits** - Updated: [Data Extraction Toolkits](#data-extraction)
 * **Hydrological Toolkits** - Paused; Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
 * **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
+* 
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
+
+### Planned
+  - **Attribution** (Database) Toolkits
+    - Database Spell Checker
+  - ESRI **Cartography** Toolkit Updates
+    - Geology (GeMS) Validation
+      - Geologic Unit Assembler
+      - Table Connection Verification
+      - Geologic Plate Creator and Validator
+    - **QA/QC**
+      - Vector Line-work
+      - Polygon Area-work
+  - **Microsoft Access** Database Templates
+  - **Excel** Toolkits
+  - **Google Earth Engine**
+    - Landslide Analysis
+    - Burn Region Analysis
+    - Land Footprint Analysis
+    - *and many other toolkits*
+
 
 ## Ontological Database
 I'm creating an ontological database that includes terms translations for the purpose of robust sematic interoperabilitiy and the ability for linguistic cross boundary transferability. The ontological structure will provide necessary formal adn explicit framework to define concepts of multi-definitions By hosting translations directly within this defined schema, your database ensures that every system, analyst, or application accessing the data—regardless of their operational language—refers to the exact same concept (e.g., the English term "invoice" maps to the defined concept FinancialDocument, which then translates directly and unambiguously to its French, German, and Spanish counterparts). This unified approach guarantees data consistency and accurate cross-lingual knowledge sharing, transforming disparate terms into a single, cohesive, and semantically rich knowledge graph.
@@ -51,22 +72,13 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 [![GEE Random Forest Classifier Example](https://imgur.com/jq49KYW.png)](https://youtu.be/KmfPY4PzZ20)
 ---
 
-### Data Extraction
+## Data Extraction
  * **NEW:** [AI Prompt Management Program - v2.3](https://www.dropbox.com/scl/fi/6dyipnkja1nfrwjtd1d5h/AI-Prompt-Management-v1d.zip?rlkey=6k8uhbrusqe69syhjxai6asiv&st=awr0trd7&dl=0) - Update: Dec, 15 2025. Fixed: Previous version was not saving on import. Dynamic fields option that opens the possibility to save a custom prompt to the local database. Also features; ability to share a database, import a database, appends a user system name, and menu system improvements.
  * **Download 'Overture Maps' Data** 
 - [Download Tool](https://www.dropbox.com/scl/fi/mvjrtkn8zqkrv2iwz6ou3/Overture-Maps-Downloader-v1b.zip?rlkey=q9mdeu0skhzc76kjwmys2q66s&st=9egi4rw7&dl=0) (Update: v1b) - See: [Read Me Information](https://github.com/jmarcellusc/Download-Overture-Maps-Data)
   - **NOTES:** Only works with release: 24 September 2025	[2025-09-24.0	v1.12.0], schema v1.12.0. Please enter "2025-09-24.0" as the date version. Since Overturn Maps is currently updating their data scheme and storage repositories, I'll wait after 2025 to create an new update. Even so, you are open on aquiring thier complete dataset from: [Overturn Maps](https://overturemaps.org/)
 
 
----
-
-## Web Applications
-- **New:**  [Foliage Phenology Exploration Toolkit v1.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - Recently created and updated that aids in determination of foliage seasonal phenology.
-  - Web application is very new and is currently active for canopy (pending low surface vegetations).
-- **Updated:** [Wetlands Exploration Toolkit v3.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - Recently updated.
-  - Added 2024, 2025 Years.
-  - Added SAR Surface Water Detection.
-  - Added New Chlorophyll Detection (Alpha Testing)---
 ---
 
 
@@ -115,14 +127,12 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
     - Added SAR Surface Water Detection.
     - Added New Chlorophyll Detection (Alpha Testing)
   - 
-  - [Foliage Phenology Exploration Toolkit v1.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - [Recently created]
-  - [Wetlands Exploration Toolkit v2.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - [Updated to include 2024 & 2025]
   - [Soils Expliratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b) - [Processing Refinements]
   - [Topographic Terrain Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector) - [User Refinements]
   - [Political Boundary v1](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection) - [Processing Refinements]
   - [Aerosols Exaiminer Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) - [Issues documented, requires recoding.]
 #### ESRI 
-  - [World Minerals Dashboard](https://github.com/jmarcellusc/jmarcellusc/) - [Removed, Moving project to Google Earth Engine as data hosting with ESRI is costly.]
+  - World Minerals Dashboard- [! Removed, Moving project to Google Earth Engine as data hosting with ESRI is costly.]
 
 <br>
 
@@ -257,31 +267,6 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
     - STATUS: Stand-Alone complete. Conversion into ESRI toolscript is paused for a python library issue.
     - STATUS: Will expand tool to run multi-sampling and multi-threshold. Method requires targeted improvement.
   - **PDF Text/Latex** (with Python) - using templates to create variable design PDF documents. Will be native and embedded into other scripts and toolkits.
-
----
-
-## Planned Work
-
-I want to create cartographic tools for various implementations (geologic, environmental, geostatistics) and other toolkits to aid in any GIS and Geosciences fieldwork.
-
-- Planned
-  - **Attribution** (Database) Toolkits
-    - Database Spell Checker
-  - ESRI **Cartography** Toolkit Updates
-    - Geology (GeMS) Validation
-      - Geologic Unit Assembler
-      - Table Connection Verification
-      - Geologic Plate Creator and Validator
-    - **QA/QC**
-      - Vector Line-work
-      - Polygon Area-work
-  - **Microsoft Access** Database Templates
-  - **Excel** Toolkits
-  - **Google Earth Engine**
-    - Landslide Analysis
-    - Burn Region Analysis
-    - Land Footprint Analysis
-    - *and many other toolkits*
 
 ---
 
