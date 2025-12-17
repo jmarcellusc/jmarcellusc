@@ -14,9 +14,9 @@ Driving software development and data efficiency by enhancing and updating exist
 ### Ongoing Projects
 - **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications", Adding more functions) - [Version v1.1](#machine-learning-applications)
 - **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource and Citation Database: [New Geological Mapping Project](#geologic-mapping)
-- **Ontological Database** - Adding more functions: Batch importation and External database connection (GIS):  [Ontolgical Database Schema Project](#ontological-database)
-- **Data Extraction Toolkits** - Recently Updated: AI Prompt Toolkit: [Data Extraction Toolkits](#data-extraction)
-- **Hydrological Toolkits** - Paused; Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
+- **Ontological Database** - REQUIRED: Batch importation and External database connection (GIS):  [Ontolgical Database Schema Project](#ontological-database)
+- **Data Extraction Toolkits** - RECENT: Updated A.I. Prompt Toolkit: [Data Extraction Toolkits](#data-extraction)
+- **Hydrological Toolkits** - PAUSED: Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
 - **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
