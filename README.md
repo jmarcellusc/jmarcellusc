@@ -92,6 +92,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
       - Filter: Elevation Outlier by Threshold
       - Filter: Smooth LAS
       - Will depreciated and move functionalites to LiDAR Toolkit Processor
+    - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Lidar%20Toolkit.png" alt="Lidar Toolkit" width="50%">
 
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
@@ -137,7 +138,7 @@ Adds the following:
   - Uniform Manifold Approximation and Projection
   - DEM Kits: Analysis Surface Metrics
     - Slope: [4-Cell, N-S Gradients, (4,8,Weighted) Gradients]
-  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit.png" alt="Sample 1" width="50%">
+  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit_V1_1.png" alt="Imagery Sensing Toolkit" width="50%">
 
 **Version v1.0** - Inital creation, functions 1-14. [Imagery Sensing Toolkit](https://www.dropbox.com/scl/fi/7srzeplaej1qsm67xzstx/Imagery-Preprocess-Toolkit-v1.zip?rlkey=crxjl4elktjqp888eqw82qwx7&st=9pltftxw&dl=0)
  - Read Raster Info
