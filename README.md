@@ -16,6 +16,7 @@ Driving software development and data efficiency by enhancing and updating exist
 - **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource and Citation Database: [New Geological Mapping Project](#geologic-mapping)
 - **Ontological Database** - REQUIRED: Batch importation and External database connection (GIS):  [Ontolgical Database Schema Project](#ontological-database)
 - **Data Extraction Toolkits** - RECENT: Updated A.I. Prompt Toolkit: [Data Extraction Toolkits](#data-extraction)
+- **Lidar Toolkit** - PAUSED: Full Functional Toolkit (will add recipes for batch processsing): [Lidar Toolkits](#lidar-toolkit)
 - **Hydrological Toolkits** - PAUSED: Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
 - **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
@@ -68,6 +69,28 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 * **Phase 3** - USGS Elevation Data Hillshade - **"In-Progress"** - Will explore USGS and ESA products.
 * **Phase 4** - USGS Elevation Data Contours
 * **Phase 5** - Project Structure & Administration Creation - **"In-Progress";** Includes generation of neatlines, GeMS project creation, and database schema. The project region is the State of Texas and Mexico (northern) geology.
+
+#### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
+---
+
+
+## Lidar Toolkit
+  - LiDAR Toolkit Processer (Multicore Thread Processing)
+    - Current Batch Tools:
+      - Conversion: LAZ to LAS
+      - Filter by Classification
+      - Filter: Extended Local Minimum
+      - Filter: Outlier: Radial or Statistical
+      - Filter: Simple Morphological
+      - Filter: Ground Filter Generalized
+    - Conversion: LAS to Tiff
+      - Additional Tools and Filters will be added. Give Credit to [PDAL](https://pdal.io/en/2.8.4/)
+  - LiDAR Secondary Toolkit (Mutlicore Thread Processing)
+    - Current Batch Tools:
+      - Process: Equal Area Segmentation
+      - Filter: Elevation Outlier by Threshold
+      - Filter: Smooth LAS
+      - Will depreciated and move functionalites to LiDAR Toolkit Processor
 
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
@@ -163,6 +186,24 @@ Adds the following:
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
+## Metadata Applications
+ - XML Editor Conversion
+   - **COMPLETED:** Pending Link
+    - Runs xml extraction into Excel Macro database. Eases in xml replication, modification, and editing, particular to ESRI metadata.
+    - Current Batch Tools:
+      - Extract Metadata (xml >> excel)
+      - Update Metadata (xml >> excel >> xml)
+      - Create Metadata (excel >> xml)
+  - PDF Metadata Updater:
+    - **COMPLETED:** [PDF Metadata Updater](https://github.com/jmarcellusc/PDF-Metadata-Updater)
+    - Reads Excel Macro database (inventory of pdf metadata) and appends metadata to PDF with advance customizability.
+    - Currently single file selection with selectable metadata record injection.
+    -   - Python Small GIS Projects:
+  - **COMPLETED:** [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator)
+
+
+#### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
+---
 
 ## Documentation Processing Applications
 #### Documents and Images
@@ -216,28 +257,13 @@ Adds the following:
    
 <br>
 
-### **Early 2025**
+
+
+### REMOVING SECTION: **Early 2025**
    - In Progress: ESRI Interactive Web Applications:
     - PDF Metadata Toolkit - Requires Minor Conversion
     - XML Metadata Toolkit - Requires conversion to ESRI Geoprocessing Kit (current Stand Alone) 
-    - [World Minerals Dashboard](https://experience.arcgis.com/experience/e5843988a123402eb14498b270a9fa1f) - Reformatting the site, might transfer to personal hosting page.
     - [Houston-Galveston Area Council Hurricane Evacuation Dashboard](https://experience.arcgis.com/experience/d24314506471423f98b5252a1b7f5f0f)
-  - LiDAR Toolkit Processer (Multicore Thread Processing)
-    - Current Batch Tools:
-      - Conversion: LAZ to LAS
-      - Filter by Classification
-      - Filter: Extended Local Minimum
-      - Filter: Outlier: Radial or Statistical
-      - Filter: Simple Morphological
-      - Filter: Ground Filter Generalized
-    - Conversion: LAS to Tiff
-      - Additional Tools and Filters will be added. Give Credit to [PDAL](https://pdal.io/en/2.8.4/)
-  - LiDAR Secondary Toolkit (Mutlicore Thread Processing)
-    - Current Batch Tools:
-      - Process: Equal Area Segmentation
-      - Filter: Elevation Outlier by Threshold
-      - Filter: Smooth LAS
-      - Will depreciated and move functionalites to LiDAR Toolkit Processor
   - XML Editor Conversion
     - Runs xml extraction into Excel Macro database. Eases in xml replication, modification, and editing, particular to ESRI metadata.
     - Current Batch Tools:
