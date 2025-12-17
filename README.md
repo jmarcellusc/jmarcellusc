@@ -53,7 +53,7 @@ I'm creating an ontological database that includes terms translations for the pu
 * **Local Datasource/Citation Database** - I created a local datasource and citation database to establish a reliable, personalized repository for managing, citing, and organizing information relevant to my specific projects or domain.
   *  **Phase 1** - Inital Creation - Completed
   *  **Phase 2** - Verification and Improvements;
-    -  **In-Progress** Verify batch information extraction using the AI Prompt Management and Methodology.
+      -  **In-Progress** Verify batch information extraction using the AI Prompt Management and Methodology.
   *  **Phase 3** - **Pending**, Incorporation into or Methods of Data Transfer to Ontological Database
  
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
