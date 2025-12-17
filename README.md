@@ -11,8 +11,7 @@ A Geospatial and Data Analytics Researcher focused on driving scientific progres
 ## Current Work Summary
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
-* **UPDATED** ~ **Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - Version v1.1; that adds Spatial Differencing, Laplacian Differencing, Independent Component Analysis (ICA), Principal Component Analysis (PCA), Uniform Manifold Approximation and Projection, DEM Kits: Analysis Surface Metrics, Slope: [4-Cell, N-S Gradients, (4,8,Weighted) Gradients]. I would like to extend special gratitude to Jeff Jenness. His invaluable toolkit and documentation have been foundational to my understanding of elevation surfaces over the years. With addition to more hillshade and curvature toolkits, I will be incorporating more of Florinsky methodologys on surfaces as his literature are highly regarded.
-  *  <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit.png" alt="Sample 1" width="50%">
+* **UPDATED** ~ **Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - Version v1.1; [Jump to the Conclusion](##machinelearningapplications)
 
 * **Earth Systems Geologic Mapping Project** Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Systems-Geologic-Map-Project/) scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices.
 * **Ontological Database** - **IMPROVED:** Improved database structure and introduced translation schema (including additional fixes and enhancements).
@@ -67,7 +66,8 @@ I'll be starting to create digital geological maps, including interactive websit
 
 ## Machine Learning Applications
 #### Preprocess Toolkit (Initial Version v1.0) - [Imagery Sensing Toolkit](https://www.dropbox.com/scl/fi/7srzeplaej1qsm67xzstx/Imagery-Preprocess-Toolkit-v1.zip?rlkey=crxjl4elktjqp888eqw82qwx7&st=9pltftxw&dl=0)
-**Updated Version v1.1**: Added Additional Process (and will continue to append additional functionalities) - Various tools to preprocess imagery before running Machine Learning process.
+**Version v1.1**; -Adds Spatial Differencing, Laplacian Differencing, Independent Component Analysis (ICA), Principal Component Analysis (PCA), Uniform Manifold Approximation and Projection, DEM Kits: Analysis Surface Metrics, Slope: [4-Cell, N-S Gradients, (4,8,Weighted) Gradients]. I would like to extend special gratitude to Jeff Jenness. His invaluable toolkit and documentation have been foundational to my understanding of elevation surfaces over the years. With addition to more hillshade and curvature toolkits, I will be incorporating more of Florinsky methodologys on surfaces as his literature are highly regarded. Not yet available for download.
+**Version v1.0**: Added Additional Process (and will continue to append additional functionalities) - Various tools to preprocess imagery before running Machine Learning process.
  - Read Raster Info
  - Filter Out Dimensions
  - Creation of Binary Mask
