@@ -11,7 +11,7 @@ A Geospatial and Data Analytics Researcher focused on driving scientific progres
 ## Work Synopsis and Table of Contents
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
-### Ongoing Projects
+<h3><u><strong>Ongoing Projects</strong></u></h3>
 * **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
 * **Earth Systems Geologic Mapping Project** - Pending Addtional Tools: [New Geological Mapping Project](#geologic-mapping)
 * **Ontological Database** - Updated:  [Ontolgical Database Schema Project](#ontological-database)
@@ -21,7 +21,7 @@ Driving software development and data efficiency by enhancing and updating exist
 * 
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
-### Planned Project and Tasks
+<h3><u><strong>Planned Project and Tasks</strong></u></h3>
   - **Attribution** (Database) Toolkits
   - **Microsoft Access** Datasource and Citation Database
   - **ESRI Cartography** Toolkit Updates
