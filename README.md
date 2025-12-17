@@ -17,6 +17,7 @@ Driving software development and data efficiency by enhancing and updating exist
 - **Ontological Database** - REQUIRED: Batch importation and External database connection (GIS):  [Ontolgical Database Schema Project](#ontological-database)
 - **Data Extraction Toolkits** - RECENT: Updated A.I. Prompt Toolkit: [Data Extraction Toolkits](#data-extraction)
 - **Lidar Toolkit** - PAUSED: Full Functional Toolkit (will add recipes for batch processsing): [Lidar Toolkits](#lidar-toolkit)
+- **Metadata Applications** - PAUSED: Various Applications Available (Update Plans): [Metadata Applications](#metadata-applications)
 - **Hydrological Toolkits** - PAUSED: Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
 - **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
@@ -95,6 +96,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
+
 ## Classification Toolkits
  * **NEW:** SMILE Google Earth Engine Random Forest
    * **METHOD:**  Introduction of AplhaEarth's Google Deep AI Imagery
@@ -104,6 +106,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
+
 
 ## Data Extraction
  * **NEW:** [AI Prompt Management Program - v2.3](https://www.dropbox.com/scl/fi/6dyipnkja1nfrwjtd1d5h/AI-Prompt-Management-v1d.zip?rlkey=6k8uhbrusqe69syhjxai6asiv&st=by69jip6&dl=0) - Update: Dec, 15 2025. Fixed: Previous version was not saving on import. Dynamic fields option that opens the possibility to save a custom prompt to the local database. Also features; ability to share a database, import a database, appends a user system name, and menu system improvements.
@@ -121,6 +124,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 #### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
 ---
+
 
 ## Machine Learning Applications
 #### Imagery Sensing Toolkit 
