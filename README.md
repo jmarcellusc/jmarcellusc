@@ -52,7 +52,7 @@ I'm creating an ontological database that includes terms translations for the pu
   *  **Phase 2** - Verification and Improvements; **currently working** to verify batch information extraction using the AI Prompt Management and Methodology.
   *  **Phase 3** - **Pending**, Incorporation into or Methods of Data Transfer to Ontological Database
  
-### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
 ---
 
 ## Geologic Mapping
@@ -65,7 +65,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 * **Phase 4** - USGS Elevation Data Contours
 * **Phase 5** - Project Structure & Administration Creation - **"In-Progress";** Includes generation of neatlines, GeMS project creation, and database schema. The project region is the State of Texas and Mexico (northern) geology.
 
-- [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
 ---
 
 ## Classification Toolkits
@@ -82,13 +82,15 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 - [Download Tool](https://www.dropbox.com/scl/fi/mvjrtkn8zqkrv2iwz6ou3/Overture-Maps-Downloader-v1b.zip?rlkey=q9mdeu0skhzc76kjwmys2q66s&st=9egi4rw7&dl=0) (Update: v1b) - See: [Read Me Information](https://github.com/jmarcellusc/Download-Overture-Maps-Data)
   - **NOTES:** Only works with release: 24 September 2025	[2025-09-24.0	v1.12.0], schema v1.12.0. Please enter "2025-09-24.0" as the date version. Since Overturn Maps is currently updating their data scheme and storage repositories, I'll wait after 2025 to create an new update. Even so, you are open on aquiring thier complete dataset from: [Overturn Maps](https://overturemaps.org/)
 
-
+#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
 ---
 
 
 ## Hydrological Tools
  - Depression Identification - Completed, working on literature to document a possible new method
  - Depression Region Enclosure Fill - Completed
+
+#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
 ---
 
 ## Machine Learning Applications
@@ -122,6 +124,10 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
    
 <br>
 
+#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+---
+
+
 ## Web Applications
 #### Google Earth Engine
   - **New:**  [Foliage Phenology Exploration Toolkit v1.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - Recently created and updated that aids in determination of foliage seasonal phenology.
@@ -139,6 +145,10 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
   - World Minerals Dashboard- [! Removed, Moving project to Google Earth Engine as data hosting with ESRI is costly.]
 
 <br>
+
+#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+---
+
 
 ## Documentation Processing Applications
 #### Documents and Images
@@ -166,6 +176,9 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 <br>
 <br>
+
+#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
+---
 
 ## Timeline
 ### **Mid 2025**
@@ -277,6 +290,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 <h2 align="center">About Me</h2>
 Research in Geological Sciences (Petrology, Geochemistry, Geomorphology, Sedimentation), GIS (Geostatistics, Cartography, Geospatial Data Science, Remote Sensing), Attributional Data Science (Python, VBA, JavaScript)
 
+#### [Return to Synopsis Introduction](#work-synopsis-table-of-contents)
 ---
 
 ## Contact Information
