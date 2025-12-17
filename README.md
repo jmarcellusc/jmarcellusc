@@ -12,8 +12,11 @@ A Geospatial and Data Analytics Researcher focused on driving scientific progres
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
 * **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
-* **Earth Systems Geologic Mapping Project** [New Geological Mapping Project](#geolgical-mapping)
-* **Ontological Database** - **IMPROVED:**  [Ontolgical Database Schema Project](#ontological-database)
+* **Earth Systems Geologic Mapping Project** - Pending Addtional Tools: [New Geological Mapping Project](#geologic-mapping)
+* **Ontological Database** - Updated:  [Ontolgical Database Schema Project](#ontological-database)
+* **Data Extraction Toolkits** - Updated: [Data Extraction Toolkits](#data-extraction)
+* **Hydrological Toolkits** - Paused; Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
+* **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 * **TEMPORARY:** Presenting Drones: "Drone Example: Pico De Orizaba" -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 ## Ontological Database
@@ -27,6 +30,7 @@ I'm creating an ontological database that includes terms translations for the pu
   *  **Phase 1** - Inital Creation - Completed
   *  **Phase 2** - Verification and Improvements; **currently working** to verify batch information extraction using the AI Prompt Management and Methodology.
   *  **Phase 3** - **Pending**, Incorporation into or Methods of Data Transfer to Ontological Database
+---
 
 ## Geologic Mapping
 Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Systems-Geologic-Map-Project/) scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices. I'll be starting to create digital geological map, including interactive websites and products. The current process is the creation of surface models; 2 of material impervious type (canopy and ground); 2 of elevation type (hillshade and elevation contour). These are fundamental models that will overlay geologic information. I'll be starting with geologic maps in the State of Texas.
@@ -37,15 +41,19 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 * **Phase 3** - USGS Elevation Data Hillshade - **"In-Progress"** - Will explore USGS and ESA products.
 * **Phase 4** - USGS Elevation Data Contours
 * **Phase 5** - Project Structure & Administration Creation - **"In-Progress";** Includes generation of neatlines, GeMS project creation, and database schema. The project region is the State of Texas and Mexico (northern) geology.
+---
 
-### Data Extraction
- * **NEW:** [AI Prompt Management Program - v2.3](https://www.dropbox.com/scl/fi/6dyipnkja1nfrwjtd1d5h/AI-Prompt-Management-v1d.zip?rlkey=6k8uhbrusqe69syhjxai6asiv&st=awr0trd7&dl=0) - Update: Dec, 15 2025. Fixed: Previous version was not saving on import. Dynamic fields option that opens the possibility to save a custom prompt to the local database. Also features; ability to share a database, import a database, appends a user system name, and menu system improvements.
-
+## Classification Toolkits
  * **NEW:** SMILE Google Earth Engine Random Forest
    * **METHOD:**  Introduction of AplhaEarth's Google Deep AI Imagery
    * **METHOD:**  Efficient approach in processing random forest of 3 moasic image periods, multistack
      * Example: GEE SMILE Random Forest classification, similar NLCD classification. 
 [![GEE Random Forest Classifier Example](https://imgur.com/jq49KYW.png)](https://youtu.be/KmfPY4PzZ20)
+---
+
+### Data Extraction
+ * **NEW:** [AI Prompt Management Program - v2.3](https://www.dropbox.com/scl/fi/6dyipnkja1nfrwjtd1d5h/AI-Prompt-Management-v1d.zip?rlkey=6k8uhbrusqe69syhjxai6asiv&st=awr0trd7&dl=0) - Update: Dec, 15 2025. Fixed: Previous version was not saving on import. Dynamic fields option that opens the possibility to save a custom prompt to the local database. Also features; ability to share a database, import a database, appends a user system name, and menu system improvements.
+
 
 ---
 
@@ -55,7 +63,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 - **Updated:** [Wetlands Exploration Toolkit v3.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - Recently updated.
   - Added 2024, 2025 Years.
   - Added SAR Surface Water Detection.
-  - Added New Chlorophyll Detection (Alpha Testing)
+  - Added New Chlorophyll Detection (Alpha Testing)---
 
 ## Hydrological Tools
  - Depression Identification - Completed, working on literature to document a possible new method
