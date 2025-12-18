@@ -24,7 +24,7 @@ Driving software development and data efficiency by enhancing and updating exist
   - **Hydrological Toolkits** - PAUSED: Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
   - **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
-
+$${\color{red}This \space is \space red \space text}$$
 
 
 ### Planned Projects and Tasks
