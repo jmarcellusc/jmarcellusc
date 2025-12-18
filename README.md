@@ -26,7 +26,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 
 
-###  <code style="color : red">Planned Projects and Tasks</code>
+###  <mark>Planned Projects and Tasks</mark>
   - **Attribution** (Database) Toolkits
   - **Microsoft Access** Datasource and Citation Database
   - **ESRI Cartography** Toolkit Updates
