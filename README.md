@@ -71,6 +71,15 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 * **Phase 4** - USGS Elevation Data Contours
 * **Phase 5** - Project Structure & Administration Creation - **"In-Progress";** Includes generation of neatlines, GeMS project creation, and database schema. The project region is the State of Texas and Mexico (northern) geology.
 
+### Geologic GIS Mapping Toolkits
+#### Attribution Series
+  - Geologic Unit Color Toolkit: [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0) - GeMS, FGDC, & USGS Compliant
+  - [CMYK Palette Generator](https://www.dropbox.com/scl/fi/2t54rddhgh0hmcnabre4g/CMYK-Color-Palette-Generator.zip?rlkey=mhjynsesdyvvawl4c0w1gb478&st=w4is55to&dl=0) - [Additional Tools Planned]
+  -   - **COMPLETED:** [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator)
+#### Geometric Series
+  - Map Neatline Tool: [Updated v3.1](https://www.dropbox.com/scl/fi/tflazuzs75u2nah0zo60c/Map-Neatline-Tool-Public.zip?rlkey=fbbbf66shwcul36ent0o0329u&st=nfos1ys2&dl=0) - Fixed path issues and process cleanup.
+
+
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
@@ -195,45 +204,28 @@ Adds the following:
 ---
 
 ## Metadata Applications
- - XML Editor Conversion
-   - **COMPLETED:** Pending Link
+ - **XML Editor Conversion**
+   - COMPLETED: Pending Link
     - Runs xml extraction into Excel Macro database. Eases in xml replication, modification, and editing, particular to ESRI metadata.
     - Current Batch Tools:
       - Extract Metadata (xml >> excel)
       - Update Metadata (xml >> excel >> xml)
       - Create Metadata (excel >> xml)
-  - PDF Metadata Updater:
-    - **COMPLETED:** [PDF Metadata Updater](https://github.com/jmarcellusc/PDF-Metadata-Updater)
-    - Reads Excel Macro database (inventory of pdf metadata) and appends metadata to PDF with advance customizability.
-    - Currently single file selection with selectable metadata record injection.
-    -   - Python Small GIS Projects:
-  - **COMPLETED:** [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator)
+  - **PDF Metadata Updater:**
+    - COMPLETED: [PDF Metadata Updater](https://github.com/jmarcellusc/PDF-Metadata-Updater) - [Requires [Excel Metadata Database/Form](https://www.dropbox.com/scl/fi/8ucgwe12epf82hv99cjpc/PDF_MetadataDB.zip?rlkey=6ybfdbmpa9md1xoxyqazq47bd&st=gm6o3f5v&dl=0)]
+      - Reads Excel Macro database (inventory of pdf metadata) and appends metadata to PDF with advance customizability.
+      - Currently single file selection with selectable metadata record injection.
+      - Python Small GIS Projects:
 
 
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
+
 ## Documentation Processing Applications
-#### Documents and Images
-  - [PDF Toolkit v1b](https://www.dropbox.com/scl/fi/kdvribiwzg1kmj6amwh6r/PDF-Toolkit-v1b.zip?rlkey=p1gjp84z4byf520ozj6ceii6m&st=kye2vhns&dl=0) - [Requires [Excel Metadata Database/Form](https://www.dropbox.com/scl/fi/8ucgwe12epf82hv99cjpc/PDF_MetadataDB.zip?rlkey=6ybfdbmpa9md1xoxyqazq47bd&st=gm6o3f5v&dl=0)]
-  - [CMYK Palette Generator](https://www.dropbox.com/scl/fi/2t54rddhgh0hmcnabre4g/CMYK-Color-Palette-Generator.zip?rlkey=mhjynsesdyvvawl4c0w1gb478&st=w4is55to&dl=0) - [Additional Tools Planned]
-
-
-
-<br>
-
-## Geospatial
-#### Cartographic
-  - Geologic Unit Color Toolkit: [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0) - GeMS, FGDC, & USGS Compliant
-  - Map Neatline Tool: [Updated v3.1](https://www.dropbox.com/scl/fi/tflazuzs75u2nah0zo60c/Map-Neatline-Tool-Public.zip?rlkey=fbbbf66shwcul36ent0o0329u&st=nfos1ys2&dl=0) - Fixed path issues and process cleanup.
-
-<br>
-
-## Notes
-#### Chemical
+### Chemical
  - [Elements - Notes](https://github.com/jmarcellusc/Elements-Notes-) - A compilation of notes for chemical elements, on-going.
 
-<br>
 <br>
 
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
