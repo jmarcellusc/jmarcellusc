@@ -25,7 +25,10 @@ Driving software development and data efficiency by enhancing and updating exist
   - **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
 
-### Planned Project and Tasks
+
+
+<br>
+### Planned Projects and Tasks
   - **Attribution** (Database) Toolkits
   - **Microsoft Access** Datasource and Citation Database
   - **ESRI Cartography** Toolkit Updates
