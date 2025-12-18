@@ -11,7 +11,7 @@ A Geospatial and Data Analytics Researcher focused on driving scientific progres
 ## Work Synopsis and Table of Contents
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
-### <code style="color : red">Ongoing Projects</code>
+### ==Ongoing Projects==
 #### <ins>In-Progress</ins>
   - **LIGARE** - Geological UUID Coder/Decoder
 #### <ins>Updated</ins>
