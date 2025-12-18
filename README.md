@@ -27,7 +27,6 @@ Driving software development and data efficiency by enhancing and updating exist
 
 
 
-<br>
 ### Planned Projects and Tasks
   - **Attribution** (Database) Toolkits
   - **Microsoft Access** Datasource and Citation Database
