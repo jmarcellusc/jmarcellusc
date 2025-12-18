@@ -24,7 +24,6 @@ Driving software development and data efficiency by enhancing and updating exist
   - **Hydrological Toolkits** - PAUSED: Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
   - **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
-* <u>TEMPORARY PRESENTATION:</u> **Presenting Drones: "Drone Example: Pico De Orizaba"** -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 ### Planned Project and Tasks
   - **Attribution** (Database) Toolkits
@@ -238,7 +237,8 @@ Adds the following:
 
 
 ## ESRI
-- [Houston-Galveston Area Council Hurricane Evacuation Dashboard](https://experience.arcgis.com/experience/d24314506471423f98b5252a1b7f5f0f)
+- **[Houston-Galveston Area Council Hurricane Evacuation Dashboard](https://experience.arcgis.com/experience/d24314506471423f98b5252a1b7f5f0f)**
+- **Presenting Drones: "Drone Example: Pico De Orizaba"** -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 
 
