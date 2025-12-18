@@ -21,7 +21,7 @@ Driving software development and data efficiency by enhancing and updating exist
 - **Hydrological Toolkits** - PAUSED: Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
 - **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
-* <ul>TEMPORARY PRESENTATION:</ul> **Presenting Drones: "Drone Example: Pico De Orizaba"** -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
+* <u>TEMPORARY PRESENTATION:</u> **Presenting Drones: "Drone Example: Pico De Orizaba"** -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 ### Planned Project and Tasks
   - **Attribution** (Database) Toolkits
