@@ -12,14 +12,17 @@ A Geospatial and Data Analytics Researcher focused on driving scientific progres
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
 ### Ongoing Projects
-- **UPDATED: Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
-- **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource & Citation Database: [New Geological Mapping Project](#geologic-mapping)
-- **Ontological Database** - REQUIRED: Batch importation and External database connection (GIS):  [Ontolgical Database Schema Project](#ontological-database)
-- **Data Extraction Toolkits** - RECENT: Updated A.I. Prompt Toolkit: [Data Extraction Toolkits](#data-extraction)
-- **Lidar Toolkit** - PAUSED: Full Functional Toolkit (will add recipes for batch processsing): [Lidar Toolkits](#lidar-toolkit)
-- **Metadata Applications** - PAUSED: Various Applications Available (Update Plans): [Metadata Applications](#metadata-applications)
-- **Hydrological Toolkits** - PAUSED: Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
-- **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
+#### In-Progress
+  - **LIGARE** - Geological UUID Coder/Decoder
+#### Updated
+  - **Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
+  - **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource & Citation Database: [New Geological Mapping Project](#geologic-mapping)
+  - **Ontological Database** - REQUIRED: Batch importation and External database connection (GIS):  [Ontolgical Database Schema Project](#ontological-database)
+  - **Data Extraction Toolkits** - RECENT: Updated A.I. Prompt Toolkit: [Data Extraction Toolkits](#data-extraction)
+  - **Lidar Toolkit** - PAUSED: Full Functional Toolkit (will add recipes for batch processsing): [Lidar Toolkits](#lidar-toolkit)
+  - **Metadata Applications** - PAUSED: Various Applications Available (Update Plans): [Metadata Applications](#metadata-applications)
+  - **Hydrological Toolkits** - PAUSED: Writing literature and documentation. [Data Extraction Toolkits](#hydrological-tools)
+  - **Web Applications** - Collections of Google Earth Engine Toolkits [Web Applications](#web-applications)
 
 * <u>TEMPORARY PRESENTATION:</u> **Presenting Drones: "Drone Example: Pico De Orizaba"** -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
