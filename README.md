@@ -32,7 +32,8 @@ Driving software development and data efficiency by enhancing and updating exist
       - Table Connection Verification
       - Geologic Plate Creator and Validator
     - **Quality Control and Assessment**
-      - Vector Line-work
+      - Vector Line Quality Control ESRI Tool
+      - Geological Unit Code Tool - ESRI Tool
       - Polygon Area-work
   - **Database** Toolkits
     - Datasource and Citation Database
@@ -43,7 +44,6 @@ Driving software development and data efficiency by enhancing and updating exist
     - Burn Region Analysis
     - Land Footprint Analysis
       - *and many other toolkits*
-
 
 ## Ontological Database
 I'm creating an ontological database that includes terms translations for the purpose of robust sematic interoperabilitiy and the ability for linguistic cross boundary transferability. The ontological structure will provide necessary formal adn explicit framework to define concepts of multi-definitions By hosting translations directly within this defined schema, your database ensures that every system, analyst, or application accessing the data—regardless of their operational language—refers to the exact same concept (e.g., the English term "invoice" maps to the defined concept FinancialDocument, which then translates directly and unambiguously to its French, German, and Spanish counterparts). This unified approach guarantees data consistency and accurate cross-lingual knowledge sharing, transforming disparate terms into a single, cohesive, and semantically rich knowledge graph.
@@ -74,10 +74,12 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 ### Geologic GIS Mapping Toolkits
 #### Attribution Series
   - Geologic Unit Color Toolkit: [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0) - GeMS, FGDC, & USGS Compliant
-  - [CMYK Palette Generator](https://www.dropbox.com/scl/fi/2t54rddhgh0hmcnabre4g/CMYK-Color-Palette-Generator.zip?rlkey=mhjynsesdyvvawl4c0w1gb478&st=w4is55to&dl=0) - [Additional Tools Planned]
-  -   - **COMPLETED:** [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator)
+  - [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator) - [Download](https://www.dropbox.com/scl/fi/2t54rddhgh0hmcnabre4g/CMYK-Color-Palette-Generator.zip?rlkey=mhjynsesdyvvawl4c0w1gb478&st=w4is55to&dl=0) - [Additional Tools Planned]
+
+
 #### Geometric Series
   - Map Neatline Tool: [Updated v3.1](https://www.dropbox.com/scl/fi/tflazuzs75u2nah0zo60c/Map-Neatline-Tool-Public.zip?rlkey=fbbbf66shwcul36ent0o0329u&st=nfos1ys2&dl=0) - Fixed path issues and process cleanup.
+  - Reverse Geocoder: [Download](https://github.com/jmarcellusc/ReverseGeocode)
 
 
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
@@ -204,7 +206,7 @@ Adds the following:
 ---
 
 ## Metadata Applications
- - **XML Editor Conversion**
+ - **XML ESRI Metadata Toolkit**
    - COMPLETED: Pending Link
     - Runs xml extraction into Excel Macro database. Eases in xml replication, modification, and editing, particular to ESRI metadata.
     - Current Batch Tools:
@@ -231,95 +233,16 @@ Adds the following:
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
-## Timeline
-### **Mid 2025**
-  - **NEW** Machine Learning Imagery (Preproces Toolkit, ML Tool)
-  - **NEW** Map Neatline Creator: Updated to v3.0
-  - **NEW**  CMYK Palette Generator: Revising Code, conversion to executable
-  - **NEW:**  XML ESRI Metadata Toolkit:  Revising Code
-  - **NEW** GeMS FGDC USGS Geologic Unit Color Toolkit [Excel Worksheet]
-  - **NEW:** PDF Toolkit v1b: [Download] - Requires [Excel Metadata Database/Form]
-  - **NEW:** Download Toolkit v1c
-  - **PLANNED**
-    - Random Forest Land Classification Tool
-    - Hydrological Tools 
-    - Imagery Preprocess Toolkit v1
-    - Lidar Toolkit - various functionalites 
-    - Wold Minerals Dashboard (ESRI Hosting Cost is expensive, Will be migrating to Square Space)
-    - Reverse Geocode - Conversion to ESRI Geoprocessing
-    - Update Google Earth Engine Current Applications - (Update additional timeframe)
-    - GeMS Additional Mapping Toolkits
-    - OCR Functionalies and Extractions
-   
-<br>
+
+## ESRI
+- [Houston-Galveston Area Council Hurricane Evacuation Dashboard](https://experience.arcgis.com/experience/d24314506471423f98b5252a1b7f5f0f)
 
 
 
-### REMOVING SECTION: **Early 2025**
-   - In Progress: ESRI Interactive Web Applications:
-    - PDF Metadata Toolkit - Requires Minor Conversion
-    - XML Metadata Toolkit - Requires conversion to ESRI Geoprocessing Kit (current Stand Alone) 
-    - [Houston-Galveston Area Council Hurricane Evacuation Dashboard](https://experience.arcgis.com/experience/d24314506471423f98b5252a1b7f5f0f)
-  - XML Editor Conversion
-    - Runs xml extraction into Excel Macro database. Eases in xml replication, modification, and editing, particular to ESRI metadata.
-    - Current Batch Tools:
-      - Extract Metadata (xml >> excel)
-      - Update Metadata (xml >> excel >> xml)
-      - Create Metadata (excel >> xml)
-  - PDF Metadata Updater:
-    - Reads Excel Macro database (inventory of pdf metadata) and appends metadata to PDF with advance customizability.
-    - Currently single file selection with selectable metadata record injection.
-  - Additional Single Functionlities Toolkits
-    - SAS Conversion
-    - Graphic Design CMYK Template Generator
-- **Planned**
-  - (**UPDATE:** Will incorporate into LiDAR Toolkit Procssor) ESRI LiDAR (Las) Collection of Tools (Active: LiDAR Python Class/Tools)
-    - Reclassification with Parallel Processing
-    - Sink Detection
-    - Interpolation
-  - (**Paused:**) Google Earth Engine - Landslides Exploratory Tool v1.0a - **Initiated** Not posted and delayed due to other higher priority projects.
-  - ***Fix Errors: Google Earth Engine - Soils App: {Incorrect Bin Statement, Append Slope, Menu-Fixes}***
-  - Google Earth Engine - Wetlands Exploratory Tool v1.0d - **To Append:** Generalization, Chart Production
-  - Google Earth Engine - Soils Exploratory Tool v1.1b - **To Append:** Issues: Reset for Binning, Data Boundaries (Outside Edge Notice), Color Palette Processing Time, Increase Step Size for Extensive Range Elevation. Introduce Slope and Aspect
+
 
 <br>
 
-- **Active**
-  - LiDAR Python Class/Tool ~ **[COMPLETED] Upgraded Additional Filters**
-  - Google Earth Engine - Soils App ~ **[PAUSED] Downgraded to Low Priorty**
-  - Python Small GIS Projects:
-    - **COMPLETED:** [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator)
-    - **COMPLETED:** [PDF Metadata Updater](https://github.com/jmarcellusc/PDF-Metadata-Updater)
-    - **COMPLETED:** [ReverseGeocode](https://github.com/jmarcellusc/ReverseGeocode)
-    - **DELAYED**: ESRI Shapefile Integrity (QA for Shapefiles)
-    - **UPDATING:** ChatGPT Query (produces Markdown pages)
-  - Vector Line Quality Control ESRI Tool
-  - Geological Unit Code Tool - ESRI Tool
-  - Google Earth Engine: Wetland Evaulation App
-  - ESRI Global ID Tool (various process ESRI Tool)
-  - Releasing Google Earth Engine-Apps Fixes; Verions 1.0c
-    - Known Issues {Incorrect Footer Date, MinMax issues with Sentinel 5}
-
-- **Completed**
-  - PDF Metadata Updater - [Link](https://github.com/jmarcellusc/PDF-Metadata-Updater)
-  - CMYK Palette Generator - [Link](https://github.com/jmarcellusc/CMYK-Palette-Generator)
-  - ReverseGeocode - [Link](https://github.com/jmarcellusc/ReverseGeocode)
-  - **Google Earth Engine** - [Soils Exploratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b)
-  - **Google Earth Engine** - [Wetland Exploratory Tool v1.0c](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploratory-tool-in-progress-v10c)
-  - **Google Earth Engine** - [Aerosols Examiner App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d)
-  - NEW: https://github.com/jmarcellusc/ArcGIS-Pro_Digitization_Tools - (Beta; pending real-time review)
-  - **Text Correction Tool** Version 3.0
-  - **Class Inspector** Version 2.0
-
-- **Archive**
-  - Graphic Design Scheme Generator: "Graphic Design Scheme"
-  - *Testing Version:* [Google Earth Engine-Apps](https://github.com/jmarcellusc/Google-Earth-Engine/tree/main)
-  - **Trace Elements of Soils: Notes Chapter 1 & 2**
-  - **Database Spell Checker**
-  - **Color Extraction** (from image) - uses KMeans to extract colors and creates a PDF report. Will be native and embedded into other scripts and toolkits.
-    - STATUS: Stand-Alone complete. Conversion into ESRI toolscript is paused for a python library issue.
-    - STATUS: Will expand tool to run multi-sampling and multi-threshold. Method requires targeted improvement.
-  - **PDF Text/Latex** (with Python) - using templates to create variable design PDF documents. Will be native and embedded into other scripts and toolkits.
 
 ---
 
