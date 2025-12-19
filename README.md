@@ -14,6 +14,7 @@ Driving software development and data efficiency by enhancing and updating exist
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
   - **LIGARE** - Geological UUID Coder/Decoder
+  - **Ollama-Dolphin-llama** - A.I. Development and Testing...
 #### <ins>Updated</ins>
   - **Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
   - **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource & Citation Database: [New Geological Mapping Project](#geologic-mapping)
