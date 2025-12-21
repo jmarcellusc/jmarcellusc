@@ -164,7 +164,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 ## Machine Learning Applications
-#### Imagery Sensing Toolkit 
+### Imagery Sensing Toolkit 
 **Version v1.2** - Introduced: Additional DEM applications such as hillshades, aspects, and curvatures. Also includes several geomorphometry functions from great authors such as Florinsky, Evans, Woods, Jarosław Jasiewicz, and Tomasz F. Stepinski. Improve file and directory picker. Toolkit needs refinement and review on several hard coded parameters (requires the user to input their values), append advance SAR applications, and to include updating several names.
 - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit_V1_2.png" alt="Imagery Sensing Toolkit" width="50%">
 
@@ -191,7 +191,7 @@ Adds the following:
 <br>
 
 
-#### Machine Learning Toolkit
+### Machine Learning Toolkit
 ##### 1. Automative Segmentation Tool
  - Complete Toolkit (train/inference)
  - Adjustable Parameters: {currently improveing}
