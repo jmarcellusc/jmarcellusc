@@ -18,10 +18,11 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
+  - **Imagery Sensing Toolkit** - Improving... (see below).
   - **LIGARE** - Geological UUID Coder/Decoder
   - **A.I. Ollama Dolphin-llama3** - A.I. Development and Research. Created offline ollama LLM on external (with AnythingLLM) but will divert functionality to python programming and iterations. See: [Ollama Connect](#data-extraction)
 #### <ins>Updated</ins>
-  - **Imagery Sensing Toolkit** (see information at the "Machine Learning Applications") - [Version v1.1](#machine-learning-applications)
+  - **Imagery Sensing Toolkit** (Advance Update: Includes the remaining DEM processes and geomorphometric applications) - [Version v1.2](#machine-learning-applications)
   - **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource & Citation Database: [New Geological Mapping Project](#geologic-mapping)
   - **Ontological Database** - REQUIRED: Batch importation and External database connection (GIS):  [Ontolgical Database Schema Project](#ontological-database)
   - **Data Extraction Toolkits** - RECENT: Updated A.I. Prompt Toolkit: [Data Extraction Toolkits](#data-extraction)
@@ -162,6 +163,9 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 ## Machine Learning Applications
 #### Imagery Sensing Toolkit 
+**Version v1.2** - Introduced: Additional DEM applications such as hillshades, aspects, and curvatures. Also includes several geomorphometry functions from great authors such as Florinsky, Evans, Woods, Jarosław Jasiewicz, and Tomasz F. Stepinski. Improve file and directory picker. Toolkit needs refinement and review on several hard coded parameters (requires the user to input their values), append advance SAR applications, and to include updating several names.
+- <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit_V1_2.png" alt="Imagery Sensing Toolkit" width="50%">
+
 **Version v1.1**; - I would like to extend special gratitude to Jeff Jenness. His invaluable toolkit and documentation have been foundational to my understanding of elevation surfaces over the years. With addition to more hillshade and curvature toolkits, I will be incorporating more of Florinsky methodologys on surfaces as his literature are highly regarded. Not yet available for download.
 Adds the following:
   - Spatial Differencing
@@ -171,7 +175,6 @@ Adds the following:
   - Uniform Manifold Approximation and Projection
   - DEM Kits: Analysis Surface Metrics
     - Slope: [4-Cell, N-S Gradients, (4,8,Weighted) Gradients]
-  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit_V1_1.png" alt="Imagery Sensing Toolkit" width="50%">
 
 **Version v1.0** - Inital creation, functions 1-14. [Imagery Sensing Toolkit](https://www.dropbox.com/scl/fi/7srzeplaej1qsm67xzstx/Imagery-Preprocess-Toolkit-v1.zip?rlkey=crxjl4elktjqp888eqw82qwx7&st=9pltftxw&dl=0)
  - Read Raster Info
