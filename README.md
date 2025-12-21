@@ -19,7 +19,9 @@ Driving software development and data efficiency by enhancing and updating exist
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
   - **Imagery Sensing Toolkit** - Improving and completed on 12/21/2025 - [Version v1.2](#machine-learning-applications). (removing entry on 12/28/2025)
-  - **LIGARE** - Geological UUID Coder/Decoder
+    -  **Google Earth Engine - Elevation Product Explorer** - Required for [Geologic Mapping](#geologic-mapping) (and its products will be processed with the Imagery Sensing Toolkit; Hillshades and others derivatives)
+  -  **Datasource** Improving the Microsoft Access\Database (High Priority)
+  - **LIGARE** - Geological UUID Coder/Decoder (pausing, Low Priority)
   - **A.I. Ollama Dolphin-llama3** - A.I. Development and Research. Created offline ollama LLM on external (with AnythingLLM) but will divert functionality to python programming and iterations. See: [Ollama Connect](#data-extraction)
 #### <ins>Updated</ins>
   - **Imagery Sensing Toolkit** (Advance Update: Includes the remaining DEM processes and geomorphometric applications) - [Version v1.2](#machine-learning-applications)
