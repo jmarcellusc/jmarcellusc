@@ -8,6 +8,9 @@
 ## About Me
 A Geospatial and Data Analytics Researcher focused on driving scientific progress in geologic, environmental, and statistical domains. This researcher specializes in developing and optimizing efficient data pipelines, having significantly streamlined numerous processing methods, toolkits, and scientific scripts since 2023 to enhance overall data efficiency. This individual is a student at the University of Texas at San Antonio (UTSA), holding a prior Graduate Certificate in GIS. Outside of academic pursuits, they are an amateur photographer, showcasing work at [jmarcelphotography.com](https://www.jmarcelphotography.com/).  
 
+## Disclaimer
+The tools, code, and information in this repository are for **educational and research purposes only** and are not intended for commercial use or production environments. All content is provided "as-is" without warranty. Users assume full responsibility for compliance with local laws and third-party terms of service.
+
 ## Work Synopsis and Table of Contents
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
