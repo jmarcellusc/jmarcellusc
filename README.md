@@ -11,6 +11,8 @@ A Geospatial and Data Analytics Researcher focused on driving scientific progres
 ### Disclaimer
 The tools, code, and information in this repository are for **educational and research purposes only** and are not intended for commercial use or production environments. All content is provided "as-is" without warranty. Users assume full responsibility for compliance with local laws and third-party terms of service.
 
+---
+
 ## Work Synopsis and Table of Contents
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
