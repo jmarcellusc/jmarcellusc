@@ -19,7 +19,8 @@ Driving software development and data efficiency by enhancing and updating exist
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
   - **Accessibility Toolkit** - Completed: 12/29/2025; Standardizing the application suite including map contrast easurement metric. Located under the [Metadata Applications](#metadata-applications)
-    - **Newly Online: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
+    - **New Online: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
+    - **New Online: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score)** - Allows the user to pick color values and check if it meets WCAG requirements.
   -  **Google Earth Engine - Elevation Product Explorer** - Required for [Geologic Mapping](#geologic-mapping) (and its products will be processed with the Imagery Sensing Toolkit to create Hillshades and others derivatives)
   -  **Datasource** Improving the Microsoft Access\Database (High Priority)
   - **LIGARE** - Geological UUID Coder/Decoder (pausing, Low Priority)
@@ -234,8 +235,10 @@ Adds the following:
 
 ## Metadata Applications
 - **Accessibility Check Toolkit** - Newly created with checks to single image, single PDF, and a directory scan of images. Will assess contrast check closely aligned to the Web Content Accessibility Guidelines (WCAG). Image checks the following; global contrast, RMS contrast, edge contrast, contrast ratio (WCAG) WCGA Pass, and computes an Overall Score. PDF documents checks the following: text extraction, tags, title set, lanuage definition, and images (and reutrns an overall WCAG/UA Status).
-  - An offset website: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check) is also available for use.
-  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20Toolkit.png" alt="Lidar Toolkit" width="50%">
+  - Online App website: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check) is also available for use.
+  - Online App Website: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score) Interactive Lc Score viewer. Created with reference information from: [Myndex/SAPC-APCA](https://github.com/Myndex/SAPC-APCA).
+  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20Toolkit.png" alt="Accessibility Check Toolkit" width="50%">
+  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20Image.png" alt="Accessibility Check Toolkit" width="50%"><img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20APCA%20Lc%20Test.png" alt="Accessibility Check Toolkit" width="50%"><img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20PDF.png" alt="Accessibility ChecK Toolkit" width="50%">
  - **XML ESRI Metadata Toolkit**
    - COMPLETED: Pending Link
     - Runs xml extraction into Excel Macro database. Eases in xml replication, modification, and editing, particular to ESRI metadata.
