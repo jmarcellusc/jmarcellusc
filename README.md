@@ -18,6 +18,8 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
+  - **FGDC Table and Tooolkit Add-In** - Adding and updating the Datasource Microsoft Access Database (including forms and connections).
+  - **ArcGIS Pro Feature Information Extraction** - Allows a user to read and extract information related to parsing to the Datasource Access Database or other transfers
   - **Accessibility Toolkit** - Completed: 12/29/2025; Standardizing the application suite including map contrast easurement metric. Located under the [Metadata Applications](#metadata-applications)
     - **New Online: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
     - **New Online: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score)** - Allows the user to pick color values and check if it meets WCAG requirements.
@@ -234,7 +236,7 @@ Adds the following:
 ---
 
 ## Metadata Applications
-- **Accessibility Check Toolkit** - Newly created with checks to single image, single PDF, and a directory scan of images. Will assess contrast check closely aligned to the Web Content Accessibility Guidelines (WCAG). Image checks the following; global contrast, RMS contrast, edge contrast, contrast ratio (WCAG) WCGA Pass, and computes an Overall Score. PDF documents checks the following: text extraction, tags, title set, lanuage definition, and images (and reutrns an overall WCAG/UA Status).
+- **Accessibility Check Toolkit** - Newly created with checks to single image, single PDF, and a directory scan of images. Will assess contrast check closely aligned to the Web Content Accessibility Guidelines (WCAG). Image checks the following; global contrast, RMS contrast, edge contrast, contrast ratio (WCAG) WCGA Pass, and computes an Overall Score. PDF documents checks the following: text extraction, tags, title set, lanuage definition, and images (and reutrns an overall WCAG/UA Status), (will change to "Metadata Series").
   - Online App website: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check) is also available for use.
   - Online App Website: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score) Interactive Lc Score viewer. Created with reference information from: [Myndex/SAPC-APCA](https://github.com/Myndex/SAPC-APCA).
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20Toolkit.png" alt="Accessibility Check Toolkit" width="50%">
