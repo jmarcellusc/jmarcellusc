@@ -18,14 +18,14 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
-  - **Accessibility Toolkit** - Standardizing the application suite including map contrast easurement metric.
-    - **Newly Online [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
-  - **Imagery Sensing Toolkit** - Improving and completed on 12/21/2025 - [Version v1.2](#machine-learning-applications). (removing entry on 12/28/2025)
+  - **Accessibility Toolkit** - Completed: 12/29/2025; Standardizing the application suite including map contrast easurement metric. Located under the [Metadata Applications](#metadata-applications)
+    - **Newly Online: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
   -  **Google Earth Engine - Elevation Product Explorer** - Required for [Geologic Mapping](#geologic-mapping) (and its products will be processed with the Imagery Sensing Toolkit to create Hillshades and others derivatives)
   -  **Datasource** Improving the Microsoft Access\Database (High Priority)
   - **LIGARE** - Geological UUID Coder/Decoder (pausing, Low Priority)
   - **A.I. Ollama Dolphin-llama3** - A.I. Development and Research. Created offline ollama LLM on external (with AnythingLLM) but will divert functionality to python programming and iterations. See: [Ollama Connect](#data-extraction)
 #### <ins>Updated</ins>
+  - **LIGARE Toolkit** Older verion 1.3 is posted here: [Geometric Serise](#geometric-series) but plans of improvement are in development.
   - **Imagery Sensing Toolkit** (Advance Update: Includes the remaining DEM processes and geomorphometric applications) - [Version v1.2](#machine-learning-applications)
   - **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource & Citation Database: [New Geological Mapping Project](#geologic-mapping)
   - **Ontological Database** - REQUIRED: Batch importation and External database connection (GIS):  [Ontolgical Database Schema Project](#ontological-database)
@@ -98,6 +98,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 #### Geometric Series
+- LIGARE Toolkit: [Older Version 1.3](https://www.dropbox.com/scl/fi/l81drljsjcmrb3zg1wyzu/LIGARE_Toolkit_Public.zip?rlkey=20kiwes0lvh1bijijv8httnpb&st=y96kaee2&dl=0) is available but I am currently updating for code improvement and introduction of new features.
   - Map Neatline Tool: [Updated v3.1](https://www.dropbox.com/scl/fi/tflazuzs75u2nah0zo60c/Map-Neatline-Tool-Public.zip?rlkey=fbbbf66shwcul36ent0o0329u&st=nfos1ys2&dl=0) - Fixed path issues and process cleanup.
   - Reverse Geocoder: [Download](https://github.com/jmarcellusc/ReverseGeocode)
   - Line QA Tool - Tags zigzag and multi part vector linework [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
@@ -232,6 +233,8 @@ Adds the following:
 ---
 
 ## Metadata Applications
+- **Accessibility Check Toolkit** - Newly created with checks to single image, single PDF, and a directory scan of images. Will assess contrast check closely aligned to the Web Content Accessibility Guidelines (WCAG). Image checks the following; global contrast, RMS contrast, edge contrast, contrast ratio (WCAG) WCGA Pass, and computes an Overall Score. PDF documents checks the following: text extraction, tags, title set, lanuage definition, and images (and reutrns an overall WCAG/UA Status). An offset website: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check) is also available for use.
+  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20Toolkit.png" alt="Lidar Toolkit" width="50%">
  - **XML ESRI Metadata Toolkit**
    - COMPLETED: Pending Link
     - Runs xml extraction into Excel Macro database. Eases in xml replication, modification, and editing, particular to ESRI metadata.
