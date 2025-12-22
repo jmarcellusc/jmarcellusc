@@ -18,7 +18,8 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
-  - **FGDC Table and Tooolkit Add-In** - Adding and updating the Datasource Microsoft Access Database (including forms and connections).
+  - **Geologic Modeling** - Creating a Alluvial Geomorphodynamics Toolkit that will explore depositions, sediment transport, and various other processes. Adding [Geologic Modeling](#geologic-modeling) 
+  - **FGDC Table and Tooolkit Add-In** - Adding and updating under the **Datasource Microsoft Access Database** (including forms and connections).
   - **ArcGIS Pro Feature Information Extraction** - Allows a user to read and extract information related to parsing to the Datasource Access Database or other transfers
   - **Accessibility Toolkit** - Completed: 12/29/2025; Standardizing the application suite including map contrast easurement metric. Located under the [Metadata Applications](#metadata-applications)
     - **New Online: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
@@ -99,6 +100,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
   -** Text Inspector v1.3** - List and inspection of strings [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
   - **Uniques v1.3** - List of uniques [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
 
+---
 
 #### Geometric Series
   - **LIGARE Toolkit:** [Older Version 1.3](https://www.dropbox.com/scl/fi/l81drljsjcmrb3zg1wyzu/LIGARE_Toolkit_Public.zip?rlkey=20kiwes0lvh1bijijv8httnpb&st=y96kaee2&dl=0) is available but I am currently updating for code improvement and introduction of new features.
@@ -111,6 +113,8 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
+## Geologic Modeling
+- **New Project:** Alluvial Geomorphodynamics Toolkit for simulating sediment transport and depositional process. This will eventually include landslide/landfall and flooding applications."
 
 ## Lidar Toolkit
   - **LiDAR Toolkit Processer** (Multicore Thread Processing)
