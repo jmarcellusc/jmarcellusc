@@ -87,14 +87,14 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 ### Geologic GIS Mapping Toolkits
 #### Attribution Series
-  - Geologic Unit Color Toolkit: [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0) - GeMS, FGDC, & USGS Compliant
-  - [CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator) - [Download](https://www.dropbox.com/scl/fi/2t54rddhgh0hmcnabre4g/CMYK-Color-Palette-Generator.zip?rlkey=mhjynsesdyvvawl4c0w1gb478&st=w4is55to&dl=0) - [Additional Tools Planned]
-  - Class Inspector v2.0 - Verifies and displays all possible properties of a feature class [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
-  - Global ID | Domains Tools v1.0 - List out all global ids and domains [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
-  - Numeric Increment Tool v1.1 - Options for numeric increment [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
-  - Text Correction Tool v3.2 - Options for string modification [Depreciated v1.2] [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
-  - Text Inspector v1.3 - List and inspection of strings [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
-  - Uniques v1.3 - List of uniques [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
+  - **Geologic Unit Color Toolkit:** [Excel Worksheet](https://www.dropbox.com/scl/fi/slafgkzxl642iut2wqiy0/GeMS-FGDC-USGS_Geologic-Unit-Color-Toolkit.zip?rlkey=ob9pifm19s66l1suq8lrhogcd&st=mmem5azq&dl=0) - GeMS, FGDC, & USGS Compliant
+  - **[CMYK Palette Generator](https://github.com/jmarcellusc/CMYK-Palette-Generator) **- [Download](https://www.dropbox.com/scl/fi/2t54rddhgh0hmcnabre4g/CMYK-Color-Palette-Generator.zip?rlkey=mhjynsesdyvvawl4c0w1gb478&st=w4is55to&dl=0) - [Additional Tools Planned]
+  - **Class Inspector v2.0** - Verifies and displays all possible properties of a feature class [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
+  - **Global ID | Domains Tools v1.0** - List out all global ids and domains [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
+  - **Numeric Increment Tool v1.1** - Options for numeric increment [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
+  - **Text Correction Tool v3.2** - Options for string modification [Depreciated v1.2] [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
+  -** Text Inspector v1.3** - List and inspection of strings [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
+  - **Uniques v1.3** - List of uniques [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
 
 
 #### Geometric Series
@@ -110,7 +110,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 ## Lidar Toolkit
-  - LiDAR Toolkit Processer (Multicore Thread Processing)
+  - **LiDAR Toolkit Processer** (Multicore Thread Processing)
     - Current Batch Tools:
       - Conversion: LAZ to LAS
       - Filter by Classification
