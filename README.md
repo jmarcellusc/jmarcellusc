@@ -233,7 +233,8 @@ Adds the following:
 ---
 
 ## Metadata Applications
-- **Accessibility Check Toolkit** - Newly created with checks to single image, single PDF, and a directory scan of images. Will assess contrast check closely aligned to the Web Content Accessibility Guidelines (WCAG). Image checks the following; global contrast, RMS contrast, edge contrast, contrast ratio (WCAG) WCGA Pass, and computes an Overall Score. PDF documents checks the following: text extraction, tags, title set, lanuage definition, and images (and reutrns an overall WCAG/UA Status). An offset website: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check) is also available for use.
+- **Accessibility Check Toolkit** - Newly created with checks to single image, single PDF, and a directory scan of images. Will assess contrast check closely aligned to the Web Content Accessibility Guidelines (WCAG). Image checks the following; global contrast, RMS contrast, edge contrast, contrast ratio (WCAG) WCGA Pass, and computes an Overall Score. PDF documents checks the following: text extraction, tags, title set, lanuage definition, and images (and reutrns an overall WCAG/UA Status).
+  - An offset website: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check) is also available for use.
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20Toolkit.png" alt="Lidar Toolkit" width="50%">
  - **XML ESRI Metadata Toolkit**
    - COMPLETED: Pending Link
