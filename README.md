@@ -238,7 +238,7 @@ Adds the following:
   - Online App website: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check) is also available for use.
   - Online App Website: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score) Interactive Lc Score viewer. Created with reference information from: [Myndex/SAPC-APCA](https://github.com/Myndex/SAPC-APCA).
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20Toolkit.png" alt="Accessibility Check Toolkit" width="50%">
-  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20Image.png" alt="Accessibility Check Toolkit" width="50%"><img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20APCA%20Lc%20Test.png" alt="Accessibility Check Toolkit" width="50%"><img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20PDF.png" alt="Accessibility ChecK Toolkit" width="50%">
+  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20Image.png" alt="Accessibility Check Toolkit" width="30%"><img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20APCA%20Lc%20Test.png" alt="Accessibility Check Toolkit" width="30%"><img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Accessibility%20Check%20PDF.png" alt="Accessibility ChecK Toolkit" width="30%">
  - **XML ESRI Metadata Toolkit**
    - COMPLETED: Pending Link
     - Runs xml extraction into Excel Macro database. Eases in xml replication, modification, and editing, particular to ESRI metadata.
