@@ -221,15 +221,14 @@ Adds the following:
 ## Web Applications
 #### Google Earth Engine
   - **New:**  [Foliage Phenology Exploration Toolkit v1.1](https://ee-marcelluscampes.projects.earthengine.app/view/foliage-phenology-inspection-tool) - Recently created and updated that aids in determination of foliage seasonal phenology.
-    - Web application is very new and is currently active for canopy (pending low surface vegetations).
+    - Web application is very new and is currently active for canopy (pending low surface vegetations). Several future modifications to include quality check of source imagery selection, checks on interferences, and other improvements are planned. Additionally, with low surface identification, this toolkit will benefit with ideal vegetation algorithm target. 
   - **Updated:** [Wetlands Exploration Toolkit v3.0](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploration-toolkit-v11) - Recently updated.
     - Added 2024, 2025 Years.
     - Added SAR Surface Water Detection.
     - Added New Chlorophyll Detection (Alpha Testing)
-  - 
-  - [Soils Expliratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b) - [Processing Refinements]
-  - [Topographic Terrain Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector) - [User Refinements]
-  - [Political Boundary v1](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection) - [Processing Refinements]
+  - [Soils Expliratory Tool v1.1b](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b) - [Stable but source inputs are outdated, will require revision and improvement.]
+  - [Topographic Terrain Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector) - [Stable application, land elevation models are updated by various organizations and will be inspected for updated sources]
+  - [Political Boundary v1](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection) - [Error in several outdated sources, application requires improvement]
   - [Aerosols Exaiminer Tool v1](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) - [Issues documented, requires recoding.]
 #### ESRI 
   - World Minerals Dashboard- [**! Removed**, Moving project to Google Earth Engine as data hosting with ESRI is costly.]
