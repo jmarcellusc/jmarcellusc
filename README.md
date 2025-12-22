@@ -19,7 +19,7 @@ Driving software development and data efficiency by enhancing and updating exist
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
   - **Geologic Modeling** - Creating a Alluvial Geomorphodynamics Toolkit that will explore depositions, sediment transport, and various other processes. Adding [Geologic Modeling](#geologic-modeling) 
-  - **FGDC Table and Tooolkit Add-In** - Adding and updating under the **Datasource Microsoft Access Database** (including forms and connections).
+  - **FGDC Table and Toolkit Add-In** - Adding and updating under the **Datasource Microsoft Access Database** (including forms and connections).
   - **ArcGIS Pro Feature Information Extraction** - Allows a user to read and extract information related to parsing to the Datasource Access Database or other transfers
   - **Accessibility Toolkit** - Completed: 12/29/2025; Standardizing the application suite including map contrast easurement metric. Located under the [Metadata Applications](#metadata-applications)
     - **New Online: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
