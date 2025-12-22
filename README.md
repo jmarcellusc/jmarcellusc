@@ -98,7 +98,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 #### Geometric Series
-- LIGARE Toolkit: [Older Version 1.3](https://www.dropbox.com/scl/fi/l81drljsjcmrb3zg1wyzu/LIGARE_Toolkit_Public.zip?rlkey=20kiwes0lvh1bijijv8httnpb&st=y96kaee2&dl=0) is available but I am currently updating for code improvement and introduction of new features.
+  - LIGARE Toolkit: [Older Version 1.3](https://www.dropbox.com/scl/fi/l81drljsjcmrb3zg1wyzu/LIGARE_Toolkit_Public.zip?rlkey=20kiwes0lvh1bijijv8httnpb&st=y96kaee2&dl=0) is available but I am currently updating for code improvement and introduction of new features.
   - Map Neatline Tool: [Updated v3.1](https://www.dropbox.com/scl/fi/tflazuzs75u2nah0zo60c/Map-Neatline-Tool-Public.zip?rlkey=fbbbf66shwcul36ent0o0329u&st=nfos1ys2&dl=0) - Fixed path issues and process cleanup.
   - Reverse Geocoder: [Download](https://github.com/jmarcellusc/ReverseGeocode)
   - Line QA Tool - Tags zigzag and multi part vector linework [Download](https://www.dropbox.com/scl/fi/u07xhwfoa68lkf8m56wxd/Geologic_Map_Toolkits.zip?rlkey=03agb67lgo85e1yff2f12sr26&st=ayuoluka&dl=0)
