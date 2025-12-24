@@ -30,7 +30,7 @@ Driving software development and data efficiency by enhancing and updating exist
   - **LIGARE** - Geological UUID Coder/Decoder (pausing, Low Priority)
   - **A.I. Ollama Dolphin-llama3** - A.I. Development and Research. Created offline ollama LLM on external (with AnythingLLM) but will divert functionality to python programming and iterations. See: [Ollama Connect](#data-extraction)
 #### <ins>Updated</ins>
-  - **Advance Conda Management** - **UPDATED**, Verion 1.1 (v1a.exe) Posted here: [Link](https://github.com/jmarcellusc/Advance-Conda-Mangement) - Caution in usage, please read Disclaimer Information.
+  - **Advance Conda Management** - **UPDATED**, Verion 1.1 (v1a.exe) Posted here: [Link](#data-extraction)- Caution in usage, please read Disclaimer Information.
   - **LIGARE Toolkit** Older verion 1.3 is posted here: [Geometric Series](#geometric-series) but plans of improvement are in development.
   - **Imagery Sensing Toolkit** (Advance Update: Includes the remaining DEM processes and geomorphometric applications) - [Version v1.2](#machine-learning-applications)
   - **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource & Citation Database: [New Geological Mapping Project](#geologic-mapping)
