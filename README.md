@@ -30,6 +30,7 @@ Driving software development and data efficiency by enhancing and updating exist
   - **LIGARE** - Geological UUID Coder/Decoder (pausing, Low Priority)
   - **A.I. Ollama Dolphin-llama3** - A.I. Development and Research. Created offline ollama LLM on external (with AnythingLLM) but will divert functionality to python programming and iterations. See: [Ollama Connect](#data-extraction)
 #### <ins>Updated</ins>
+  - **Advance Conda Management** - Verion 1.0 posted here: [Link](https://github.com/jmarcellusc/Advance-Conda-Mangement) - Caution in usage, please read Disclaimer Information.
   - **LIGARE Toolkit** Older verion 1.3 is posted here: [Geometric Series](#geometric-series) but plans of improvement are in development.
   - **Imagery Sensing Toolkit** (Advance Update: Includes the remaining DEM processes and geomorphometric applications) - [Version v1.2](#machine-learning-applications)
   - **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource & Citation Database: [New Geological Mapping Project](#geologic-mapping)
@@ -153,6 +154,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 ## Data Extraction
+* **Advance Conda Management** - Verion 1.0, Repo information and Executable: [Link](https://github.com/jmarcellusc/Advance-Conda-Mangement) - Please read the Disclaimer Information. Application runs unstable at certain request and I DO NOT recommend running the cleaning processes unless you are 100% sure of its effectiveness. **Disclaimer**: Use this tool at your own risk. The author is not responsible for any data loss, system changes, or instability that may result from its use.
 * **NEW** - **A.I. Offline Ollama LLM** - Researching offline use of ollama using Dolphin-llama3. Currently working and also installed AnythingLLM yet the best method for proceeding is to connect programmable codes for multiple types of iterations. Created scripts; (Start_Ollama, Stop_Ollama, Check_Ollama, Ollama_Connect, Ollama_AnythingLLM_Start, Ollama_AnythingLLM_Stop). Next steps is creation of CLI with python (or further menu class system).
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Ollama_Connect.png" alt="Ollama Connect" width="50%">
 * **UPDATED:** [AI Prompt Management Program - v2.3](https://www.dropbox.com/scl/fi/6dyipnkja1nfrwjtd1d5h/AI-Prompt-Management-v1d.zip?rlkey=6k8uhbrusqe69syhjxai6asiv&st=by69jip6&dl=0) - Update: Dec, 15 2025. Fixed: Previous version was not saving on import. Dynamic fields option that opens the possibility to save a custom prompt to the local database. Also features; ability to share a database, import a database, appends a user system name, and menu system improvements.
@@ -280,12 +282,7 @@ Adds the following:
 - **Presenting Drones: "Drone Example: Pico De Orizaba"** -  **Link** (Copy and Paste Manually): https://experience.arcgis.com/experience/f1fb7db94c51450c9cc7799ab744d9b2/
 
 
-
-
-
 <br>
-
-
 ---
 
 <h2 align="center">About Me</h2>
