@@ -18,7 +18,8 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
-  - **Flood Simulation** - Creating a long awaited rainfall/flood simulation application. Status: Completed utilizing Saint-Venant (SWE) momentum, generic parameters, 1 GB DEM limit, imagery or DEM backing, and video clip export. Version 1.0 [Hydrological Toolkits](#hydrological-tools)
+  - **Rain-Flood Simulation** - Project still requires major improvements and functionalites, the current issue is correcting any data explode, irregularities in movement, pooling, and more. The application status is working, see: [Hydrological Toolkits](#hydrological-tools)
+    - Creating a long awaited rainfall/flood simulation application. Status: Completed utilizing Saint-Venant (SWE) momentum, generic parameters, 1 GB DEM limit, imagery or DEM backing, and video clip export. Version 1.0
   - **Geologic Modeling** - Creating a Alluvial Geomorphodynamics Toolkit that will explore depositions, sediment transport, and various other processes. Adding [Geologic Modeling](#geologic-modeling) 
   - **FGDC Table and Toolkit Add-In** - Adding and updating under the **Datasource Microsoft Access Database** (including forms and connections).
   - **ArcGIS Pro Feature Information Extraction** - Allows a user to read and extract information related to parsing to the Datasource Access Database or other transfers
@@ -170,7 +171,9 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 ## Hydrological Tools  
- - **Flood Simulation** - Version 1.0, Rainfall/Flood simulation application completed. Future plans of main platform modification and introduction of advanced options.
+ - **Rain-Flood Simulation** - Version 1.0, Rainfall/Flood simulation application completed. Future plans of main platform modification and introduction of advanced options.
+ - Alorithm updated, stable, and working on test.
+   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/RainFloodSimulation.png" alt="RainFlood Simulation Application" width="50%">
  - **Depression Identification and Depression Region Enclosure Fill** - Completed, working on literature to document a possible new method
  - General hydrological tools are on paused.
 
