@@ -172,7 +172,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 ## Hydrological Tools  
  - **Rain-Flood Simulation** - Version 1.0, Rainfall/Flood simulation application completed. Future plans of main platform modification and introduction of advanced options.
- - Alorithm updated, stable, and working on test.
+ - Algorithm updated, stable, and working on test.
    - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/RainFloodSimulation.png" alt="RainFlood Simulation Application" width="50%">
  - **Depression Identification and Depression Region Enclosure Fill** - Completed, working on literature to document a possible new method
  - General hydrological tools are on paused.
