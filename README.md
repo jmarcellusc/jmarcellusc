@@ -18,19 +18,32 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
+  - **Advance Utility PDF** - Fully functional and nessary program that runs through several PDF functions, pending Github Infomation.
+  - **Web Applications** - Added a series of web applications, several for accessibility requirements and some for connection testing to ArcGIS Pro (these applications are store in SquareSpace).
+    - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
+    - **Color Collector** - Pin-point color extraction - [Link](https://www.jmarcelphotography.com/color-collector)
+    - **Color Gradient Architect** - Generates a color trajectory gradient. [Link](https://www.jmarcelphotography.com/color-gradient-architect)
+      - Plans: Expansion in color ramp production
+    - **FGDC Geologic Symbol Reference** - Fast approach on finding correct FGDC coding, under construction. [Link](https://www.jmarcelphotography.com/fgdc-geologic-symbol-reference)
+    - **Geo-Coordinator Extractor** - Locate and tag extracting latitudes and longitude using Mapleaf, created for Testing. [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
+      - Plans: Several important functionalites in aiding geographic workflows.
+    - **Geologic Media Reference** - Geologic media reference application, created for Testing [Link](https://www.jmarcelphotography.com/geologic-media)
+      - Plans: Several including testing connections to ESRI or other hosting datasource with reference to an ontological database
+    - **ESRI Map Generic** - Map ArcGIS Java SDK connection, created for Testing
+      - Plans: Several generic ESRI ArcGIS Online connectiong
   - **Rain-Flood Simulation** - Project still requires major improvements and functionalites, the current issue is correcting any data explode, irregularities in movement, pooling, and more. The application status is working, see: [Hydrological Toolkits](#hydrological-tools)
     - Creating a long awaited rainfall/flood simulation application. Status: Completed utilizing Saint-Venant (SWE) momentum, generic parameters, 1 GB DEM limit, imagery or DEM backing, and video clip export. Version 1.0
   - **Geologic Modeling** - Creating a Alluvial Geomorphodynamics Toolkit that will explore depositions, sediment transport, and various other processes. Adding [Geologic Modeling](#geologic-modeling) 
   - **FGDC Table and Toolkit Add-In** - Adding and updating under the **Datasource Microsoft Access Database** (including forms and connections).
   - **ArcGIS Pro Feature Information Extraction** - Allows a user to read and extract information related to parsing to the Datasource Access Database or other transfers
-  - **Accessibility Toolkit** - Completed: 12/29/2025; Standardizing the application suite including map contrast easurement metric. Located under the [Metadata Applications](#metadata-applications)
-    - **New Online: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
-    - **New Online: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score)** - Allows the user to pick color values and check if it meets WCAG requirements.
   -  **Google Earth Engine - Elevation Product Explorer** - Required for [Geologic Mapping](#geologic-mapping) (and its products will be processed with the Imagery Sensing Toolkit to create Hillshades and others derivatives)
   -  **Datasource** Improving the Microsoft Access\Database (High Priority)
   - **LIGARE** - Geological UUID Coder/Decoder (pausing, Low Priority)
   - **A.I. Ollama Dolphin-llama3** - A.I. Development and Research. Created offline ollama LLM on external (with AnythingLLM) but will divert functionality to python programming and iterations. See: [Ollama Connect](#data-extraction)
 #### <ins>Updated</ins>
+  - **Accessibility Toolkit** - Completed; Standardizing the application suite including map contrast easurement metric. Located under the [Metadata Applications](#metadata-applications)
+    - **New Online: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
+    - **New Online: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score)** - Allows the user to pick color values and check if it meets WCAG requirements.
   - **Advance Conda Management** - **UPDATED**, Verion 1.1 (v1a.exe) Posted here: [Link](#data-extraction)- Caution in usage, please read Disclaimer Information.
   - **LIGARE Toolkit** Older verion 1.3 is posted here: [Geometric Series](#geometric-series) but plans of improvement are in development.
   - **Imagery Sensing Toolkit** (Advance Update: Includes the remaining DEM processes and geomorphometric applications) - [Version v1.2](#machine-learning-applications)
