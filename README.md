@@ -18,7 +18,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
-  - **Advance Utility PDF** - Fully functional and nessary program that runs through several PDF functions, pending Github Infomation.
+  - **Advance Utility PDF** - A fully functional and essential program that executes multiple PDF-related functions, with GitHub information pending.
   - **Web Applications** - Added a series of web applications, several for accessibility requirements and some for connection testing to ArcGIS Pro (these applications are store in SquareSpace).
     - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
     - **Color Collector** - Pin-point color extraction - [Link](https://www.jmarcelphotography.com/color-collector)
