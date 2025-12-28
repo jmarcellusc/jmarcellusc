@@ -19,7 +19,7 @@ Driving software development and data efficiency by enhancing and updating exist
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
   - **Advance Utility PDF** - A fully functional and essential program that executes multiple PDF-related functions, with GitHub information pending.
-  - **Web Applications** - Added a series of web applications, several for accessibility requirements and some for connection testing to ArcGIS Pro (these applications are store in SquareSpace).
+  - **Web Apps** - Added a series of web applications, several for accessibility requirements and some for connection testing to ArcGIS Pro (these applications are store in SquareSpace).
     - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
     - **Color Collector** - Pin-point color extraction - [Link](https://www.jmarcelphotography.com/color-collector)
     - **Color Gradient Architect** - Generates a color trajectory gradient. Plans: Expansion in color ramp production [Link](https://www.jmarcelphotography.com/color-gradient-architect)
@@ -38,8 +38,8 @@ Driving software development and data efficiency by enhancing and updating exist
   - **A.I. Ollama Dolphin-llama3** - A.I. Development and Research. Created offline ollama LLM on external (with AnythingLLM) but will divert functionality to python programming and iterations. See: [Ollama Connect](#data-extraction)
 #### <ins>Updated</ins>
   - **Accessibility Toolkit** - Completed; Standardizing the application suite including map contrast easurement metric. Located under the [Metadata Applications](#metadata-applications)
-    - **New Online: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
-    - **New Online: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score)** - Allows the user to pick color values and check if it meets WCAG requirements.
+    - **Web App**: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
+    - **Web App**: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score)** - Allows the user to pick color values and check if it meets WCAG requirements.
   - **Advance Conda Management** - **UPDATED**, Verion 1.1 (v1a.exe) Posted here: [Link](#data-extraction)- Caution in usage, please read Disclaimer Information.
   - **LIGARE Toolkit** Older verion 1.3 is posted here: [Geometric Series](#geometric-series) but plans of improvement are in development.
   - **Imagery Sensing Toolkit** (Advance Update: Includes the remaining DEM processes and geomorphometric applications) - [Version v1.2](#machine-learning-applications)
