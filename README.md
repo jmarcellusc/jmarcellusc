@@ -22,15 +22,11 @@ Driving software development and data efficiency by enhancing and updating exist
   - **Web Applications** - Added a series of web applications, several for accessibility requirements and some for connection testing to ArcGIS Pro (these applications are store in SquareSpace).
     - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
     - **Color Collector** - Pin-point color extraction - [Link](https://www.jmarcelphotography.com/color-collector)
-    - **Color Gradient Architect** - Generates a color trajectory gradient. [Link](https://www.jmarcelphotography.com/color-gradient-architect)
-      - Plans: Expansion in color ramp production
+    - **Color Gradient Architect** - Generates a color trajectory gradient. Plans: Expansion in color ramp production [Link](https://www.jmarcelphotography.com/color-gradient-architect)
     - **FGDC Geologic Symbol Reference** - Fast approach on finding correct FGDC coding, under construction. [Link](https://www.jmarcelphotography.com/fgdc-geologic-symbol-reference)
-    - **Geo-Coordinator Extractor** - Locate and tag extracting latitudes and longitude using Mapleaf, created for Testing. [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
-      - Plans: Several important functionalites in aiding geographic workflows.
-    - **Geologic Media Reference** - Geologic media reference application, created for Testing [Link](https://www.jmarcelphotography.com/geologic-media)
-      - Plans: Several including testing connections to ESRI or other hosting datasource with reference to an ontological database
-    - **ESRI Map Generic** - Map ArcGIS Java SDK connection, created for Testing
-      - Plans: Several generic ESRI ArcGIS Online connectiong
+    - **Geo-Coordinator Extractor** - Locate and tag extracting latitudes and longitude using Mapleaf, created for Testing. Plans: Several important functionalites in aiding geographic workflows. [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
+    - **Geologic Media Reference** - Geologic media reference application, created for Testing . Plans: Several including testing connections to ESRI or other hosting datasource with reference to an ontological database[Link](https://www.jmarcelphotography.com/geologic-media)
+    - **ESRI Map Generic** - Map ArcGIS Java SDK connection, created for Testing. Plans: Several generic ESRI ArcGIS Online connections.
   - **Rain-Flood Simulation** - Project still requires major improvements and functionalites, the current issue is correcting any data explode, irregularities in movement, pooling, and more. The application status is working, see: [Hydrological Toolkits](#hydrological-tools)
     - Creating a long awaited rainfall/flood simulation application. Status: Completed utilizing Saint-Venant (SWE) momentum, generic parameters, 1 GB DEM limit, imagery or DEM backing, and video clip export. Version 1.0
   - **Geologic Modeling** - Creating a Alluvial Geomorphodynamics Toolkit that will explore depositions, sediment transport, and various other processes. Adding [Geologic Modeling](#geologic-modeling) 
