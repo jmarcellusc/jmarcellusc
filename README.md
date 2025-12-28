@@ -18,7 +18,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
-  - **Advance Utility PDF** - A fully functional and essential program that executes multiple PDF-related functions, with GitHub information pending.
+  - **Advance PDF Utility** - A fully functional and essential program that executes multiple PDF-related functions, with GitHub information pending. [Data Extraction Toolkits](#data-extraction)
   - **Web Apps** - Added a series of web applications, several for accessibility requirements and some for connection testing to ArcGIS Pro (these applications are store in SquareSpace).
     - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
     - **Color Collector** - Pin-point color extraction - [Link](https://www.jmarcelphotography.com/color-collector)
@@ -164,6 +164,8 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 ## Data Extraction
+* **Advance PDF Utility** - **NEW**, Version 1.0, Fully operation, multi functionality PDF application built for various extractions methods, accessibility checks, and an accompliamnet to Adobe Acrobat. Currently finalizing the code work therefore, the full features will be posted soon.
+  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Advance%20PDF%20Utility.png" alt="Advance PDF Utility" width="50%">
 * **Advance Conda Management** - **UPDATE**, Verion 1.1 (v1a.exe), Repo information and Executable: [Repository](https://github.com/jmarcellusc/Advance-Conda-Mangement) - Please read the Disclaimer Information. Application runs unstable at certain request and I DO NOT recommend running the cleaning processes unless you are 100% sure of its effectiveness. **Disclaimer**: Use this tool at your own risk. The author is not responsible for any data loss, system changes, or instability that may result from its use.
 * **NEW** - **A.I. Offline Ollama LLM** - Researching offline use of ollama using Dolphin-llama3. Currently working and also installed AnythingLLM yet the best method for proceeding is to connect programmable codes for multiple types of iterations. Created scripts; (Start_Ollama, Stop_Ollama, Check_Ollama, Ollama_Connect, Ollama_AnythingLLM_Start, Ollama_AnythingLLM_Stop). Next steps is creation of CLI with python (or further menu class system).
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Ollama_Connect.png" alt="Ollama Connect" width="50%">
