@@ -20,6 +20,7 @@ Driving software development and data efficiency by enhancing and updating exist
 #### <ins>In-Progress</ins>
   - **Advance PDF Utility** - A fully functional and essential program that executes multiple PDF-related functions, with GitHub information pending. [Data Extraction Toolkits](#data-extraction)
   - **Web Apps** - Added a series of web applications, several for accessibility requirements and some for connection testing to ArcGIS Pro (these applications are store in SquareSpace).
+    - **Color Palette Architect** - Visual color palette generator with various export options.
     - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
     - **Color Collector** - Pin-point color extraction - [Link](https://www.jmarcelphotography.com/color-collector)
     - **Color Gradient Architect** - Generates a color trajectory gradient. Plans: Expansion in color ramp production [Link](https://www.jmarcelphotography.com/color-gradient-architect)
