@@ -282,11 +282,6 @@ Adds the following:
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
-
-## Documentation Processing Applications
-### Chemical
- - [Elements - Notes](https://github.com/jmarcellusc/Elements-Notes-) - A compilation of notes for chemical elements, on-going.
-
 <br>
 
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
