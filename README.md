@@ -18,7 +18,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
-  - **Advance PDF Utility** - A fully functional and essential program that executes multiple PDF-related functions, with GitHub information pending. [Data Extraction Toolkits](#data-extraction)
+  - **Advance PDF Utility** - Completed - A fully functional and essential program that executes multiple PDF-related functions, Information will be updated in a later time. [Data Extraction Toolkits](#data-extraction)
   - **Web Apps** - Added a series of web applications, several for accessibility requirements and some for connection testing to ArcGIS Pro (these applications are store in SquareSpace).
     - **Color Palette Architect** - Visual color palette generator with various export options. - [Link](https://www.jmarcelphotography.com/color-palette-architect)
     - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
@@ -165,7 +165,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 ## Data Extraction
-* **Advance PDF Utility** - **NEW**, Version 1.1, Fully operation, multi functionality PDF application built for various extractions methods, accessibility checks, and an accompliamnet to Adobe Acrobat. Completed, features include; metadata read/write, bookmarks (links), tag and layers read, language read, scan all hyperlinks, get coordinates, invidible text tags, annotate/comment, PDF mask, PDF/A check, merge PDF, split PDF, mulit-crop, prefomrm OCR page, export PDF to JSON, export all directory PDF to JSON, and extract table.
+* **Advance PDF Utility** - **NEW**, Version 1.1, Fully operation, multi functionality PDF application built for various extractions methods, accessibility checks, and an accompliamnet to Adobe Acrobat. Completed, features include; metadata read/write, bookmarks (links), tag and layers read, language read, scan all hyperlinks, get coordinates, invidible text tags, annotate/comment, PDF mask, PDF/A check, merge PDF, split PDF, mulit-crop, prefomrm OCR page, export PDF to JSON, export all directory PDF to JSON, and extract table. [Download](https://drive.google.com/file/d/1CoMjWirC5Wz-UK3d54ItyJvJg5Gamate/view?usp=sharing)
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Advance%20PDF%20Utility_1.png" alt="Advance PDF Utility" width="50%">
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Advance%20PDF%20Utiliity_2.png" alt="Advance PDF Utility" width="50%">
 * **Advance Conda Management** - **UPDATE**, Verion 1.1 (v1a.exe), Repo information and Executable: [Repository](https://github.com/jmarcellusc/Advance-Conda-Mangement) - Please read the Disclaimer Information. Application runs unstable at certain request and I DO NOT recommend running the cleaning processes unless you are 100% sure of its effectiveness. **Disclaimer**: Use this tool at your own risk. The author is not responsible for any data loss, system changes, or instability that may result from its use.
