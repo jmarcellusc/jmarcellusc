@@ -18,6 +18,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>In-Progress</ins>
+   - **Numerous Web Applications** -  I've created numerous web applications, all with specific tasks in data processing, image extraction, image analysis, and started the foundation of the Geologic Mapping and Minerals Map. All these are found here: [Link](https://www.jmarcelphotography.com/geologygeospatial). Note that ~30% are not being publically shared due to their on-going improvements.
   - **Advance PDF Utility** - Completed - A fully functional and essential program that executes multiple PDF-related functions, Information will be updated in a later time. [Data Extraction Toolkits](#data-extraction)
   - **Web Apps** - Added a series of web applications, several for accessibility requirements and some for connection testing to ArcGIS Pro (these applications are store in SquareSpace).
     - **Color Palette Architect** - Visual color palette generator with various export options. - [Link](https://www.jmarcelphotography.com/color-palette-architect)
