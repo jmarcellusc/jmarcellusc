@@ -21,12 +21,12 @@ Driving software development and data efficiency by enhancing and updating exist
   - **Historical Weather Explorer** - Developed an interactive historical weather tool that integrates Open-Meteo data with FEMA records. This initial version establishes the core architecture for data acquisition, with future iterations planned to integrate the NOAA Storm Events Database and enhance UI usability. [Link](https://www.jmarcelphotography.com/historical-weather-explorer)
   - **Numerous Web Applications** -  I've created numerous web applications, all with specific tasks in data processing, image extraction, image analysis, and started the foundation of the Geologic Mapping and Minerals Map. All these are found here: [Link](https://www.jmarcelphotography.com/geologygeospatial). Note that ~30% are not being publically shared due to their on-going improvements.
  - **Web Apps** - Added a series of web applications, several for accessibility requirements, environmental, geological, data processing, surveys, metadata, and others.
-  - **Color Palette Architect** - Visual color palette generator with various export options. - [Link](https://www.jmarcelphotography.com/color-palette-architect)
-  - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
-  - **Color Collector** - Pin-point color extraction - [Link](https://www.jmarcelphotography.com/color-collector)
-  - **Color Gradient Architect** - Generates a color trajectory gradient. Plans: Expansion in color ramp production [Link](https://www.jmarcelphotography.com/color-gradient-architect)
-  - **FGDC Geologic Symbol Reference** - Fast approach on finding correct FGDC coding, under construction. [Link](https://www.jmarcelphotography.com/fgdc-geologic-symbol-reference)
-  - **Geo-Coordinator Extractor** - Locate and tag extracting latitudes and longitude using Leaflet, created for Testing. Plans: Several important functionalites in aiding geographic workflows. [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
+    - **Color Palette Architect** - Visual color palette generator with various export options. - [Link](https://www.jmarcelphotography.com/color-palette-architect)
+    - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
+    - **Color Collector** - Pin-point color extraction - [Link](https://www.jmarcelphotography.com/color-collector)
+    - **Color Gradient Architect** - Generates a color trajectory gradient. Plans: Expansion in color ramp production [Link](https://www.jmarcelphotography.com/color-gradient-architect)
+    - **FGDC Geologic Symbol Reference** - Fast approach on finding correct FGDC coding, under construction. [Link](https://www.jmarcelphotography.com/fgdc-geologic-symbol-reference)
+    - **Geo-Coordinator Extractor** - Locate and tag extracting latitudes and longitude using Leaflet, created for Testing. Plans: Several important functionalites in aiding geographic workflows. [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
   - **Advance PDF Utility** - Completed - A fully functional and essential program that executes multiple PDF-related functions, Information will be updated in a later time. [Data Extraction Toolkits](#data-extraction)
 #### <ins>In-Progress</ins>
   - **UPDATING- Lidar Toolkit:** Generating standard DEM production from point-cloud via pipelines:
