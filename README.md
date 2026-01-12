@@ -29,8 +29,13 @@ Driving software development and data efficiency by enhancing and updating exist
   - **Geo-Coordinator Extractor** - Locate and tag extracting latitudes and longitude using Leaflet, created for Testing. Plans: Several important functionalites in aiding geographic workflows. [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
   - **Advance PDF Utility** - Completed - A fully functional and essential program that executes multiple PDF-related functions, Information will be updated in a later time. [Data Extraction Toolkits](#data-extraction)
 #### <ins>In-Progress</ins>
-  -
-  - **Geologic Media Reference** - Geologic media reference application, created for Testing . Plans: Several including testing connections to ESRI or other hosting datasource with reference to an ontological database[Link](https://www.jmarcelphotography.com/geologic-media)
+  - **UPDATING- Lidar Toolkit:** Generating standard DEM production from point-cloud via pipelines:
+    - DTM / Bare-earth DEM (Terrain Model) — ground-only terrain surface.
+    - DSM (Digital Surface Model) — “top of everything” (canopy/roofs/bridges).
+    - nDSM / CHM (Normalized DSM / Canopy Height Model) — object height above ground (DSM − DTM).
+    - Hydro-flattened DEM — terrain DEM with flat, non-wavy lakes/ponds and consistent river water surfaces.
+    - Hydro-enforced / Hydrologically conditioned DEM (HCD) — terrain DEM modified for correct drainage connectivity (bridge/culvert handling, burn/breach/fill as needed).
+  - **Geologic Media Reference** - Geologic media reference application, created for Testing . Plans: Several including testing connections to ESRI or other hosting datasource with reference to an ontological database [Link](https://www.jmarcelphotography.com/geologic-media)
   - **ESRI Map Generic** - Map ArcGIS Java SDK connection, created for Testing. Plans: Several generic ESRI ArcGIS Online connections.
   - **Rain-Flood Simulation** - Project still requires major improvements and functionalites, the current issue is correcting any data explode, irregularities in movement, pooling, and more. The application status is working, see: [Hydrological Toolkits](#hydrological-tools)
     - Creating a long awaited rainfall/flood simulation application. Status: Completed utilizing Saint-Venant (SWE) momentum, generic parameters, 1 GB DEM limit, imagery or DEM backing, and video clip export. Version 1.0
