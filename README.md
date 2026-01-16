@@ -179,7 +179,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 ## Data Extraction
 * **Google Geolocator** - Interactive geocode location downloader, currently active utilizing Google Cloud API, **Private Website**.
-  * <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Google_Geolocator.png" alt="Ontological Administration" width="40%"> 
+  * <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Google_Geolocator.png" alt="Ontological Administration" width="60%"> 
 * **Advance PDF Utility** - **NEW**, Version 1.1, Fully operation, multi functionality PDF application built for various extractions methods, accessibility checks, and an accompliamnet to Adobe Acrobat. Completed, features include; metadata read/write, bookmarks (links), tag and layers read, language read, scan all hyperlinks, get coordinates, invidible text tags, annotate/comment, PDF mask, PDF/A check, merge PDF, split PDF, mulit-crop, prefomrm OCR page, export PDF to JSON, export all directory PDF to JSON, and extract table. [Download](https://drive.google.com/file/d/1CoMjWirC5Wz-UK3d54ItyJvJg5Gamate/view?usp=sharing)
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Advance%20PDF%20Utility_1.png" alt="Advance PDF Utility" width="50%">
   - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Advance%20PDF%20Utiliity_2.png" alt="Advance PDF Utility" width="50%">
