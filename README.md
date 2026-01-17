@@ -18,11 +18,14 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
-   - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps. [Link](https://www.jmarcelphotography.com/geologygeospatial)
+   - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps. [Link](#geologic-mapping) - [Items](https://www.jmarcelphotography.com/geologygeospatial)
      - **Soils Classification Reference** - A simple reference guide for soils identifcation with engineering aspects included. This webapp will require additional upgrades and improvements, pausing.
-     - **Soil Log Classifier** - An advance web-based field logger that aids in soil sampling, includes a map, import/export options, and auto computated classifications; will change to private soon.
-     - **Geologic Formation Log Classifier** - An advance web-based field logger that helps with nominal limestone, sandstone, mudstone formations, which includes a map, import/export options, and auto computated classifications; will change to private soon.
-     - **Aqueous Log Classifier** - An advance web-based field logger that aids with aqueous sampling, includes a map, import/export options, and auto computated classifications; will change to private soon. 
+     - **Soil Log Classifier** - An advance web-based field logger that aids in soil sampling, includes a map, import/export options, and auto computated classifications; **Private**.
+     - **Geologic Formation Log Classifier** - An advance web-based field logger that helps with nominal limestone, sandstone, mudstone formations, which includes a map, import/export options, and auto computated classifications; **Private**.
+     - **Aqueous Log Classifier** - An advance web-based field logger that aids with aqueous sampling, includes a map, import/export options, and auto computated classifications; **Private**.
+     - **Geologic Borehole/Core Logger** - An advance web-based field logger that aids with boring, core sampling, includes a map, import/export options, and auto computated classifications; **Private**.
+       - **Geologic Traverse/Structure Logger** - An advance web-based field logger that aids with field exploration, includes a map, stereonet, import/export options, and auto computated classifications; **Private**.
+       - **Geologic Sampler/Regolith Manager** - An advance web-based field logger that aids with management of samples/ includes a map, import/export options, and auto computated classifications; **Private**. 
   - **Google Geolocator** - Developed personal geocode location downloader using Google Cloud API (private). [Google Geolocator](#data-extraction)
   - **Mineral-Elements-Commodities** - Template created: [Geologic Mapping](#geologic-mapping)
   - **Historical Weather Explorer** - Developed an interactive historical weather tool that integrates Open-Meteo data with FEMA records. This initial version establishes the core architecture for data acquisition, with future iterations planned to integrate the NOAA Storm Events Database and enhance UI usability. [Link](https://www.jmarcelphotography.com/historical-weather-explorer)
@@ -120,6 +123,8 @@ I'm creating an ontological database that includes terms translations for the pu
 ---
 
 ## Geologic Mapping
+* **Geologic Field Web Applications** - Creation of web-based field applications for various tasks, more descriptions are coming soon. See:
+   * [![Geologic WebApps](https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Geologic%20WebApps_Sample.png)](https://youtu.be/dMSfpp2a7Ms)
 * **Mineral-Elements-Commodities** - Starting a webpage template which will host geologic mineral with elemental information, commodities linkages, and nomimal year data statistics world-wide. Here is the interactive template shown as a screenshot.
   * <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Minerals_Periodic_Table_Reference2.png" alt="Minerals-Elements-Commodities" width="100%"> 
 Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Systems-Geologic-Map-Project/) scheme that incorporates modern standards to better reflect utility infrastructure changes, moving beyond outdated conventional mapping practices. I'll be starting to create digital geological map, including interactive websites and products. The current process is the creation of surface models; 2 of material impervious type (canopy and ground); 2 of elevation type (hillshade and elevation contour). These are fundamental models that will overlay geologic information. I'll be starting with geologic maps in the State of Texas.
