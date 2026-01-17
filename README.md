@@ -123,7 +123,8 @@ I'm creating an ontological database that includes terms translations for the pu
 ---
 
 ## Geologic Mapping
-* **Geologic Field Web Applications** - Creation of web-based field applications for various tasks, more descriptions are coming soon. See:
+* **Geologic Field Web Applications** - Creation of web-based field applications for various tasks, more descriptions are coming soon.
+   * See Video here (click on image):
    * [![Geologic WebApps](https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Geologic%20WebApps_Sample.png)](https://youtu.be/dMSfpp2a7Ms)
 * **Mineral-Elements-Commodities** - Starting a webpage template which will host geologic mineral with elemental information, commodities linkages, and nomimal year data statistics world-wide. Here is the interactive template shown as a screenshot.
   * <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Minerals_Periodic_Table_Reference2.png" alt="Minerals-Elements-Commodities" width="100%"> 
