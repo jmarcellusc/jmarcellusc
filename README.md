@@ -18,7 +18,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
-   - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps.
+   - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps. [Link](https://www.jmarcelphotography.com/geologygeospatial)
      - **Soils Classification Reference** - A simple reference guide for soils identifcation with engineering aspects included. This webapp will require additional upgrades and improvements, pausing.
      - **Soil Log Classifier** - An advance web-based field logger that aids in soil sampling, includes a map, import/export options, and auto computated classifications; will change to private soon.
      - **Geologic Formation Log Classifier** - An advance web-based field logger that helps with nominal limestone, sandstone, mudstone formations, which includes a map, import/export options, and auto computated classifications; will change to private soon.
@@ -38,7 +38,7 @@ Driving software development and data efficiency by enhancing and updating exist
     - **Sulfides/Sulfates DCR Geochem** - Created for the range of elemental sulfur geochemical exploration; **Private**. - [Link](#geologic-mapping)
     - **FGDC Geologic Symbol Reference** - Fast approach on finding correct FGDC coding, under construction. [Link](https://www.jmarcelphotography.com/fgdc-geologic-symbol-reference)
     - **Geo-Coordinator Extractor** - Locate and tag extracting latitudes and longitude using Leaflet, created for Testing. Plans: Several important functionalites in aiding geographic workflows. [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
-  - **Advance PDF Utility** - Completed - A fully functional and essential program that executes multiple PDF-related functions, Information will be updated in a later time. [Data Extraction Toolkits](#data-extraction)
+
 #### <ins>In-Progress</ins>
   - **UPDATING- Lidar Toolkit:** Generating standard DEM production from point-cloud via pipelines:
     - DTM / Bare-earth DEM (Terrain Model) — ground-only terrain surface.
@@ -57,7 +57,9 @@ Driving software development and data efficiency by enhancing and updating exist
   -  **Datasource** Improving the Microsoft Access\Database (High Priority)
   - **LIGARE** - Geological UUID Coder/Decoder (pausing, Low Priority)
   - **A.I. Ollama Dolphin-llama3** - A.I. Development and Research. Created offline ollama LLM on external (with AnythingLLM) but will divert functionality to python programming and iterations. See: [Ollama Connect](#data-extraction)
+
 #### <ins>Updated</ins>
+  - **Advance PDF Utility** - Completed - A fully functional and essential program that executes multiple PDF-related functions, Information will be updated in a later time. [Data Extraction Toolkits](#data-extraction)
    - **Accessibility Web Apps** - Added a series of web applications, several for accessibility requirements, environmental, geological, data processing, surveys, metadata, and others.
     - **Color Palette Architect** - Visual color palette generator with various export options. - [Link](https://www.jmarcelphotography.com/color-palette-architect)
     - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
