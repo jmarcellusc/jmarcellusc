@@ -18,15 +18,24 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
+   - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps.
+     - **Soils Classification Reference** - A simple reference guide for soils identifcation with engineering aspects included. This webapp will require additional upgrades and improvements, pausing.
+     - **Soil Log Classifier** - An advance web-based field logger that aids in soil sampling, includes a map, import/export options, and auto computated classifications; will change to private soon.
+     - **Geologic Formation Log Classifier** - An advance web-based field logger that helps with nominal limestone, sandstone, mudstone formations, which includes a map, import/export options, and auto computated classifications; will change to private soon.
+     - **Aqueous Log Classifier** - An advance web-based field logger that aids with aqueous sampling, includes a map, import/export options, and auto computated classifications; will change to private soon. 
   - **Google Geolocator** - Developed personal geocode location downloader using Google Cloud API (private). [Google Geolocator](#data-extraction)
   - **Mineral-Elements-Commodities** - Template created: [Geologic Mapping](#geologic-mapping)
   - **Historical Weather Explorer** - Developed an interactive historical weather tool that integrates Open-Meteo data with FEMA records. This initial version establishes the core architecture for data acquisition, with future iterations planned to integrate the NOAA Storm Events Database and enhance UI usability. [Link](https://www.jmarcelphotography.com/historical-weather-explorer)
   - **Numerous Web Applications** -  I've created numerous web applications, all with specific tasks in data processing, image extraction, image analysis, and started the foundation of the Geologic Mapping and Minerals Map. All these are found here: [Link](https://www.jmarcelphotography.com/geologygeospatial). Note that ~30% are not being publically shared due to their on-going improvements.
- - **Web Apps** - Added a series of web applications, several for accessibility requirements, environmental, geological, data processing, surveys, metadata, and others.
-    - **Color Palette Architect** - Visual color palette generator with various export options. - [Link](https://www.jmarcelphotography.com/color-palette-architect)
-    - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
-    - **Color Collector** - Pin-point color extraction - [Link](https://www.jmarcelphotography.com/color-collector)
-    - **Color Gradient Architect** - Generates a color trajectory gradient. Plans: Expansion in color ramp production [Link](https://www.jmarcelphotography.com/color-gradient-architect)
+ - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps.
+    - **Geochemical Explorer 1** - Simple major oxides. - [Link](https://www.jmarcelphotography.com/geochemical-explorer)
+    - **Geochemical 2-3** - Major, trace, immoble-alteration, CIPW; **Private**.  - [Link](#geologic-mapping)
+    - **Carbonate Aggregate Geochem** - Tailored to geochemistry of lime/dolostones, v1.1; **Private**. - [Link](#geologic-mapping)
+    - **Siliciclastic Aggregate Geochem** - Created for sandstone/quartz rich aggregates; **Private**. - [Link](#geologic-mapping)
+    - **Economic Aggregates Geochem** - Created for the combination of lime and silica aggregates; **Private**. - [Link](#geologic-mapping)
+    - **Igneous/Volcanics Aggregates Geochem** - Created for the combination of volcanic and igneous aggregates; **Private**. - [Link](#geologic-mapping)
+    - **Clay/Shale/Fines reactivity Geochem** - Created for the combination of shales/clays/fines aggregates; **Private**. - [Link](#geologic-mapping)
+    - **Sulfides/Sulfates DCR Geochem** - Created for the range of elemental sulfur geochemical exploration; **Private**. - [Link](#geologic-mapping)
     - **FGDC Geologic Symbol Reference** - Fast approach on finding correct FGDC coding, under construction. [Link](https://www.jmarcelphotography.com/fgdc-geologic-symbol-reference)
     - **Geo-Coordinator Extractor** - Locate and tag extracting latitudes and longitude using Leaflet, created for Testing. Plans: Several important functionalites in aiding geographic workflows. [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
   - **Advance PDF Utility** - Completed - A fully functional and essential program that executes multiple PDF-related functions, Information will be updated in a later time. [Data Extraction Toolkits](#data-extraction)
@@ -49,6 +58,11 @@ Driving software development and data efficiency by enhancing and updating exist
   - **LIGARE** - Geological UUID Coder/Decoder (pausing, Low Priority)
   - **A.I. Ollama Dolphin-llama3** - A.I. Development and Research. Created offline ollama LLM on external (with AnythingLLM) but will divert functionality to python programming and iterations. See: [Ollama Connect](#data-extraction)
 #### <ins>Updated</ins>
+   - **Accessibility Web Apps** - Added a series of web applications, several for accessibility requirements, environmental, geological, data processing, surveys, metadata, and others.
+    - **Color Palette Architect** - Visual color palette generator with various export options. - [Link](https://www.jmarcelphotography.com/color-palette-architect)
+    - **Color Vision Deficiency Hub** - Targeted color CVD scoring metric - [Link](https://www.jmarcelphotography.com/color-vision-deficiency)
+    - **Color Collector** - Pin-point color extraction - [Link](https://www.jmarcelphotography.com/color-collector)
+    - **Color Gradient Architect** - Generates a color trajectory gradient. Plans: Expansion in color ramp production [Link](https://www.jmarcelphotography.com/color-gradient-architect)
   - **Accessibility Toolkit** - Completed; Standardizing the application suite including map contrast easurement metric. Located under the [Metadata Applications](#metadata-applications)
     - **Web App**: [Image Contrast Accessibility Check](https://www.jmarcelphotography.com/image-contrast-accessibility-check)** - Simple and alternative to the complete local program I'm developing.
     - **Web App**: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score)** - Allows the user to pick color values and check if it meets WCAG requirements.
