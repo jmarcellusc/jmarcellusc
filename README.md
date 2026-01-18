@@ -19,6 +19,7 @@ Driving software development and data efficiency by enhancing and updating exist
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
    - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps. [Link](#geologic-mapping) - [Items](https://www.jmarcelphotography.com/geologygeospatial)
+   - **Geologic Mineral Logger** - Added a minerals logger which can import spectra, here injested from the USGS Spectral Library v7 (after JSON conversion). Due to the large data, the import is an indexdb in which the datafile must be always present at the same location and index is stored in the web browswer. It runs an matching algorithm to a csv imported for the sample. See here: [Link](#geologic-mapping)
      - **Soils Classification Reference** - A simple reference guide for soils identifcation with engineering aspects included. This webapp will require additional upgrades and improvements, pausing.
      - **Soil Log Classifier** - An advance web-based field logger that aids in soil sampling, includes a map, import/export options, and auto computated classifications; **Private**.
      - **Geologic Formation Log Classifier** - An advance web-based field logger that helps with nominal limestone, sandstone, mudstone formations, which includes a map, import/export options, and auto computated classifications; **Private**.
@@ -123,6 +124,9 @@ I'm creating an ontological database that includes terms translations for the pu
 ---
 
 ## Geologic Mapping
+* **Geologic Minerals Logger** - Logs minerals spectral and runs a match to a library database.
+   * See Video here (Click on image)
+   * [![Geologic Minerals Logger](https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Geologic%20Minerals%20Logger.png)](https://youtu.be/4L4YpWtK2Sw)
 * **Geologic Field Web Applications** - Creation of web-based field applications for various tasks, more descriptions are coming soon.
    * See Video here (click on image):
    * [![Geologic WebApps](https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Geologic%20WebApps_Sample.png)](https://youtu.be/dMSfpp2a7Ms)
