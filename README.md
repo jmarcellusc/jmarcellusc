@@ -19,6 +19,7 @@ Driving software development and data efficiency by enhancing and updating exist
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
    - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps. [Link](#geologic-mapping) - [Items](https://www.jmarcelphotography.com/geologygeospatial)
+      - **Spectral Library Manager**  - Added to manage, extract, subset spectral libraries. Included are various analysis methods that can be archived within the library. See: [Youtube](https://youtu.be/yPki8EFPXLQ) 
       - **Geologic Mineral Logger** - Added a minerals logger which can import spectra, here injested from the USGS Spectral Library v7 (after JSON conversion). Due to the large data, the import is an indexdb in which the datafile must be always present at the same location and index is stored in the web browswer. It runs an matching algorithm to a csv imported for the sample. See here: [Link](#geologic-mapping)
      - **Soils Classification Reference** - A simple reference guide for soils identifcation with engineering aspects included. This webapp will require additional upgrades and improvements, pausing.
      - **Soil Log Classifier** - An advance web-based field logger that aids in soil sampling, includes a map, import/export options, and auto computated classifications; **Private**.
