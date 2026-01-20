@@ -18,6 +18,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
+   - **Large Language Model LLM Summarizer** - Added a openai text (from table) analyzer which summarizes the content into decompositional attributes, **Private**. [LLM Data](#data-extraction)
    - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps. [Link](#geologic-mapping) - [Items](https://www.jmarcelphotography.com/geologygeospatial)
       - **Spectral Library Manager**  - Added to manage, extract, subset spectral libraries. Included are various analysis methods that can be archived within the library. See: [Youtube](https://youtu.be/yPki8EFPXLQ) 
       - **Geologic Mineral Logger** - Added a minerals logger which can import spectra, here injested from the USGS Spectral Library v7 (after JSON conversion). Due to the large data, the import is an indexdb in which the datafile must be always present at the same location and index is stored in the web browswer. It runs an matching algorithm to a csv imported for the sample. See here: [Link](#geologic-mapping)
@@ -205,6 +206,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 ## Data Extraction
+* **Large Language Model LLM Summarizer** - Create a webapp using a openai API that analysis text from a table (single column) to generate text decompostion evalutation. See: [LLM Summarizer Example](https://youtu.be/F-V4Z_Y0v7s) 
 * **Google Geolocator** - Interactive geocode location downloader, currently active utilizing Google Cloud API, **Private Website**.
   * <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Google_Geolocator.png" alt="Google Geolocator" width="80%"> 
 * **Advance PDF Utility** - **NEW**, Version 1.1, Fully operation, multi functionality PDF application built for various extractions methods, accessibility checks, and an accompliamnet to Adobe Acrobat. Completed, features include; metadata read/write, bookmarks (links), tag and layers read, language read, scan all hyperlinks, get coordinates, invidible text tags, annotate/comment, PDF mask, PDF/A check, merge PDF, split PDF, mulit-crop, prefomrm OCR page, export PDF to JSON, export all directory PDF to JSON, and extract table. [Download](https://drive.google.com/file/d/1CoMjWirC5Wz-UK3d54ItyJvJg5Gamate/view?usp=sharing)
