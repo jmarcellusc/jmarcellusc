@@ -21,7 +21,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
-   - **USGS Stream Gauge WebApp 1** - Added a USGS stream gauge viewer and analysis web application (currently in review phase and implimenting additional functionalites) more information located in Hydrological Toolkits, see: [YouTube](https://youtu.be/L-j_xlVqbEQ) - [Hydrological Toolkits](#hydrological-tools)
+   - **USGS Stream Gauge WebApp 1** - Added a USGS stream gauge viewer and analysis web application (currently in review phase and implimenting additional functionalites) more information located in Hydrological Toolkits, **Private**; see: [YouTube](https://youtu.be/L-j_xlVqbEQ) - [Hydrological Toolkits](#hydrological-tools)
    - **Large Language Model LLM Summarizer** - Added a openai text (from table) analyzer which summarizes the content into decompositional attributes, **Private**. [LLM Data](#data-extraction)
    - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps. [Link](#geologic-mapping) - [Items](https://www.jmarcelphotography.com/geologygeospatial)
       - **Spectral Library Manager**  - Added to manage, extract, subset spectral libraries. Included are various analysis methods that can be archived within the library. See: [Youtube](https://youtu.be/yPki8EFPXLQ) 
