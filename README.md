@@ -16,8 +16,12 @@ The tools, code, and information in this repository are for **educational and re
 ## Work Synopsis and Table of Contents
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
+
+**NOTICE**: I will updated all Projects; Ongoing, In-Progree, Updated in mid-February, 2026.
+
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
+   - **USGS Stream Gauge WebApp 1** - Added a USGS stream gauge viewer and analysis web application (currently in review phase and implimenting additional functionalites) more information located in Hydrological Toolkits, see: [YouTube](https://youtu.be/L-j_xlVqbEQ) - [Hydrological Toolkits](#hydrological-tools)
    - **Large Language Model LLM Summarizer** - Added a openai text (from table) analyzer which summarizes the content into decompositional attributes, **Private**. [LLM Data](#data-extraction)
    - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps. [Link](#geologic-mapping) - [Items](https://www.jmarcelphotography.com/geologygeospatial)
       - **Spectral Library Manager**  - Added to manage, extract, subset spectral libraries. Included are various analysis methods that can be archived within the library. See: [Youtube](https://youtu.be/yPki8EFPXLQ) 
@@ -228,6 +232,16 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 
 ## Hydrological Tools  
+ - **USGS Stream Gauge WebApp 1** - Added a USGS stream gauge viewer which the user can select either watershed or stream in selection mode, multiple site IDs, and various parameters. I am planning on create a chemistery version for water quality in similar fashion. Analysis includes the following:
+    -   Flow Statiscs:   Metrics computed from USGS Instantaneous Values (IV) in the selected window; timestep may differ by site. Pairwise stats require overlapping timestamps and use nearest-match timestamps (±10 min). CV is suppressed when mean is ~0. Autocorr/flashiness/ramp depend on timestep and noise.
+    - Double Mass Curve (Cumulative QA vs Cumulative QB) - Straight line ⇒ stable proportionality. Slope break ⇒ watershed shift (diversion, land-use, GW/SW coupling).
+    - Flow Duration Curve (FDC) Comparison - Shows % time flow is exceeded. Use Q/A normalization to compare runoff efficiency & storage.
+    - Lag-Time vs Rain Peak (Time of Concentration Proxy) - Compares how quickly each gauge peaks after a rain event (needs precip 00045 in the current payload).
+    - Baseflow Separation (RDF) + Baseflow Index (BFI) - Uses Recursive Digital Filtering to split stormflow (high-frequency) from baseflow (low-frequency). Compare BFI and (optionally) baseflow yield (baseflow/area).
+    - Master Recession Curve (MRC) + Recession Constant (k) - Finds falling-limb segments during low/no precipitation and fits Q(t)=Q0e-kt. Smaller k ⇒ slower recession ⇒ more storage/stronger groundwater support.
+    - Water Table Fluctuation (WTF) Proxy - Paste a nearby monitoring well hydrograph (datetime, head). Compute recharge proxy R = Sy·Δh and correlate with stream baseflow. (This is a proxy; consistent units are required.)
+    - Reach-Scale Statistical Tests (00060) - Wilcoxon Signed-Rank (paired) tests whether upstream vs downstream daily/interval flows differ. MOVE.1 fills missing values in one gauge using the other (log-space), so comparisons use the same climatic period. Daily mean is computed from loaded IV points (not NWIS daily service).
+    -  [![USGS Stream Gauge 1](https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/USGS_Stream_Gauge_1_webapp.png)](https://youtu.be/L-j_xlVqbEQ)
  - **Rain-Flood Simulation** - Version 1.0, Rainfall/Flood simulation application completed. Future plans of main platform modification and introduction of advanced options.
  - Algorithm updated, stable, and working on test.
    - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/RainFloodSimulation.png" alt="RainFlood Simulation Application" width="50%">
