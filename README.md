@@ -24,8 +24,8 @@ Driving software development and data efficiency by enhancing and updating exist
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
    - **Data Extraction Utilities**  - See: [YouTube](https://youtu.be/m7HHnowM2po)
-      - **PDF OCR Form Extractor** - Added a web application that will extract multiple forms to table (user define with multiple templates, uses a private PDF OCR API) Private
-      - **PDF OCR Table Extractor** - Added a web application that extracts a table (user defined with multiple templates, uses a private PDF OCR API) Private. This tool requires updating to extract multiple tables but current runs with one table extract.
+      - **PDF OCR Form Extractor** - Added a web application that will extract multiple forms to table (user define with multiple templates, uses a private PDF OCR API), **Private**.
+      - **PDF OCR Table Extractor** - Added a web application that extracts a table (user defined with multiple templates, uses a private PDF OCR API), **Private**. This tool requires updating to extract multiple tables but current runs with one table extract.
    - **Petrological Mineral Section Logger** - Added a new geological web app that drastically helps mineral thin section analysis with a point-counting summary. I will later create an "*Analysis" web app to accompany mineralogical and petrological documentation. See: [YouTube](https://youtu.be/p0LR213eUY0) 
    - **USGS Stream Gauge WebApp 1** - Added a USGS stream gauge viewer and analysis web application (currently in review phase and implimenting additional functionalites) more information located in Hydrological Toolkits, **Private**; see: [YouTube](https://youtu.be/L-j_xlVqbEQ) - [Hydrological Toolkits](#hydrological-tools)
    - **Large Language Model LLM Summarizer** - Added a openai text (from table) analyzer which summarizes the content into decompositional attributes, **Private**. [LLM Data](#data-extraction)
