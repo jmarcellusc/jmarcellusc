@@ -8,7 +8,7 @@
 ## About Me
 A Geospatial Data Scientist and Researcher dedicated to advancing geologic and environmental sciences through rigorous statistical modeling. Specializing in the architecture of automated data pipelines, I have engineered high-efficiency toolkits and scientific scripts that have significantly accelerated data processing workflows since 2023. Currently pursuing advanced studies at the University of Texas at San Antonio (UTSA) and holding a Graduate Certificate in GIS, I bridge the gap between raw Earth observations and actionable scientific insights. Beyond the data, I capture the world through the lens of amateur photography, showcasing work at [jmarcelphotography.com](https://www.jmarcelphotography.com/). 
 
-* Web Applications are located here: [jmarcelphotography.com](https://www.jmarcelphotography.com/geologygeospatial). 
+* Web Applications are located here: [jmarcelphotography.com/geologygeospatial](https://www.jmarcelphotography.com/geologygeospatial). 
 
 ### Disclaimer
 The tools, code, and information in this repository are for **educational and research purposes only** and are not intended for commercial use or production environments. All content is provided "as-is" without warranty. Users assume full responsibility for compliance with local laws and third-party terms of service.
