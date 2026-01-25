@@ -21,6 +21,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
+   - **Petrological Mineral Section Logger** - Added a new geological web app that drastically helps mineral thin section analysis with a point-counting summary. I will later create an "*Analysis" web app to accompany mineralogical and petrological documentation. See: [YouTube](https://youtu.be/p0LR213eUY0) 
    - **USGS Stream Gauge WebApp 1** - Added a USGS stream gauge viewer and analysis web application (currently in review phase and implimenting additional functionalites) more information located in Hydrological Toolkits, **Private**; see: [YouTube](https://youtu.be/L-j_xlVqbEQ) - [Hydrological Toolkits](#hydrological-tools)
    - **Large Language Model LLM Summarizer** - Added a openai text (from table) analyzer which summarizes the content into decompositional attributes, **Private**. [LLM Data](#data-extraction)
    - **Geochemical Web Apps** - Added a series of geochemistry and geology field webapps. [Link](#geologic-mapping) - [Items](https://www.jmarcelphotography.com/geologygeospatial)
@@ -131,6 +132,7 @@ I'm creating an ontological database that includes terms translations for the pu
 
 ## Geologic Mapping
 * **Geologic Minerals Logger** - Logs minerals spectral and runs a match to a library database.
+   * **Petrological Mineral Section Logger** - Currently reviewing web application for improvements, see: [YouTube](https://youtu.be/p0LR213eUY0)   
    * See Video here (Click on image)
    * [![Geologic Minerals Logger](https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Geologic%20Minerals%20Logger.png)](https://youtu.be/4L4YpWtK2Sw)
 * **Geologic Field Web Applications** - Creation of web-based field applications for various tasks, more descriptions are coming soon.
