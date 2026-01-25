@@ -1,12 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmarcellusc&label=Profile%20views&color=0e75b6&style=flat" alt="jmarcellusc" /> </p>
 
 <h1 align="center">Juan Marcel Campos</h1>
-<h4 align="center"> ⇨ Geology and Geospatial Data Science</h4>
+<h4 align="center"> ⇨ Geology, Cartography,  and Geospatial Data Science</h4>
 <h6 align="right">Page Updated on January, 2026</h6>
 
 ---
 ## About Me
 A Geospatial Data Scientist and Researcher dedicated to advancing geologic and environmental sciences through rigorous statistical modeling. Specializing in the architecture of automated data pipelines, I have engineered high-efficiency toolkits and scientific scripts that have significantly accelerated data processing workflows since 2023. Currently pursuing advanced studies at the University of Texas at San Antonio (UTSA) and holding a Graduate Certificate in GIS, I bridge the gap between raw Earth observations and actionable scientific insights. Beyond the data, I capture the world through the lens of amateur photography, showcasing work at [jmarcelphotography.com](https://www.jmarcelphotography.com/). 
+
 Web Applications are located here: [jmarcelphotography.com](https://www.jmarcelphotography.com/geologygeospatial). 
 
 ### Disclaimer
