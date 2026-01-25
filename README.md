@@ -1,12 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmarcellusc&label=Profile%20views&color=0e75b6&style=flat" alt="jmarcellusc" /> </p>
 
 <h1 align="center">Juan Marcel Campos</h1>
-<h4 align="center"> ⇨ Geosciences, Cartography, Remote Sensing, Statistics, and Data Analyst</h4>
+<h4 align="center"> ⇨ Geology and Geospatial Data Science</h4>
 <h6 align="right">Page Updated on January, 2026</h6>
 
 ---
 ## About Me
-A Geospatial and Data Analytics Researcher focused on driving scientific progress in geologic, environmental, and statistical domains. This researcher specializes in developing and optimizing efficient data pipelines, having significantly streamlined numerous processing methods, toolkits, and scientific scripts since 2023 to enhance overall data efficiency. This individual is a student at the University of Texas at San Antonio (UTSA), holding a prior Graduate Certificate in GIS. Outside of academic pursuits, they are an amateur photographer, showcasing work at [jmarcelphotography.com](https://www.jmarcelphotography.com/).  
+A Geospatial Data Scientist and Researcher dedicated to advancing geologic and environmental sciences through rigorous statistical modeling. Specializing in the architecture of automated data pipelines, I have engineered high-efficiency toolkits and scientific scripts that have significantly accelerated data processing workflows since 2023. Currently pursuing advanced studies at the University of Texas at San Antonio (UTSA) and holding a Graduate Certificate in GIS, I bridge the gap between raw Earth observations and actionable scientific insights. Beyond the data, I capture the world through the lens of amateur photography, showcasing work at [jmarcelphotography.com](https://www.jmarcelphotography.com/). 
+Web Applications are located here: [jmarcelphotography.com](https://www.jmarcelphotography.com/geologygeospatial). 
 
 ### Disclaimer
 The tools, code, and information in this repository are for **educational and research purposes only** and are not intended for commercial use or production environments. All content is provided "as-is" without warranty. Users assume full responsibility for compliance with local laws and third-party terms of service.
