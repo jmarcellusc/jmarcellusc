@@ -206,12 +206,9 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 ## Classification Toolkits
 * **Google Earth Engine Random Forest Semi-Application**- The reason this can't become a full application is how the platform handles saving and resuming from progress. Neverthless, this semi-application is a powerful random forest engine with various of options. This code is tailored to the USGS National Land Cover Dataset (but can be customize to any means).
-  - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Google%20Earth%20Engine%20-%20Random%20Forest%20Application.jpg" alt="Google Earth Engine Random Forest Semi-Application" width="50%">
    * **METHOD:**  Introduction of AplhaEarth's Google Deep AI Imagery
    * **METHOD:**  Efficient approach in processing random forest of 3 moasic image periods, multistack
      * Example: GEE SMILE Random Forest classification, similar NLCD classification. 
-[![GEE Random Forest Classifier Example](https://imgur.com/jq49KYW.png)](https://youtu.be/KmfPY4PzZ20)
-
 #### [Return to Work Synopsis & Table of Contents](#work-synopsis-and-table-of-contents)
 ---
 
