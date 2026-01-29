@@ -23,6 +23,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
+   - **USGS Earthquake Explorer** - Created and includes XY Analytics with Gutenberg-Ricther summary statistics and GK declustering. 
    - **Data Extraction Utilities**  - See: [YouTube](https://youtu.be/m7HHnowM2po)
       - **PDF OCR Form Extractor** - Added a web application that will extract multiple forms to table (user define with multiple templates, uses a private PDF OCR API), **Private**.
       - **PDF OCR Table Extractor** - Added a web application that extracts a table (user defined with multiple templates, uses a private PDF OCR API), **Private**. This tool requires updating to extract multiple tables but current runs with one table extract.
