@@ -19,11 +19,11 @@ The tools, code, and information in this repository are for **educational and re
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
 
-**NOTICE**: I will updated all Projects; Ongoing, In-Progress, Updated in mid-February, 2026.
+**NOTICE**: I will updated all Projects; Ongoing, In-Progress, Updated in mid-February, 2026. Most applications are private until a solution is created to run middle service between the front-end and service code.
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
-   - **USGS Earthquake Explorer** - Created and includes XY Analytics with Gutenberg-Ricther summary statistics and GK declustering. 
+   - **USGS Earthquake Explorer** - Created and includes XY Analytics with Gutenberg-Ricther summary statistics and GK declustering. [YouTube](https://youtu.be/PFQEUSZwfWc)
    - **Data Extraction Utilities**  - See: [YouTube](https://youtu.be/m7HHnowM2po)
       - **PDF OCR Form Extractor** - Added a web application that will extract multiple forms to table (user define with multiple templates, uses a private PDF OCR API), **Private**.
       - **PDF OCR Table Extractor** - Added a web application that extracts a table (user defined with multiple templates, uses a private PDF OCR API), **Private**. This tool requires updating to extract multiple tables but current runs with one table extract.
