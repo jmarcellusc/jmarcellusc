@@ -23,6 +23,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
+   - **USGS Geologic Digital Reference** - Created as an efficient method to query USGS Topographic and geological maps or reports. In addition, Marcrostrat geologic information is populated at the location point.  [YouTube](https://youtu.be/wsRAEh24utE)
    - **USGS Earthquake Explorer** - Created and includes XY Analytics with Gutenberg-Ricther summary statistics and GK declustering. [YouTube](https://youtu.be/PFQEUSZwfWc)
    - **Data Extraction Utilities**  - See: [YouTube](https://youtu.be/m7HHnowM2po)
       - **PDF OCR Form Extractor** - Added a web application that will extract multiple forms to table (user define with multiple templates, uses a private PDF OCR API), **Private**.
