@@ -23,6 +23,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
+   - **Three Dimensional Explorer** - Under development and working on advance improvements; see: [YouTube](https://youtu.be/XcgFdxghfgY)
    - **Texas Data Repository Downloader** - Created executable to automatically download a user input search and aquires all datasets. Requires the TDR account and API key. [Download](https://www.dropbox.com/scl/fi/7klxkbykw65our8svdz0j/Texas-Data-Repo_Download-v1.zip?rlkey=kxy8xxtngoxpjw0x8yminq8rp&st=fraxquv9&dl=0)
    - **USGS Geologic Digital Reference** - Created as an efficient method to query USGS Topographic and geological maps or reports. In addition, Marcrostrat geologic information is populated at the location point.  [YouTube](https://youtu.be/wsRAEh24utE)
    - **USGS Earthquake Explorer** - Created and includes XY Analytics with Gutenberg-Ricther summary statistics and GK declustering. [YouTube](https://youtu.be/PFQEUSZwfWc)
