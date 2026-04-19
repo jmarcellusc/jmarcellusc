@@ -265,7 +265,7 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 
 ## Machine Learning Applications and Imagery Processors
 ### Imagery Processing
-**Imagery Processor Lite v1.5** - Ongoing imagery functions (lite version) but now includes the following kites:
+**Imagery Processor Lite v1.5** - Ongoing imagery functions[Lite Version 1.5](https://www.dropbox.com/scl/fi/rco37ygm7jga8qnvj4tcl/Imagery-Processor-Lite-v1.5.zip?rlkey=xzd6tlncf0xni954ijq1e9m16&st=x6h9lyp3&dl=0) but now includes the following kits:
    - Hillshades (corrections)
       - Horn's Method
       - Multidirectional
