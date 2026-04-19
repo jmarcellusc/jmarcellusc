@@ -19,10 +19,12 @@ The tools, code, and information in this repository are for **educational and re
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
 
-**NOTICE**: I will updated all Projects; Ongoing, In-Progress, Updated in March, 2026. Most applications are private until a solution is created to run middle service between the front-end and service code.
+**NOTICE**: Its been a while and I have alot of updating to do since I've been concentrated on my full-time work. I will try to complete a new refresh by July.2026. 
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
+   - **Lithology Outcrop Web Application** - Created, pending inital documentation.
+   - **Imagery Processor Lite v1.5** - Replaces the older version with bug fixes, algorithm updates and includes several new products. Falls under machine learning category, Please see here: [Imagery Processor v1.5](#machine-learning-applications-and-imagery-processors)
    - **USGS Earthquake Explorer v2** - Updates the previous existing toolkit, see: [YouTube](https://youtu.be/KLx8t9TsZlU)
    - **Three Dimensional Explorer** - Under development and working on advance improvements; see: [YouTube](https://youtu.be/XcgFdxghfgY)
    - **Texas Data Repository Downloader** - Created executable to automatically download a user input search and aquires all datasets. Requires the TDR account and API key. [Download](https://www.dropbox.com/scl/fi/7klxkbykw65our8svdz0j/Texas-Data-Repo_Download-v1.zip?rlkey=kxy8xxtngoxpjw0x8yminq8rp&st=fraxquv9&dl=0)
@@ -91,7 +93,7 @@ Driving software development and data efficiency by enhancing and updating exist
     - **Web App**: [APCA (Lc Score) Check](https://www.jmarcelphotography.com/apca-lc-score)** - Allows the user to pick color values and check if it meets WCAG requirements.
   - **Advance Conda Management** - **UPDATED**, Verion 1.1 (v1a.exe) Posted here: [Link](#data-extraction)- Caution in usage, please read Disclaimer Information.
   - **LIGARE Toolkit** Older verion 1.3 is posted here: [Geometric Series](#geometric-series) but plans of improvement are in development.
-  - **Imagery Sensing Toolkit** (Advance Update: Includes the remaining DEM processes and geomorphometric applications) - [Version v1.2](#machine-learning-applications)
+  - **Imagery Sensing Toolkit** (Advance Update: Includes the remaining DEM processes and geomorphometric applications) - [Version v1.2](#machine-learning-applications-and-imagery-processors)
   - **Earth Systems Geologic Mapping Project** - REQUIRED: Refining Datasource & Citation Database: [New Geological Mapping Project](#geologic-mapping)
   - **Ontological Database** - REQUIRED: Batch importation and External database connection (GIS):  [Ontolgical Database Schema Project](#ontological-database)
   - **Data Extraction Toolkits** - RECENT: Updated A.I. Prompt Toolkit: [Data Extraction Toolkits](#data-extraction)
@@ -261,7 +263,31 @@ Implementing a [New Geologic Mapping](https://github.com/jmarcellusc/Earth-Syste
 ---
 
 
-## Machine Learning Applications
+## Machine Learning Applications and Imagery Processors
+### Imagery Processing
+**Imagery Processor Lite v1.5** - Ongoing imagery functions (lite version) but now includes the following kites:
+   - Hillshades (corrections)
+      - Horn's Method
+      - Multidirectional
+      - Ambient Occlusion
+      - Slope-Weighted Multi-Directional Ambient Occlusion
+      - Slope-Weighted Illuminated Corrected
+      - Sky-View Factor Parallel
+   - Slope (corrections, some functions removed for Lite verison)
+      - Slope 4-Cell
+      - Slope (N-S Best Fit) Gradient
+      - Slope (4,8, Weigted Point) Gradient
+   - Relief (NEW)
+      - Red Image Map (Method 1)
+      - Red Relief Image Map (Method 2)
+      - Local Relief Model
+   - Geometry Footrpints
+      - Raster Bounds
+      - Raster Data Envelope
+      - Raster Grid
+      - Raster Tile Index
+      - Clip by Polygons
+     
 ### Imagery Sensing Toolkit 
 **Version v1.2** - Introduced: Additional DEM applications such as hillshades, aspects, and curvatures. Also includes several geomorphometry functions from great authors such as Florinsky, Evans, Woods, Jarosław Jasiewicz, and Tomasz F. Stepinski. Improve file and directory picker. Toolkit needs refinement and review on several hard coded parameters (requires the user to input their values), append advance SAR applications, and to include updating several names.
 - <img src="https://github.com/jmarcellusc/jmarcellusc/blob/main/Images/Imagery%20Sensing%20Toolkit_V1_2.png" alt="Imagery Sensing Toolkit" width="50%">
