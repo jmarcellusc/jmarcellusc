@@ -19,10 +19,11 @@ The tools, code, and information in this repository are for **educational and re
 Driving software development and data efficiency by enhancing and updating existing codes and toolkits across platforms, including ESRI (GIS), native Python, and VBA (Excel/Access). This optimization improves functionality, streamlines workflows for geologic mapping and remote sensing projects, and incorporates advanced techniques like machine learning while ensuring compatibility with the latest industry standards
 
 
-**NOTICE**: Its been a while and I have alot of updating to do since I've been concentrated on my full-time work. I will try to complete a new refresh by July.2026. 
+**NOTICE**: Its been a while and I have alot of updating to do since I've been concentrated on my full-time work. I will try to complete a new refresh by October 2026. 
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
+   - **NEW Color Decoder Web Application** - Created to better identify color references on geologic or soil samples. [Color Decoder](https://www.jmarcelphotography.com/color-decoder)
    - **Lithology Outcrop Web Application** - Created, pending inital documentation.
    - **Imagery Processor Lite v1.5** - Replaces the older version with bug fixes, algorithm updates and includes several new products. Falls under machine learning category, Please see here: [Imagery Processor v1.5](#machine-learning-applications-and-imagery-processors)
    - **USGS Earthquake Explorer v2** - Updates the previous existing toolkit, see: [YouTube](https://youtu.be/KLx8t9TsZlU)
