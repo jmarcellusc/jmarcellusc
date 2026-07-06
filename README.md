@@ -32,7 +32,7 @@ Driving software development and data efficiency by enhancing and updating exist
    - **NEW: Color Decoder Web Application** - Created to better identify color references on geologic or soil samples. [Color Decoder](https://www.jmarcelphotography.com/color-decoder)
 
 
-### <ins>Recent</ins>
+#### <ins>Recent</ins>
    - **Lithology Outcrop Web Application** - Created, pending inital documentation.
    - **Imagery Processor Lite v1.5** - Replaces the older version with bug fixes, algorithm updates and includes several new products. Falls under machine learning category, Please see here: [Imagery Processor v1.5](#machine-learning-applications-and-imagery-processors)
    - **USGS Earthquake Explorer v2** - Updates the previous existing toolkit, see: [YouTube](https://youtu.be/KLx8t9TsZlU)
