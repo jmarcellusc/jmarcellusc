@@ -23,11 +23,14 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
-   - **NEW Wetland Detector** - incredible program that identifies 'ponding' of water based on several complex parameters. This project will be extended to futher hydrological analysis.  
-   - **NEW Red Relief Image Maps - MPI + Stereo and Anaglyph** - programs and processes created, with stereo imagery, you can use red/blue glasses to view elevation data in 3D or use dual monitors to view 3D imagery.
-   - **NEW Aeromagnetic Interpertation Website** - Created and updating an aeromagnetics website for faster operability researching magnetic survey data. [See demo](https://youtu.be/sF5du_I8k_s)
-   - **NEW Aeromagnetics Studio and Studio Analysis** - Created and updating an aeromagnetics coded program that allows processing and derivative product delivery of aeromagnetic surveys. Here is the ["Studio"](https://youtube.com/shorts/CKTsc0tabr0?feature=share) which allows raw data processing.
-   - **NEW Color Decoder Web Application** - Created to better identify color references on geologic or soil samples. [Color Decoder](https://www.jmarcelphotography.com/color-decoder)
+   - **NEW: Wetland Detector** - incredible program that identifies 'ponding' of water based on several complex parameters. This project will be extended to futher hydrological analysis.  
+   - **NEW: Red Relief Image Maps - MPI + Stereo and Anaglyph** - programs and processes created, with stereo imagery, you can use red/blue glasses to view elevation data in 3D or use dual monitors to view 3D imagery.
+   - **NEW: Aeromagnetic Interpertation Website** - Created and updating an aeromagnetics website for faster operability researching magnetic survey data. [See demo](https://youtu.be/sF5du_I8k_s)
+   - **NEW: Aeromagnetics Studio and Studio Analysis** - Created and updating an aeromagnetics coded program that allows processing and derivative product delivery of aeromagnetic surveys. Here is the ["Studio"](https://youtube.com/shorts/CKTsc0tabr0?feature=share) which allows raw data processing.
+   - **NEW: Color Decoder Web Application** - Created to better identify color references on geologic or soil samples. [Color Decoder](https://www.jmarcelphotography.com/color-decoder)
+
+
+### <ins>Recent</ins>
    - **Lithology Outcrop Web Application** - Created, pending inital documentation.
    - **Imagery Processor Lite v1.5** - Replaces the older version with bug fixes, algorithm updates and includes several new products. Falls under machine learning category, Please see here: [Imagery Processor v1.5](#machine-learning-applications-and-imagery-processors)
    - **USGS Earthquake Explorer v2** - Updates the previous existing toolkit, see: [YouTube](https://youtu.be/KLx8t9TsZlU)
