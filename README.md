@@ -22,6 +22,8 @@ Driving software development and data efficiency by enhancing and updating exist
 **NOTICE**: Its been a while and I have alot of updating to do since I've been concentrated on my full-time work. I will try to complete a new refresh by October 2026. 
 
 ### <mark>Ongoing Projects</mark>
+
+
 #### <ins>New</ins>
    - **NEW: Wetland Detector** - incredible program that identifies 'ponding' of water based on several complex parameters. This project will be extended to futher hydrological analysis.  
    - **NEW: Red Relief Image Maps - MPI + Stereo and Anaglyph** - programs and processes created, with stereo imagery, you can use red/blue glasses to view elevation data in 3D or use dual monitors to view 3D imagery.
