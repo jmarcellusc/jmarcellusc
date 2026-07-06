@@ -23,6 +23,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 ### <mark>Ongoing Projects</mark>
 #### <ins>New</ins>
+   - **NEW Aeromagnetics Studio and Studio Analysis** - Creating and updating aeromagnetics coded program that allows processing and derivative product delivery of aeromagnetic surveys. Here is the ["Studio"](https://youtube.com/shorts/CKTsc0tabr0?feature=share) which allows raw data processing.
    - **NEW Color Decoder Web Application** - Created to better identify color references on geologic or soil samples. [Color Decoder](https://www.jmarcelphotography.com/color-decoder)
    - **Lithology Outcrop Web Application** - Created, pending inital documentation.
    - **Imagery Processor Lite v1.5** - Replaces the older version with bug fixes, algorithm updates and includes several new products. Falls under machine learning category, Please see here: [Imagery Processor v1.5](#machine-learning-applications-and-imagery-processors)
