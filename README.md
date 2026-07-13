@@ -25,6 +25,7 @@ Driving software development and data efficiency by enhancing and updating exist
 
 
 #### <ins>New</ins>
+   - **NEW: CAMPOS GNSS Console - Platform Website** -fully functional GNSS data collector with various methods of survey point, line, and elevation capture. See: (see link)[https://www.linkedin.com/posts/juan-marcel-c-3566052a8_gnss-gps-gis-ugcPost-7482108774426648576-xxkf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEog67IBqk6ZCVFlEwznDR7buCvH9lgSdZs]
    - **NEW: ERT Interpertation Platform Website** - fully functional ERT processing website that will accept various ERT systems (currently programmed for .stg files).
    - **NEW: Wetland Detector** - incredible program that identifies 'ponding' of water based on several complex parameters. This project will be extended to futher hydrological analysis.  
    - **NEW: Red Relief Image Maps - MPI + Stereo and Anaglyph** - programs and processes created, with stereo imagery, you can use red/blue glasses to view elevation data in 3D or use dual monitors to view 3D imagery.
