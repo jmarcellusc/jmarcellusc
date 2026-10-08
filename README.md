@@ -25,13 +25,12 @@ Driving software development and data efficiency by enhancing and updating exist
 
 
 #### <ins>New</ins>
+   - **UPDATED: Aeromagnetics Interpretation Web Application** - is a web-based geophysical platform for aeromagnetic data processing, visualization, and interpretation. It integrates GIS mapping, magnetic transformations, spectral analysis, structural interpretation, anomaly detection, geological profiling, and scientific data exports. Here is the ["Studio"](https://youtu.be/r9Id7Bn-6_4))
    - **UPDATED: Map Neatline Toolkit** -mutiple improvements: gridded version, autodetection of hemisphere, corrections to processes, input updates. Updated by popular demand (myself), this version 4.2 will improve your idea of what a rectangle really is. [Link](https://www.dropbox.com/scl/fi/tflazuzs75u2nah0zo60c/Map-Neatline-Tool-Public.zip?rlkey=fbbbf66shwcul36ent0o0329u&st=m0g6ykq1&dl=0)
    - **NEW: CAMPOS GNSS Console - Platform Website** -fully functional GNSS data collector with various methods of survey point, line, and elevation capture. See: [see link](https://www.linkedin.com/posts/juan-marcel-c-3566052a8_gnss-gps-gis-ugcPost-7482108774426648576-xxkf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEog67IBqk6ZCVFlEwznDR7buCvH9lgSdZs)
    - **NEW: ERT Interpertation Platform Website** - fully functional ERT processing website that will accept various ERT systems (currently programmed for .stg files).
    - **NEW: Wetland Detector** - incredible program that identifies 'ponding' of water based on several complex parameters. This project will be extended to futher hydrological analysis.  
    - **NEW: Red Relief Image Maps - MPI + Stereo and Anaglyph** - programs and processes created, with stereo imagery, you can use red/blue glasses to view elevation data in 3D or use dual monitors to view 3D imagery.
-   - **NEW: Aeromagnetic Interpertation Website** - Created and updating an aeromagnetics website for faster operability researching magnetic survey data. [See demo](https://youtu.be/sF5du_I8k_s)
-   - **NEW: Aeromagnetics Studio and Studio Analysis** - Created and updating an aeromagnetics coded program that allows processing and derivative product delivery of aeromagnetic surveys. Here is the ["Studio"](https://youtube.com/shorts/CKTsc0tabr0?feature=share) which allows raw data processing.
    - **NEW: Color Decoder Web Application** - Created to better identify color references on geologic or soil samples. [Color Decoder](https://www.jmarcelphotography.com/color-decoder)
 
 
